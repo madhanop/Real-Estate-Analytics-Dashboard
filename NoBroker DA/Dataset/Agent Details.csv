@@ -1,0 +1,3001 @@
+agent_id,agent_name,contact_number,agency_name,experience_years,booking_id
+A001,Merle Ingram,6382749878,Prime Realty,4,B001
+A002,John Mayes,6382749879,Elite Property Solutions,6,B002
+A003,Carlos Wille,6382749880,Urban Nest Realty,6,B003
+A004,Michael Bryant,6382749881,Dream Homes Agency,6,B004
+A005,Paula Douglas,6382749882,Golden Key Realty,3,B005
+A006,Michael Irving,6382749883,SmartSpace Properties,3,B006
+A007,Marcelle Campbell,6382749884,Horizon Realty Group,3,B007
+A008,Glenda Leal,6382749885,BlueStone Estates,3,B008
+A009,Walter Williams,6382749886,Landmark Realty,4,B009
+A010,Vanessa Songer,6382749887,CityScape Properties,3,B010
+A011,Caitlin Mayhugh,6382749888,Prime Realty,3,B011
+A012,Peter Paris,6382749889,Elite Property Solutions,4,B012
+A013,Lionel Elsea,6382749890,Urban Nest Realty,5,B013
+A014,Alice Elvin,6382749891,Dream Homes Agency,3,B014
+A015,Carolyn Bell,6382749892,Golden Key Realty,4,B015
+A016,Robert Stewart,6382749893,SmartSpace Properties,6,B016
+A017,Josefina Johnson,6382749894,Horizon Realty Group,6,B017
+A018,Mary Abraham,6382749895,BlueStone Estates,4,B018
+A019,Charles Williams,6382749896,Landmark Realty,3,B019
+A020,Michael Mccombs,6382749897,CityScape Properties,6,B020
+A021,Janeen Crume,6382749898,Prime Realty,5,B021
+A022,Delores Parrish,6382749899,Elite Property Solutions,5,B022
+A023,Jim Blue,6382749900,Urban Nest Realty,6,B023
+A024,Anthony Galvan,6382749901,Dream Homes Agency,4,B024
+A025,Gregory Watts,6382749902,Golden Key Realty,5,B025
+A026,Susan Kim,6382749903,SmartSpace Properties,6,B026
+A027,Virginia Jean,6382749904,Horizon Realty Group,6,B027
+A028,Latosha Steiner,6382749905,BlueStone Estates,4,B028
+A029,Nathanael Nielsen,6382749906,Landmark Realty,3,B029
+A030,Ricky Tizon,6382749907,CityScape Properties,5,B030
+A031,Doris Ardon,6382749908,Prime Realty,5,B031
+A032,Elaine Pryor,6382749909,Elite Property Solutions,3,B032
+A033,Craig Nelson,6382749910,Urban Nest Realty,5,B033
+A034,Estella Bynum,6382749911,Dream Homes Agency,4,B034
+A035,William Atherton,6382749912,Golden Key Realty,4,B035
+A036,Joseph Brown,6382749913,SmartSpace Properties,4,B036
+A037,Eric Brund,6382749914,Horizon Realty Group,3,B037
+A038,Deon Kidd,6382749915,BlueStone Estates,6,B038
+A039,Lisa Morris,6382749916,Landmark Realty,5,B039
+A040,Jay Anderson,6382749917,CityScape Properties,5,B040
+A041,Lindsey Davila,6382749918,Prime Realty,6,B041
+A042,Robert Boynton,6382749919,Elite Property Solutions,6,B042
+A043,Gregory Stumpff,6382749920,Urban Nest Realty,5,B043
+A044,Carol Waugh,6382749921,Dream Homes Agency,3,B044
+A045,John Bain,6382749922,Golden Key Realty,3,B045
+A046,Christopher Harris,6382749923,SmartSpace Properties,3,B046
+A047,Carla Ranieri,6382749924,Horizon Realty Group,4,B047
+A048,Nathan Gonzalez,6382749925,BlueStone Estates,4,B048
+A049,Betty Sellner,6382749926,Landmark Realty,6,B049
+A050,Maria Isch,6382749927,CityScape Properties,4,B050
+A051,Jeremy Primus,6382749928,Prime Realty,6,B051
+A052,Tammy Alvarado,6382749929,Elite Property Solutions,6,B052
+A053,Kathleen Conner,6382749930,Urban Nest Realty,5,B053
+A054,Michael Cantrell,6382749931,Dream Homes Agency,6,B054
+A055,William Lopez,6382749932,Golden Key Realty,6,B055
+A056,Christine Carnevale,6382749933,SmartSpace Properties,5,B056
+A057,Elizabeth Preister,6382749934,Horizon Realty Group,6,B057
+A058,Mary Tillman,6382749935,BlueStone Estates,6,B058
+A059,Matthew Womack,6382749936,Landmark Realty,4,B059
+A060,Patrick Gaylord,6382749937,CityScape Properties,3,B060
+A061,Carson Hess,6382749938,Prime Realty,4,B061
+A062,Paula Linke,6382749939,Elite Property Solutions,6,B062
+A063,Cathy Griffin,6382749940,Urban Nest Realty,3,B063
+A064,Margaret Towne,6382749941,Dream Homes Agency,5,B064
+A065,Guillermo Daniels,6382749942,Golden Key Realty,6,B065
+A066,Terry Parks,6382749943,SmartSpace Properties,3,B066
+A067,Curtis Matney,6382749944,Horizon Realty Group,3,B067
+A068,Raleigh Holmes,6382749945,BlueStone Estates,3,B068
+A069,James Saleado,6382749946,Landmark Realty,5,B069
+A070,Brian Ferris,6382749947,CityScape Properties,4,B070
+A071,Patricia Tuplano,6382749948,Prime Realty,4,B071
+A072,Robert Jaynes,6382749949,Elite Property Solutions,5,B072
+A073,Pilar Brittain,6382749950,Urban Nest Realty,4,B073
+A074,Enrique Daugherty,6382749951,Dream Homes Agency,3,B074
+A075,Amy Kennedy,6382749952,Golden Key Realty,3,B075
+A076,Rosalyn Wright,6382749953,SmartSpace Properties,5,B076
+A077,Mark Scott,6382749954,Horizon Realty Group,6,B077
+A078,Mark Turner,6382749955,BlueStone Estates,5,B078
+A079,Laura Ortiz,6382749956,Landmark Realty,5,B079
+A080,Irvin Hubbard,6382749957,CityScape Properties,3,B080
+A081,Robert Danielson,6382749958,Prime Realty,4,B081
+A082,Edgar Salinas,6382749959,Elite Property Solutions,4,B082
+A083,Jeremy Thompson,6382749960,Urban Nest Realty,5,B083
+A084,Lee Manning,6382749961,Dream Homes Agency,3,B084
+A085,Jennifer Herrera,6382749962,Golden Key Realty,5,B085
+A086,Ryan Hand,6382749963,SmartSpace Properties,4,B086
+A087,Freddie Smith,6382749964,Horizon Realty Group,3,B087
+A088,William Fetterolf,6382749965,BlueStone Estates,6,B088
+A089,David Knowles,6382749966,Landmark Realty,6,B089
+A090,Peggy Campbell,6382749967,CityScape Properties,4,B090
+A091,Janice Markis,6382749968,Prime Realty,4,B091
+A092,Ted Peyton,6382749969,Elite Property Solutions,3,B092
+A093,Marcella Jose,6382749970,Urban Nest Realty,5,B093
+A094,Winifred Miller,6382749971,Dream Homes Agency,4,B094
+A095,Christopher Johns,6382749972,Golden Key Realty,6,B095
+A096,William Kelly,6382749973,SmartSpace Properties,3,B096
+A097,Jeanette Sanpedro,6382749974,Horizon Realty Group,4,B097
+A098,Harold Infante,6382749975,BlueStone Estates,6,B098
+A099,Mary Brown,6382749976,Landmark Realty,6,B099
+A100,Susan Brown,6382749977,CityScape Properties,3,B100
+A101,Jenifer Paquette,6382749978,Prime Realty,6,B101
+A102,James Rodriquez,6382749979,Elite Property Solutions,6,B102
+A103,Larry Blaze,6382749980,Urban Nest Realty,3,B103
+A104,Aaron Davis,6382749981,Dream Homes Agency,6,B104
+A105,Marvin Powers,6382749982,Golden Key Realty,4,B105
+A106,Donald Norris,6382749983,SmartSpace Properties,3,B106
+A107,Sean Uribe,6382749984,Horizon Realty Group,4,B107
+A108,Carol Sortore,6382749985,BlueStone Estates,3,B108
+A109,Jeremy Hoffmann,6382749986,Landmark Realty,4,B109
+A110,James Mcintyre,6382749987,CityScape Properties,5,B110
+A111,Ashley Lane,6382749988,Prime Realty,5,B111
+A112,Ray Schmidt,6382749989,Elite Property Solutions,4,B112
+A113,Margaret Thomas,6382749990,Urban Nest Realty,5,B113
+A114,Roselyn Nix,6382749991,Dream Homes Agency,5,B114
+A115,Charles West,6382749992,Golden Key Realty,4,B115
+A116,Anderson Carter,6382749993,SmartSpace Properties,4,B116
+A117,Maria Steger,6382749994,Horizon Realty Group,5,B117
+A118,Helen Peltz,6382749995,BlueStone Estates,4,B118
+A119,Edward Larson,6382749996,Landmark Realty,5,B119
+A120,Lillie Reddout,6382749997,CityScape Properties,5,B120
+A121,Keith Scherr,6382749998,Prime Realty,5,B121
+A122,Verla Kelly,6382749999,Elite Property Solutions,3,B122
+A123,Margaret Kramer,6382750000,Urban Nest Realty,6,B123
+A124,Doris Verdin,6382750001,Dream Homes Agency,3,B124
+A125,David Robinson,6382750002,Golden Key Realty,6,B125
+A126,Evelyn Villarreal,6382750003,SmartSpace Properties,3,B126
+A127,Christine Urbina,6382750004,Horizon Realty Group,5,B127
+A128,Jennifer Lee,6382750005,BlueStone Estates,6,B128
+A129,Angel Nicely,6382750006,Landmark Realty,5,B129
+A130,Elizabeth Sandow,6382750007,CityScape Properties,5,B130
+A131,Maurice Clark,6382750008,Prime Realty,4,B131
+A132,Jerry Dubay,6382750009,Elite Property Solutions,3,B132
+A133,Migdalia Barbeau,6382750010,Urban Nest Realty,5,B133
+A134,Edward Baxley,6382750011,Dream Homes Agency,4,B134
+A135,Emily Cantrell,6382750012,Golden Key Realty,5,B135
+A136,Malinda Mckinney,6382750013,SmartSpace Properties,5,B136
+A137,James Thomas,6382750014,Horizon Realty Group,3,B137
+A138,Linda Mccarthy,6382750015,BlueStone Estates,6,B138
+A139,Barbara Somma,6382750016,Landmark Realty,4,B139
+A140,Denise Dickens,6382750017,CityScape Properties,5,B140
+A141,Mary Carroll,6382750018,Prime Realty,5,B141
+A142,Susan Olsen,6382750019,Elite Property Solutions,6,B142
+A143,Joanne Brady,6382750020,Urban Nest Realty,6,B143
+A144,Benjamin Glass,6382750021,Dream Homes Agency,5,B144
+A145,David Spencer,6382750022,Golden Key Realty,3,B145
+A146,Francis Kelly,6382750023,SmartSpace Properties,6,B146
+A147,Ernest Goodier,6382750024,Horizon Realty Group,3,B147
+A148,Robert Ault,6382750025,BlueStone Estates,5,B148
+A149,Tanya Chappel,6382750026,Landmark Realty,6,B149
+A150,Austin Webb,6382750027,CityScape Properties,5,B150
+A151,Mario Mcdiarmid,6382750028,Prime Realty,6,B151
+A152,Ryan Schwartzkopf,6382750029,Elite Property Solutions,4,B152
+A153,James Bogucki,6382750030,Urban Nest Realty,3,B153
+A154,Avery Hogan,6382750031,Dream Homes Agency,4,B154
+A155,Bart Foust,6382750032,Golden Key Realty,5,B155
+A156,John Sanders,6382750033,SmartSpace Properties,3,B156
+A157,Barbara Woodhams,6382750034,Horizon Realty Group,3,B157
+A158,Andrew Ward,6382750035,BlueStone Estates,4,B158
+A159,David Hollis,6382750036,Landmark Realty,4,B159
+A160,William Atkins,6382750037,CityScape Properties,6,B160
+A161,James Encarnacion,6382750038,Prime Realty,3,B161
+A162,Billie Pitts,6382750039,Elite Property Solutions,3,B162
+A163,Ronald Bailey,6382750040,Urban Nest Realty,6,B163
+A164,Ronald Wiggins,6382750041,Dream Homes Agency,5,B164
+A165,Trina Snider,6382750042,Golden Key Realty,4,B165
+A166,Johnie Adams,6382750043,SmartSpace Properties,6,B166
+A167,Bradley Glover,6382750044,Horizon Realty Group,4,B167
+A168,Robert Bui,6382750045,BlueStone Estates,4,B168
+A169,Tina Bombard,6382750046,Landmark Realty,6,B169
+A170,Eddie Pearce,6382750047,CityScape Properties,4,B170
+A171,Joann Armwood,6382750048,Prime Realty,6,B171
+A172,Nicolas Freese,6382750049,Elite Property Solutions,3,B172
+A173,Salvatore Goodness,6382750050,Urban Nest Realty,6,B173
+A174,Richard Sanders,6382750051,Dream Homes Agency,5,B174
+A175,Buck Defoor,6382750052,Golden Key Realty,4,B175
+A176,Sherry Beasley,6382750053,SmartSpace Properties,3,B176
+A177,Matthew Bellamy,6382750054,Horizon Realty Group,6,B177
+A178,Mabel Davis,6382750055,BlueStone Estates,4,B178
+A179,Michele Daley,6382750056,Landmark Realty,6,B179
+A180,Sandra Braden,6382750057,CityScape Properties,4,B180
+A181,Sue Alexander,6382750058,Prime Realty,4,B181
+A182,Jean Mcrae,6382750059,Elite Property Solutions,3,B182
+A183,Lois Dabbs,6382750060,Urban Nest Realty,5,B183
+A184,Frank Hylan,6382750061,Dream Homes Agency,6,B184
+A185,Bertha Bush,6382750062,Golden Key Realty,6,B185
+A186,Joseph Hagood,6382750063,SmartSpace Properties,5,B186
+A187,Barbara Rushing,6382750064,Horizon Realty Group,3,B187
+A188,John Gilman,6382750065,BlueStone Estates,5,B188
+A189,Joyce Tucker,6382750066,Landmark Realty,3,B189
+A190,Bobby Phillips,6382750067,CityScape Properties,6,B190
+A191,Mary Turner,6382750068,Prime Realty,5,B191
+A192,John Becton,6382750069,Elite Property Solutions,4,B192
+A193,Rose Leider,6382750070,Urban Nest Realty,5,B193
+A194,Beverley Henrick,6382750071,Dream Homes Agency,5,B194
+A195,Rebecca Cho,6382750072,Golden Key Realty,3,B195
+A196,Jean Claassen,6382750073,SmartSpace Properties,6,B196
+A197,Mark Daniel,6382750074,Horizon Realty Group,3,B197
+A198,Anthony Speer,6382750075,BlueStone Estates,3,B198
+A199,Victor Mcclain,6382750076,Landmark Realty,4,B199
+A200,Miguel Bethke,6382750077,CityScape Properties,3,B200
+A201,Peggy Burleigh,6382750078,Prime Realty,4,B201
+A202,Alexandra Hart,6382750079,Elite Property Solutions,3,B202
+A203,Miles Sansone,6382750080,Urban Nest Realty,6,B203
+A204,Margaret Smith,6382750081,Dream Homes Agency,6,B204
+A205,Raymond Glynn,6382750082,Golden Key Realty,3,B205
+A206,Earl Nichols,6382750083,SmartSpace Properties,4,B206
+A207,Cindy Hadley,6382750084,Horizon Realty Group,5,B207
+A208,Ingrid Mallin,6382750085,BlueStone Estates,5,B208
+A209,Cynthia Do,6382750086,Landmark Realty,5,B209
+A210,Doris Vreeland,6382750087,CityScape Properties,3,B210
+A211,George Ramsey,6382750088,Prime Realty,6,B211
+A212,Gloria Biederman,6382750089,Elite Property Solutions,6,B212
+A213,Andres Firkins,6382750090,Urban Nest Realty,5,B213
+A214,Charles Johnson,6382750091,Dream Homes Agency,6,B214
+A215,Peggy Owen,6382750092,Golden Key Realty,4,B215
+A216,Keith Merino,6382750093,SmartSpace Properties,4,B216
+A217,Minnie Halloran,6382750094,Horizon Realty Group,3,B217
+A218,Dennis Ewald,6382750095,BlueStone Estates,3,B218
+A219,Everett Beaver,6382750096,Landmark Realty,3,B219
+A220,Leonard Garmon,6382750097,CityScape Properties,3,B220
+A221,Margery Masin,6382750098,Prime Realty,6,B221
+A222,Charles Johnston,6382750099,Elite Property Solutions,4,B222
+A223,Fredric Jenson,6382750100,Urban Nest Realty,5,B223
+A224,Lenore Howell,6382750101,Dream Homes Agency,5,B224
+A225,Betty Payne,6382750102,Golden Key Realty,3,B225
+A226,Michael Chapman,6382750103,SmartSpace Properties,6,B226
+A227,Charles Webb,6382750104,Horizon Realty Group,4,B227
+A228,Teresa Hyland,6382750105,BlueStone Estates,4,B228
+A229,Autumn Johnson,6382750106,Landmark Realty,5,B229
+A230,Jonathan Johnson,6382750107,CityScape Properties,4,B230
+A231,James Bowman,6382750108,Prime Realty,4,B231
+A232,Albert Ness,6382750109,Elite Property Solutions,4,B232
+A233,Janis Sahara,6382750110,Urban Nest Realty,4,B233
+A234,Donna Gunnerson,6382750111,Dream Homes Agency,6,B234
+A235,Roosevelt Leonhardt,6382750112,Golden Key Realty,4,B235
+A236,Barbara Trigg,6382750113,SmartSpace Properties,5,B236
+A237,Michael Mann,6382750114,Horizon Realty Group,4,B237
+A238,Neal Gonzalez,6382750115,BlueStone Estates,3,B238
+A239,Jeffrey Campbell,6382750116,Landmark Realty,5,B239
+A240,Troy Dupes,6382750117,CityScape Properties,5,B240
+A241,Lisa Hart,6382750118,Prime Realty,6,B241
+A242,Jacqueline Henricks,6382750119,Elite Property Solutions,5,B242
+A243,Michael Chalmers,6382750120,Urban Nest Realty,3,B243
+A244,Maria Fairley,6382750121,Dream Homes Agency,3,B244
+A245,Kathryn Morales,6382750122,Golden Key Realty,5,B245
+A246,Delia Thompson,6382750123,SmartSpace Properties,5,B246
+A247,Joshua Gonzales,6382750124,Horizon Realty Group,6,B247
+A248,Charles Childers,6382750125,BlueStone Estates,5,B248
+A249,Kelly Southerland,6382750126,Landmark Realty,4,B249
+A250,Jona Hooks,6382750127,CityScape Properties,6,B250
+A251,Sarah Trask,6382750128,Prime Realty,3,B251
+A252,Anita Sutton,6382750129,Elite Property Solutions,4,B252
+A253,Jeffrey Stallings,6382750130,Urban Nest Realty,5,B253
+A254,Eric Bustos,6382750131,Dream Homes Agency,5,B254
+A255,Juan Happel,6382750132,Golden Key Realty,3,B255
+A256,Eunice Watts,6382750133,SmartSpace Properties,5,B256
+A257,Charles Hartman,6382750134,Horizon Realty Group,4,B257
+A258,Maria Hildreth,6382750135,BlueStone Estates,5,B258
+A259,Mallory Riley,6382750136,Landmark Realty,4,B259
+A260,Cassandra Luckenbach,6382750137,CityScape Properties,4,B260
+A261,Jesse Bingaman,6382750138,Prime Realty,4,B261
+A262,Margaret Kellar,6382750139,Elite Property Solutions,5,B262
+A263,Stacy Correia,6382750140,Urban Nest Realty,6,B263
+A264,Kevin Murphy,6382750141,Dream Homes Agency,5,B264
+A265,Van Brandt,6382750142,Golden Key Realty,4,B265
+A266,Denise Mullis,6382750143,SmartSpace Properties,4,B266
+A267,Miguel Davis,6382750144,Horizon Realty Group,3,B267
+A268,Suzanne Mcmahan,6382750145,BlueStone Estates,6,B268
+A269,Kimberly Talamantes,6382750146,Landmark Realty,4,B269
+A270,Christine Fehrenbach,6382750147,CityScape Properties,6,B270
+A271,John Sosebee,6382750148,Prime Realty,4,B271
+A272,Shannon Norton,6382750149,Elite Property Solutions,6,B272
+A273,John Brock,6382750150,Urban Nest Realty,5,B273
+A274,Alexandra Pigg,6382750151,Dream Homes Agency,4,B274
+A275,Betty Moreland,6382750152,Golden Key Realty,4,B275
+A276,Jean Dyson,6382750153,SmartSpace Properties,4,B276
+A277,Joel Bowen,6382750154,Horizon Realty Group,3,B277
+A278,Jesse Hesseltine,6382750155,BlueStone Estates,6,B278
+A279,Stella Neal,6382750156,Landmark Realty,6,B279
+A280,Betty Strauser,6382750157,CityScape Properties,3,B280
+A281,Rene Anderson,6382750158,Prime Realty,5,B281
+A282,Zachary Bell,6382750159,Elite Property Solutions,6,B282
+A283,Anna Meyer,6382750160,Urban Nest Realty,5,B283
+A284,Rachael Hofman,6382750161,Dream Homes Agency,6,B284
+A285,Linda Ritter,6382750162,Golden Key Realty,4,B285
+A286,Martha Mcdavid,6382750163,SmartSpace Properties,3,B286
+A287,Lawrence Quintana,6382750164,Horizon Realty Group,5,B287
+A288,John Bowser,6382750165,BlueStone Estates,4,B288
+A289,Marlo Girton,6382750166,Landmark Realty,6,B289
+A290,Lavenia Baker,6382750167,CityScape Properties,6,B290
+A291,Kristi Garces,6382750168,Prime Realty,3,B291
+A292,Gary Tefera,6382750169,Elite Property Solutions,6,B292
+A293,Ray Atwood,6382750170,Urban Nest Realty,3,B293
+A294,Paula Williams,6382750171,Dream Homes Agency,3,B294
+A295,Petra Shiroma,6382750172,Golden Key Realty,5,B295
+A296,Shannon Kujawski,6382750173,SmartSpace Properties,6,B296
+A297,Lester Gale,6382750174,Horizon Realty Group,5,B297
+A298,Gloria Vajgrt,6382750175,BlueStone Estates,3,B298
+A299,Wanda Romero,6382750176,Landmark Realty,3,B299
+A300,Maria Garland,6382750177,CityScape Properties,6,B300
+A301,Diane Grisham,6382750178,Prime Realty,3,B301
+A302,Christina Swavely,6382750179,Elite Property Solutions,4,B302
+A303,David Riedel,6382750180,Urban Nest Realty,6,B303
+A304,Florence Schott,6382750181,Dream Homes Agency,6,B304
+A305,Robert Butterfield,6382750182,Golden Key Realty,6,B305
+A306,Alissa Hubert,6382750183,SmartSpace Properties,3,B306
+A307,George Soria,6382750184,Horizon Realty Group,3,B307
+A308,Robert Shinn,6382750185,BlueStone Estates,5,B308
+A309,Marlin Newberg,6382750186,Landmark Realty,6,B309
+A310,Valerie Leblanc,6382750187,CityScape Properties,4,B310
+A311,Geraldine Fontenot,6382750188,Prime Realty,4,B311
+A312,Tiffany Monson,6382750189,Elite Property Solutions,6,B312
+A313,Alice Grove,6382750190,Urban Nest Realty,5,B313
+A314,Patricia Huff,6382750191,Dream Homes Agency,5,B314
+A315,George Jung,6382750192,Golden Key Realty,5,B315
+A316,Frances Fay,6382750193,SmartSpace Properties,3,B316
+A317,Anthony Shute,6382750194,Horizon Realty Group,5,B317
+A318,Nicholas Denton,6382750195,BlueStone Estates,3,B318
+A319,Gladis Bartholomew,6382750196,Landmark Realty,3,B319
+A320,David Torres,6382750197,CityScape Properties,5,B320
+A321,Susan Robinson,6382750198,Prime Realty,5,B321
+A322,Melissa Cain,6382750199,Elite Property Solutions,4,B322
+A323,Troy Clay,6382750200,Urban Nest Realty,3,B323
+A324,William Durham,6382750201,Dream Homes Agency,3,B324
+A325,Francis Krampitz,6382750202,Golden Key Realty,3,B325
+A326,Samantha Acevedo,6382750203,SmartSpace Properties,4,B326
+A327,Ira Ramos,6382750204,Horizon Realty Group,4,B327
+A328,Mario Weinbauer,6382750205,BlueStone Estates,6,B328
+A329,Sue Doan,6382750206,Landmark Realty,5,B329
+A330,Jack Foushee,6382750207,CityScape Properties,6,B330
+A331,Debra Casanova,6382750208,Prime Realty,5,B331
+A332,Michael George,6382750209,Elite Property Solutions,6,B332
+A333,John Roush,6382750210,Urban Nest Realty,5,B333
+A334,Tiffany Mccann,6382750211,Dream Homes Agency,5,B334
+A335,Stanley Ruggles,6382750212,Golden Key Realty,3,B335
+A336,Cedric Lindsey,6382750213,SmartSpace Properties,6,B336
+A337,Mary Finegan,6382750214,Horizon Realty Group,4,B337
+A338,Mary Noriega,6382750215,BlueStone Estates,6,B338
+A339,Theodora Ouellette,6382750216,Landmark Realty,5,B339
+A340,Willie Foster,6382750217,CityScape Properties,6,B340
+A341,Larry Arreola,6382750218,Prime Realty,5,B341
+A342,Riley Larosa,6382750219,Elite Property Solutions,5,B342
+A343,Vanessa Sharp,6382750220,Urban Nest Realty,3,B343
+A344,Gerald Mayes,6382750221,Dream Homes Agency,6,B344
+A345,Kevin Sawyer,6382750222,Golden Key Realty,3,B345
+A346,Gail Trombley,6382750223,SmartSpace Properties,5,B346
+A347,Adrien Lindelof,6382750224,Horizon Realty Group,3,B347
+A348,Wen Arnold,6382750225,BlueStone Estates,6,B348
+A349,Richard Briggs,6382750226,Landmark Realty,5,B349
+A350,Samantha Davenport,6382750227,CityScape Properties,3,B350
+A351,Jacquelin Hickey,6382750228,Prime Realty,5,B351
+A352,Antonio Frank,6382750229,Elite Property Solutions,4,B352
+A353,Rita Adams,6382750230,Urban Nest Realty,3,B353
+A354,Christopher Henriques,6382750231,Dream Homes Agency,6,B354
+A355,Shelly Allen,6382750232,Golden Key Realty,5,B355
+A356,Gladys Wint,6382750233,SmartSpace Properties,6,B356
+A357,Wilfred Burton,6382750234,Horizon Realty Group,6,B357
+A358,Joseph Wiersma,6382750235,BlueStone Estates,6,B358
+A359,Cathy Holley,6382750236,Landmark Realty,3,B359
+A360,Beatriz Joyce,6382750237,CityScape Properties,3,B360
+A361,Penney Christmas,6382750238,Prime Realty,4,B361
+A362,Kenneth Paton,6382750239,Elite Property Solutions,3,B362
+A363,Charlotte Hernandez,6382750240,Urban Nest Realty,5,B363
+A364,Carlos Hardy,6382750241,Dream Homes Agency,5,B364
+A365,Brittney Ruiz,6382750242,Golden Key Realty,4,B365
+A366,Bertha Smith,6382750243,SmartSpace Properties,4,B366
+A367,Eric Stinett,6382750244,Horizon Realty Group,4,B367
+A368,Matthew Benet,6382750245,BlueStone Estates,5,B368
+A369,Angie Payne,6382750246,Landmark Realty,4,B369
+A370,Shaun Bernhardt,6382750247,CityScape Properties,3,B370
+A371,Odessa Morley,6382750248,Prime Realty,6,B371
+A372,Coralie Shell,6382750249,Elite Property Solutions,3,B372
+A373,Stephen Johnson,6382750250,Urban Nest Realty,3,B373
+A374,Tara Marine,6382750251,Dream Homes Agency,5,B374
+A375,Kenneth Stride,6382750252,Golden Key Realty,6,B375
+A376,Cathy Trahan,6382750253,SmartSpace Properties,3,B376
+A377,Daniel Johnson,6382750254,Horizon Realty Group,6,B377
+A378,Elizabeth Cook,6382750255,BlueStone Estates,5,B378
+A379,Elizabeth Ferrero,6382750256,Landmark Realty,6,B379
+A380,Theodore Curtis,6382750257,CityScape Properties,5,B380
+A381,Daisy Hackley,6382750258,Prime Realty,6,B381
+A382,Carmen Kluemper,6382750259,Elite Property Solutions,6,B382
+A383,Justin Moochler,6382750260,Urban Nest Realty,4,B383
+A384,Ernesto Mcmillian,6382750261,Dream Homes Agency,4,B384
+A385,Nancy King,6382750262,Golden Key Realty,5,B385
+A386,Jo Delatorre,6382750263,SmartSpace Properties,6,B386
+A387,Ollie Lallo,6382750264,Horizon Realty Group,3,B387
+A388,John Williams,6382750265,BlueStone Estates,5,B388
+A389,Jason Jones,6382750266,Landmark Realty,3,B389
+A390,Sarah Scurry,6382750267,CityScape Properties,3,B390
+A391,Carlos Walker,6382750268,Prime Realty,6,B391
+A392,Gary Maas,6382750269,Elite Property Solutions,5,B392
+A393,Elva Blow,6382750270,Urban Nest Realty,3,B393
+A394,Marceline Barnes,6382750271,Dream Homes Agency,5,B394
+A395,Liane Moreno,6382750272,Golden Key Realty,3,B395
+A396,Niki Rich,6382750273,SmartSpace Properties,5,B396
+A397,Amy Lear,6382750274,Horizon Realty Group,3,B397
+A398,Gretchen Loop,6382750275,BlueStone Estates,3,B398
+A399,James Doran,6382750276,Landmark Realty,4,B399
+A400,Luis Yamada,6382750277,CityScape Properties,4,B400
+A401,Vera Wapp,6382750278,Prime Realty,3,B401
+A402,Edmond Sherman,6382750279,Elite Property Solutions,5,B402
+A403,David Brown,6382750280,Urban Nest Realty,4,B403
+A404,Sharon Tarwater,6382750281,Dream Homes Agency,3,B404
+A405,Judie Reyes,6382750282,Golden Key Realty,6,B405
+A406,Salvatore Newman,6382750283,SmartSpace Properties,6,B406
+A407,Freda Brunke,6382750284,Horizon Realty Group,4,B407
+A408,Dorothy Riordan,6382750285,BlueStone Estates,6,B408
+A409,Bette Osteen,6382750286,Landmark Realty,6,B409
+A410,Willie Pulley,6382750287,CityScape Properties,5,B410
+A411,Robert Olson,6382750288,Prime Realty,5,B411
+A412,Helen Sims,6382750289,Elite Property Solutions,6,B412
+A413,Juliana Freeders,6382750290,Urban Nest Realty,5,B413
+A414,Jennifer Bui,6382750291,Dream Homes Agency,4,B414
+A415,Paula Jamison,6382750292,Golden Key Realty,6,B415
+A416,Margaret Castle,6382750293,SmartSpace Properties,5,B416
+A417,Michelle Shapiro,6382750294,Horizon Realty Group,3,B417
+A418,Michael Moorman,6382750295,BlueStone Estates,6,B418
+A419,Shari Grove,6382750296,Landmark Realty,4,B419
+A420,Sarah Friesenhahn,6382750297,CityScape Properties,5,B420
+A421,Richard Ellsworth,6382750298,Prime Realty,5,B421
+A422,Lela Lee,6382750299,Elite Property Solutions,3,B422
+A423,Rafael Mancini,6382750300,Urban Nest Realty,6,B423
+A424,Andrew Ferrara,6382750301,Dream Homes Agency,3,B424
+A425,Denise Harsh,6382750302,Golden Key Realty,5,B425
+A426,Alfredo Suzuki,6382750303,SmartSpace Properties,5,B426
+A427,Jessica Maxwell,6382750304,Horizon Realty Group,6,B427
+A428,Gretchen Smith,6382750305,BlueStone Estates,4,B428
+A429,Harold Pollard,6382750306,Landmark Realty,6,B429
+A430,William Lawless,6382750307,CityScape Properties,4,B430
+A431,Patricia Hunt,6382750308,Prime Realty,4,B431
+A432,William Stewarts,6382750309,Elite Property Solutions,5,B432
+A433,Scott Jeffrie,6382750310,Urban Nest Realty,4,B433
+A434,Albert Gonzales,6382750311,Dream Homes Agency,3,B434
+A435,David Wright,6382750312,Golden Key Realty,3,B435
+A436,Daniel Davis,6382750313,SmartSpace Properties,5,B436
+A437,Jimmy Fogel,6382750314,Horizon Realty Group,6,B437
+A438,Jone Lucas,6382750315,BlueStone Estates,4,B438
+A439,Helen Sanders,6382750316,Landmark Realty,4,B439
+A440,Jason Clark,6382750317,CityScape Properties,4,B440
+A441,Lori Wright,6382750318,Prime Realty,4,B441
+A442,Billy Eberts,6382750319,Elite Property Solutions,4,B442
+A443,James Smith,6382750320,Urban Nest Realty,6,B443
+A444,Elma Mcbride,6382750321,Dream Homes Agency,4,B444
+A445,Jose Parker,6382750322,Golden Key Realty,5,B445
+A446,Edwin Montoya,6382750323,SmartSpace Properties,4,B446
+A447,Barbara Bailey,6382750324,Horizon Realty Group,5,B447
+A448,Curtis Pak,6382750325,BlueStone Estates,6,B448
+A449,Edward Kelleher,6382750326,Landmark Realty,5,B449
+A450,Annie Stierwalt,6382750327,CityScape Properties,5,B450
+A451,Joe Tan,6382750328,Prime Realty,6,B451
+A452,Vicky Eddy,6382750329,Elite Property Solutions,5,B452
+A453,Joanna Collinsworth,6382750330,Urban Nest Realty,5,B453
+A454,Monica Lopez,6382750331,Dream Homes Agency,3,B454
+A455,Nicolasa Fulford,6382750332,Golden Key Realty,5,B455
+A456,Victor Merry,6382750333,SmartSpace Properties,3,B456
+A457,Albertine Debarros,6382750334,Horizon Realty Group,3,B457
+A458,Nelle Avilla,6382750335,BlueStone Estates,4,B458
+A459,Cameron Cook,6382750336,Landmark Realty,4,B459
+A460,Clarence Holifeild,6382750337,CityScape Properties,5,B460
+A461,Amy Lear,6382750338,Prime Realty,6,B461
+A462,William Grier,6382750339,Elite Property Solutions,5,B462
+A463,Ana Odell,6382750340,Urban Nest Realty,4,B463
+A464,Mary Marsden,6382750341,Dream Homes Agency,5,B464
+A465,Lisa Modafferi,6382750342,Golden Key Realty,4,B465
+A466,Carolyn Emerson,6382750343,SmartSpace Properties,6,B466
+A467,Eric Dominguez,6382750344,Horizon Realty Group,4,B467
+A468,Ashley Limbrick,6382750345,BlueStone Estates,3,B468
+A469,Preston Brock,6382750346,Landmark Realty,3,B469
+A470,Beth Osegueda,6382750347,CityScape Properties,3,B470
+A471,James Hobbs,6382750348,Prime Realty,4,B471
+A472,Sylvia Wageman,6382750349,Elite Property Solutions,4,B472
+A473,Brandon Winn,6382750350,Urban Nest Realty,6,B473
+A474,Dwayne Evans,6382750351,Dream Homes Agency,5,B474
+A475,Jimmy Fischer,6382750352,Golden Key Realty,4,B475
+A476,Sarah Thiel,6382750353,SmartSpace Properties,6,B476
+A477,Eric Robuck,6382750354,Horizon Realty Group,4,B477
+A478,Iva Souvannavong,6382750355,BlueStone Estates,5,B478
+A479,Lora Paul,6382750356,Landmark Realty,4,B479
+A480,Barbara Taub,6382750357,CityScape Properties,6,B480
+A481,Heather Schwalb,6382750358,Prime Realty,5,B481
+A482,Theresa Henning,6382750359,Elite Property Solutions,3,B482
+A483,Alice Garcia,6382750360,Urban Nest Realty,4,B483
+A484,Deborah Saltsman,6382750361,Dream Homes Agency,3,B484
+A485,Alicia Hamilton,6382750362,Golden Key Realty,4,B485
+A486,Alfonso Contreras,6382750363,SmartSpace Properties,6,B486
+A487,Eva Bryant,6382750364,Horizon Realty Group,6,B487
+A488,Cynthia Kellerman,6382750365,BlueStone Estates,4,B488
+A489,Sherry Riley,6382750366,Landmark Realty,4,B489
+A490,Melissa Smith,6382750367,CityScape Properties,5,B490
+A491,Margaret Johnson,6382750368,Prime Realty,5,B491
+A492,Gerald Blumenfeld,6382750369,Elite Property Solutions,4,B492
+A493,Joseph Harper,6382750370,Urban Nest Realty,6,B493
+A494,Douglas Brown,6382750371,Dream Homes Agency,6,B494
+A495,Marcel Washington,6382750372,Golden Key Realty,6,B495
+A496,Charles Gordon,6382750373,SmartSpace Properties,5,B496
+A497,Cheryl Pridgeon,6382750374,Horizon Realty Group,6,B497
+A498,Wilma Clark,6382750375,BlueStone Estates,6,B498
+A499,Ashley Hanover,6382750376,Landmark Realty,6,B499
+A500,John Jones,6382750377,CityScape Properties,6,B500
+A501,Anthony Walden,6382750378,Prime Realty,6,B501
+A502,David Benton,6382750379,Elite Property Solutions,6,B502
+A503,Mary King,6382750380,Urban Nest Realty,5,B503
+A504,Travis Mathison,6382750381,Dream Homes Agency,4,B504
+A505,Denise Pickhardt,6382750382,Golden Key Realty,5,B505
+A506,Kelly Dalton,6382750383,SmartSpace Properties,4,B506
+A507,Susan Ross,6382750384,Horizon Realty Group,3,B507
+A508,Aaron Switzer,6382750385,BlueStone Estates,5,B508
+A509,Manuel Ramirez,6382750386,Landmark Realty,5,B509
+A510,Fred Morrison,6382750387,CityScape Properties,4,B510
+A511,Johnnie Swann,6382750388,Prime Realty,6,B511
+A512,Eldridge Niemczyk,6382750389,Elite Property Solutions,3,B512
+A513,Mike Squires,6382750390,Urban Nest Realty,3,B513
+A514,James Childers,6382750391,Dream Homes Agency,3,B514
+A515,Kenneth Frankel,6382750392,Golden Key Realty,3,B515
+A516,Jane Millender,6382750393,SmartSpace Properties,6,B516
+A517,Paula Gerbatz,6382750394,Horizon Realty Group,4,B517
+A518,Annie Lee,6382750395,BlueStone Estates,5,B518
+A519,Phillip Andon,6382750396,Landmark Realty,3,B519
+A520,Eric Wise,6382750397,CityScape Properties,6,B520
+A521,Earl Leroy,6382750398,Prime Realty,5,B521
+A522,Richard Dobkins,6382750399,Elite Property Solutions,3,B522
+A523,Robert Machado,6382750400,Urban Nest Realty,3,B523
+A524,Donald Collins,6382750401,Dream Homes Agency,6,B524
+A525,Ellis Brown,6382750402,Golden Key Realty,6,B525
+A526,Dina Ingram,6382750403,SmartSpace Properties,5,B526
+A527,Coral Conrad,6382750404,Horizon Realty Group,5,B527
+A528,Anthony Majors,6382750405,BlueStone Estates,5,B528
+A529,Dolores Maddox,6382750406,Landmark Realty,4,B529
+A530,Stephen Heling,6382750407,CityScape Properties,5,B530
+A531,Justin Collins,6382750408,Prime Realty,3,B531
+A532,Eric Sams,6382750409,Elite Property Solutions,3,B532
+A533,Norman Polizio,6382750410,Urban Nest Realty,6,B533
+A534,Dana Holmes,6382750411,Dream Homes Agency,3,B534
+A535,Pamela Brehmer,6382750412,Golden Key Realty,4,B535
+A536,David Cline,6382750413,SmartSpace Properties,3,B536
+A537,Joseph Patry,6382750414,Horizon Realty Group,6,B537
+A538,Carol Roy,6382750415,BlueStone Estates,3,B538
+A539,Sandy Glennon,6382750416,Landmark Realty,5,B539
+A540,John Lindsey,6382750417,CityScape Properties,6,B540
+A541,Cecilia Munoz,6382750418,Prime Realty,5,B541
+A542,Elmer Bird,6382750419,Elite Property Solutions,6,B542
+A543,Roger Voigt,6382750420,Urban Nest Realty,4,B543
+A544,Dorothy Holmes,6382750421,Dream Homes Agency,5,B544
+A545,Mary Duncan,6382750422,Golden Key Realty,3,B545
+A546,Stacy Palomo,6382750423,SmartSpace Properties,3,B546
+A547,David Pool,6382750424,Horizon Realty Group,4,B547
+A548,Stephanie Nickerson,6382750425,BlueStone Estates,4,B548
+A549,Richard Rash,6382750426,Landmark Realty,3,B549
+A550,Daniel Courson,6382750427,CityScape Properties,3,B550
+A551,Rhonda Ray,6382750428,Prime Realty,4,B551
+A552,Anthony Blake,6382750429,Elite Property Solutions,3,B552
+A553,Scott Swatzell,6382750430,Urban Nest Realty,3,B553
+A554,William Dawson,6382750431,Dream Homes Agency,5,B554
+A555,Richard Simon,6382750432,Golden Key Realty,5,B555
+A556,Mary Warrior,6382750433,SmartSpace Properties,4,B556
+A557,Arthur Harris,6382750434,Horizon Realty Group,3,B557
+A558,Yvonne Monroe,6382750435,BlueStone Estates,4,B558
+A559,Tony Rosas,6382750436,Landmark Realty,3,B559
+A560,Carolyn Hackney,6382750437,CityScape Properties,3,B560
+A561,Mary Turner,6382750438,Prime Realty,6,B561
+A562,Bradley Gamez,6382750439,Elite Property Solutions,5,B562
+A563,Phyllis Isbell,6382750440,Urban Nest Realty,6,B563
+A564,Vickie Rainforth,6382750441,Dream Homes Agency,6,B564
+A565,Susan Barnes,6382750442,Golden Key Realty,4,B565
+A566,Todd Palmer,6382750443,SmartSpace Properties,3,B566
+A567,Charlene Whish,6382750444,Horizon Realty Group,4,B567
+A568,Ronnie Prater,6382750445,BlueStone Estates,4,B568
+A569,Angela Jackson,6382750446,Landmark Realty,5,B569
+A570,Francis Tippin,6382750447,CityScape Properties,6,B570
+A571,Otha Ware,6382750448,Prime Realty,4,B571
+A572,Janet Brice,6382750449,Elite Property Solutions,3,B572
+A573,Mark Good,6382750450,Urban Nest Realty,3,B573
+A574,Dan Gibson,6382750451,Dream Homes Agency,5,B574
+A575,Elisa Jones,6382750452,Golden Key Realty,3,B575
+A576,Normand Oliphant,6382750453,SmartSpace Properties,4,B576
+A577,Guillermo Wall,6382750454,Horizon Realty Group,3,B577
+A578,Herman Long,6382750455,BlueStone Estates,3,B578
+A579,Eric Farrell,6382750456,Landmark Realty,6,B579
+A580,Richard Roman,6382750457,CityScape Properties,5,B580
+A581,Eric Vannoy,6382750458,Prime Realty,5,B581
+A582,Paula Mccrary,6382750459,Elite Property Solutions,6,B582
+A583,Richard Yates,6382750460,Urban Nest Realty,5,B583
+A584,Cristi Kerns,6382750461,Dream Homes Agency,4,B584
+A585,Roland Besecker,6382750462,Golden Key Realty,3,B585
+A586,Joe Wooten,6382750463,SmartSpace Properties,5,B586
+A587,Grace Gonzalez,6382750464,Horizon Realty Group,3,B587
+A588,Steven Welling,6382750465,BlueStone Estates,4,B588
+A589,Evelyn Otting,6382750466,Landmark Realty,4,B589
+A590,Anthony Francis,6382750467,CityScape Properties,5,B590
+A591,Joel Jolicoeur,6382750468,Prime Realty,4,B591
+A592,Heriberto Wood,6382750469,Elite Property Solutions,4,B592
+A593,Lidia Hudson,6382750470,Urban Nest Realty,4,B593
+A594,Johnnie Johnson,6382750471,Dream Homes Agency,5,B594
+A595,Laura Hood,6382750472,Golden Key Realty,3,B595
+A596,David Gautier,6382750473,SmartSpace Properties,3,B596
+A597,Robert Garcia,6382750474,Horizon Realty Group,3,B597
+A598,Dan Houser,6382750475,BlueStone Estates,4,B598
+A599,Patricia Parks,6382750476,Landmark Realty,3,B599
+A600,Rene Delfuente,6382750477,CityScape Properties,3,B600
+A601,Joyce Hobson,6382750478,Prime Realty,3,B601
+A602,Francesco Clayton,6382750479,Elite Property Solutions,3,B602
+A603,Evelyn Danforth,6382750480,Urban Nest Realty,4,B603
+A604,Diane Corley,6382750481,Dream Homes Agency,4,B604
+A605,Barbara Apple,6382750482,Golden Key Realty,3,B605
+A606,Thomas Jandreau,6382750483,SmartSpace Properties,5,B606
+A607,Edward Davenport,6382750484,Horizon Realty Group,3,B607
+A608,Joan Garza,6382750485,BlueStone Estates,4,B608
+A609,Terry Johns,6382750486,Landmark Realty,3,B609
+A610,Patrick Mastrangelo,6382750487,CityScape Properties,6,B610
+A611,Miguel Renfroe,6382750488,Prime Realty,4,B611
+A612,Angela Bruce,6382750489,Elite Property Solutions,3,B612
+A613,Robert Settle,6382750490,Urban Nest Realty,3,B613
+A614,George Cosby,6382750491,Dream Homes Agency,4,B614
+A615,Joel Roberts,6382750492,Golden Key Realty,5,B615
+A616,Clyde Wells,6382750493,SmartSpace Properties,4,B616
+A617,Patricia Brown,6382750494,Horizon Realty Group,6,B617
+A618,Marjorie Jones,6382750495,BlueStone Estates,5,B618
+A619,Jeanette Shelby,6382750496,Landmark Realty,6,B619
+A620,Jamie Booker,6382750497,CityScape Properties,5,B620
+A621,Paul Fernandez,6382750498,Prime Realty,3,B621
+A622,John Schwieger,6382750499,Elite Property Solutions,4,B622
+A623,Dorothy Avila,6382750500,Urban Nest Realty,3,B623
+A624,Michael Weeks,6382750501,Dream Homes Agency,3,B624
+A625,Maura Rodriquez,6382750502,Golden Key Realty,4,B625
+A626,Michael Payne,6382750503,SmartSpace Properties,6,B626
+A627,Emily Fernandez,6382750504,Horizon Realty Group,4,B627
+A628,Domingo Cardenas,6382750505,BlueStone Estates,3,B628
+A629,Janice Casey,6382750506,Landmark Realty,5,B629
+A630,Alan Long,6382750507,CityScape Properties,6,B630
+A631,Daniel Chapman,6382750508,Prime Realty,5,B631
+A632,Leon Williams,6382750509,Elite Property Solutions,6,B632
+A633,Margo Brunk,6382750510,Urban Nest Realty,6,B633
+A634,Lori Ware,6382750511,Dream Homes Agency,6,B634
+A635,Robert Garvey,6382750512,Golden Key Realty,4,B635
+A636,Marjorie Ralph,6382750513,SmartSpace Properties,5,B636
+A637,Delores Moore,6382750514,Horizon Realty Group,3,B637
+A638,Aaron Leonard,6382750515,BlueStone Estates,3,B638
+A639,Renee Puckett,6382750516,Landmark Realty,3,B639
+A640,Jack Smith,6382750517,CityScape Properties,5,B640
+A641,Opal Ferraro,6382750518,Prime Realty,4,B641
+A642,Lee Lopez,6382750519,Elite Property Solutions,3,B642
+A643,Teresa Dew,6382750520,Urban Nest Realty,4,B643
+A644,Deidra Palomino,6382750521,Dream Homes Agency,4,B644
+A645,Linda Everson,6382750522,Golden Key Realty,4,B645
+A646,Osvaldo Donoghue,6382750523,SmartSpace Properties,6,B646
+A647,Yolanda Clark,6382750524,Horizon Realty Group,4,B647
+A648,Beverly Burrowes,6382750525,BlueStone Estates,6,B648
+A649,Jonathan Bustos,6382750526,Landmark Realty,3,B649
+A650,Ruby Mccartney,6382750527,CityScape Properties,3,B650
+A651,Karen Gray,6382750528,Prime Realty,4,B651
+A652,Tammy Persing,6382750529,Elite Property Solutions,3,B652
+A653,Irene Killingsworth,6382750530,Urban Nest Realty,3,B653
+A654,Gregory Shaw,6382750531,Dream Homes Agency,5,B654
+A655,Frances Williams,6382750532,Golden Key Realty,4,B655
+A656,Lori Whitten,6382750533,SmartSpace Properties,3,B656
+A657,Randy Douglas,6382750534,Horizon Realty Group,4,B657
+A658,Marjorie Townsend,6382750535,BlueStone Estates,5,B658
+A659,Michael Baumbach,6382750536,Landmark Realty,4,B659
+A660,Walter Bachleda,6382750537,CityScape Properties,3,B660
+A661,Terry Price,6382750538,Prime Realty,6,B661
+A662,Andera David,6382750539,Elite Property Solutions,3,B662
+A663,Ricardo Jaremka,6382750540,Urban Nest Realty,5,B663
+A664,Mary Givens,6382750541,Dream Homes Agency,3,B664
+A665,William Larmon,6382750542,Golden Key Realty,5,B665
+A666,Troy Robinson,6382750543,SmartSpace Properties,6,B666
+A667,Kimberly Mcmahon,6382750544,Horizon Realty Group,5,B667
+A668,Richard Puffinburger,6382750545,BlueStone Estates,6,B668
+A669,Regina Mosher,6382750546,Landmark Realty,5,B669
+A670,Carlos Barnett,6382750547,CityScape Properties,3,B670
+A671,Kathy Flores,6382750548,Prime Realty,5,B671
+A672,William Soto,6382750549,Elite Property Solutions,3,B672
+A673,Jean Whitfield,6382750550,Urban Nest Realty,6,B673
+A674,Alfredo Blessing,6382750551,Dream Homes Agency,4,B674
+A675,Salvador Fenton,6382750552,Golden Key Realty,4,B675
+A676,Patricia Murphy,6382750553,SmartSpace Properties,6,B676
+A677,Tyrone Cepero,6382750554,Horizon Realty Group,3,B677
+A678,David Sosa,6382750555,BlueStone Estates,3,B678
+A679,Ida Wilson,6382750556,Landmark Realty,5,B679
+A680,Aubrey Witman,6382750557,CityScape Properties,5,B680
+A681,Frances Zweifel,6382750558,Prime Realty,6,B681
+A682,Amberly Stevens,6382750559,Elite Property Solutions,3,B682
+A683,Ann Johnson,6382750560,Urban Nest Realty,5,B683
+A684,James Clancy,6382750561,Dream Homes Agency,5,B684
+A685,Mary Thompson,6382750562,Golden Key Realty,5,B685
+A686,Trinidad Altman,6382750563,SmartSpace Properties,6,B686
+A687,Rex Strassel,6382750564,Horizon Realty Group,4,B687
+A688,Cheri Atkinson,6382750565,BlueStone Estates,6,B688
+A689,Mitchell Conover,6382750566,Landmark Realty,6,B689
+A690,Norma Gregory,6382750567,CityScape Properties,3,B690
+A691,Cheryl Lutz,6382750568,Prime Realty,6,B691
+A692,Margaret Sliva,6382750569,Elite Property Solutions,6,B692
+A693,Jean Allen,6382750570,Urban Nest Realty,6,B693
+A694,Christopher Sosa,6382750571,Dream Homes Agency,5,B694
+A695,Frank Chagoya,6382750572,Golden Key Realty,3,B695
+A696,Cathy Reaves,6382750573,SmartSpace Properties,3,B696
+A697,Paul Reddish,6382750574,Horizon Realty Group,3,B697
+A698,Grace Doyle,6382750575,BlueStone Estates,5,B698
+A699,Thomas Lee,6382750576,Landmark Realty,5,B699
+A700,Gregory Stroman,6382750577,CityScape Properties,4,B700
+A701,Jean Smith,6382750578,Prime Realty,6,B701
+A702,Alma Gobel,6382750579,Elite Property Solutions,5,B702
+A703,Oscar Williams,6382750580,Urban Nest Realty,6,B703
+A704,Crystal Lehmann,6382750581,Dream Homes Agency,6,B704
+A705,Joann Wolfinger,6382750582,Golden Key Realty,4,B705
+A706,Linda Ross,6382750583,SmartSpace Properties,5,B706
+A707,Ellen Crawford,6382750584,Horizon Realty Group,5,B707
+A708,Shirley Denise,6382750585,BlueStone Estates,4,B708
+A709,Stephanie Lanno,6382750586,Landmark Realty,3,B709
+A710,Kevin Langley,6382750587,CityScape Properties,5,B710
+A711,Walter Whitener,6382750588,Prime Realty,6,B711
+A712,William Mcnally,6382750589,Elite Property Solutions,3,B712
+A713,Lois Walker,6382750590,Urban Nest Realty,6,B713
+A714,Sung Crowley,6382750591,Dream Homes Agency,3,B714
+A715,Robert Yeager,6382750592,Golden Key Realty,5,B715
+A716,Mirna Phillips,6382750593,SmartSpace Properties,3,B716
+A717,Levi Hamill,6382750594,Horizon Realty Group,6,B717
+A718,Malissa Hay,6382750595,BlueStone Estates,4,B718
+A719,Brian Gomez,6382750596,Landmark Realty,4,B719
+A720,Anita Martino,6382750597,CityScape Properties,5,B720
+A721,Teresa Vickers,6382750598,Prime Realty,3,B721
+A722,Philip Ruiz,6382750599,Elite Property Solutions,5,B722
+A723,Terrence Frink,6382750600,Urban Nest Realty,6,B723
+A724,Charles Sanders,6382750601,Dream Homes Agency,5,B724
+A725,Judy Davis,6382750602,Golden Key Realty,6,B725
+A726,Jose Martin,6382750603,SmartSpace Properties,3,B726
+A727,Gordon Desrochers,6382750604,Horizon Realty Group,4,B727
+A728,Paul Barnes,6382750605,BlueStone Estates,5,B728
+A729,James Webb,6382750606,Landmark Realty,3,B729
+A730,Phyllis Gully,6382750607,CityScape Properties,4,B730
+A731,Catherine Lair,6382750608,Prime Realty,6,B731
+A732,Brian Bilski,6382750609,Elite Property Solutions,4,B732
+A733,Donna Rodriguez,6382750610,Urban Nest Realty,5,B733
+A734,Shawn Hayden,6382750611,Dream Homes Agency,3,B734
+A735,Lula Brantley,6382750612,Golden Key Realty,5,B735
+A736,Alex Saddler,6382750613,SmartSpace Properties,4,B736
+A737,Andrew Davis,6382750614,Horizon Realty Group,6,B737
+A738,Mark Langehennig,6382750615,BlueStone Estates,3,B738
+A739,Mary Gentile,6382750616,Landmark Realty,5,B739
+A740,Lavonne Murphy,6382750617,CityScape Properties,3,B740
+A741,Susan Hendrix,6382750618,Prime Realty,4,B741
+A742,Joi Dewick,6382750619,Elite Property Solutions,3,B742
+A743,Christopher Hume,6382750620,Urban Nest Realty,5,B743
+A744,Alexa Cash,6382750621,Dream Homes Agency,4,B744
+A745,Barbara Usrey,6382750622,Golden Key Realty,3,B745
+A746,James Stone,6382750623,SmartSpace Properties,4,B746
+A747,Marie Johnstonbaugh,6382750624,Horizon Realty Group,3,B747
+A748,Joshua Kent,6382750625,BlueStone Estates,5,B748
+A749,Robert Cole,6382750626,Landmark Realty,6,B749
+A750,Ashlee Montgomery,6382750627,CityScape Properties,5,B750
+A751,Delia Darden,6382750628,Prime Realty,6,B751
+A752,Geraldine Bernard,6382750629,Elite Property Solutions,6,B752
+A753,Michael Pelletier,6382750630,Urban Nest Realty,6,B753
+A754,Mark Arnett,6382750631,Dream Homes Agency,4,B754
+A755,Charles Brown,6382750632,Golden Key Realty,3,B755
+A756,Denise Jackson,6382750633,SmartSpace Properties,6,B756
+A757,Nancy Do,6382750634,Horizon Realty Group,5,B757
+A758,Carol Goins,6382750635,BlueStone Estates,6,B758
+A759,Cindy Patterson,6382750636,Landmark Realty,5,B759
+A760,Cathy Burke,6382750637,CityScape Properties,6,B760
+A761,Winston Jackson,6382750638,Prime Realty,3,B761
+A762,Lora Cohen,6382750639,Elite Property Solutions,6,B762
+A763,Christine King,6382750640,Urban Nest Realty,6,B763
+A764,Mattie Foster,6382750641,Dream Homes Agency,3,B764
+A765,Lucille Joseph,6382750642,Golden Key Realty,3,B765
+A766,Kenneth Johnson,6382750643,SmartSpace Properties,6,B766
+A767,William Beale,6382750644,Horizon Realty Group,6,B767
+A768,Hugh Fallon,6382750645,BlueStone Estates,5,B768
+A769,Victoria Green,6382750646,Landmark Realty,4,B769
+A770,Steve Ortiz,6382750647,CityScape Properties,5,B770
+A771,Edna Foster,6382750648,Prime Realty,4,B771
+A772,Eddie Salazar,6382750649,Elite Property Solutions,4,B772
+A773,Walter Tillery,6382750650,Urban Nest Realty,3,B773
+A774,Brian Zuchelkowski,6382750651,Dream Homes Agency,5,B774
+A775,Richard Emery,6382750652,Golden Key Realty,5,B775
+A776,Theresa Garcia,6382750653,SmartSpace Properties,5,B776
+A777,Frances Nichols,6382750654,Horizon Realty Group,5,B777
+A778,Celestine Gustafson,6382750655,BlueStone Estates,5,B778
+A779,Kelli Orphey,6382750656,Landmark Realty,5,B779
+A780,Kathy Barnes,6382750657,CityScape Properties,3,B780
+A781,Ben Raheja,6382750658,Prime Realty,3,B781
+A782,Mary Melendez,6382750659,Elite Property Solutions,5,B782
+A783,David Rivera,6382750660,Urban Nest Realty,5,B783
+A784,Steven Mcsherry,6382750661,Dream Homes Agency,6,B784
+A785,Richard Villanueva,6382750662,Golden Key Realty,4,B785
+A786,Vickie Lyons,6382750663,SmartSpace Properties,5,B786
+A787,Richard Kut,6382750664,Horizon Realty Group,5,B787
+A788,Jeffrey Cooper,6382750665,BlueStone Estates,5,B788
+A789,Jonathan Kirkpatrick,6382750666,Landmark Realty,4,B789
+A790,Deborah Shannon,6382750667,CityScape Properties,5,B790
+A791,Jessie Esquibel,6382750668,Prime Realty,3,B791
+A792,Mark Lawrence,6382750669,Elite Property Solutions,5,B792
+A793,Sonia Bow,6382750670,Urban Nest Realty,5,B793
+A794,Christina Gibbs,6382750671,Dream Homes Agency,4,B794
+A795,Eugene Hughes,6382750672,Golden Key Realty,3,B795
+A796,Willard Dorsey,6382750673,SmartSpace Properties,3,B796
+A797,Dustin Hernandez,6382750674,Horizon Realty Group,4,B797
+A798,Nina Long,6382750675,BlueStone Estates,5,B798
+A799,Jerry Foster,6382750676,Landmark Realty,3,B799
+A800,Laura Lee,6382750677,CityScape Properties,3,B800
+A801,Danny Perez,6382750678,Prime Realty,4,B801
+A802,Millicent Tosh,6382750679,Elite Property Solutions,3,B802
+A803,Vernon Roberts,6382750680,Urban Nest Realty,3,B803
+A804,Kimberly Bartholomew,6382750681,Dream Homes Agency,4,B804
+A805,Joe Ettinger,6382750682,Golden Key Realty,5,B805
+A806,Shannon Stout,6382750683,SmartSpace Properties,4,B806
+A807,Darlene Garcia,6382750684,Horizon Realty Group,5,B807
+A808,Josephine Bevan,6382750685,BlueStone Estates,4,B808
+A809,Renee Selkirk,6382750686,Landmark Realty,6,B809
+A810,Catherine Su,6382750687,CityScape Properties,3,B810
+A811,Donnie Baker,6382750688,Prime Realty,4,B811
+A812,Julie Johnson,6382750689,Elite Property Solutions,3,B812
+A813,Darlene Boaz,6382750690,Urban Nest Realty,3,B813
+A814,Polly Araujo,6382750691,Dream Homes Agency,6,B814
+A815,Joe Upshaw,6382750692,Golden Key Realty,5,B815
+A816,Herman Matson,6382750693,SmartSpace Properties,3,B816
+A817,Marcelle Sloan,6382750694,Horizon Realty Group,3,B817
+A818,Douglas Yamamoto,6382750695,BlueStone Estates,5,B818
+A819,Noah Sandoval,6382750696,Landmark Realty,3,B819
+A820,Carlos Tenebruso,6382750697,CityScape Properties,5,B820
+A821,Marcus Rock,6382750698,Prime Realty,3,B821
+A822,Michele Welch,6382750699,Elite Property Solutions,6,B822
+A823,John Dombeck,6382750700,Urban Nest Realty,6,B823
+A824,Carol Keener,6382750701,Dream Homes Agency,6,B824
+A825,Steven Arbogast,6382750702,Golden Key Realty,3,B825
+A826,Christopher Davis,6382750703,SmartSpace Properties,6,B826
+A827,Candace Begay,6382750704,Horizon Realty Group,6,B827
+A828,Harold Swan,6382750705,BlueStone Estates,5,B828
+A829,William Coach,6382750706,Landmark Realty,5,B829
+A830,Connie Thomas,6382750707,CityScape Properties,6,B830
+A831,Misty Cosby,6382750708,Prime Realty,6,B831
+A832,Marc Tacker,6382750709,Elite Property Solutions,4,B832
+A833,Aimee Turnage,6382750710,Urban Nest Realty,4,B833
+A834,Katelyn Rutland,6382750711,Dream Homes Agency,3,B834
+A835,Manuel Knight,6382750712,Golden Key Realty,4,B835
+A836,Zachary Lanser,6382750713,SmartSpace Properties,4,B836
+A837,Victoria Reynolds,6382750714,Horizon Realty Group,5,B837
+A838,Alicia Conners,6382750715,BlueStone Estates,3,B838
+A839,Charles Gloria,6382750716,Landmark Realty,4,B839
+A840,Samuel Martin,6382750717,CityScape Properties,6,B840
+A841,Roger Barton,6382750718,Prime Realty,4,B841
+A842,Justin Rood,6382750719,Elite Property Solutions,4,B842
+A843,Roderick Simmons,6382750720,Urban Nest Realty,5,B843
+A844,Bernard Meade,6382750721,Dream Homes Agency,3,B844
+A845,Philip Ramirez,6382750722,Golden Key Realty,4,B845
+A846,Teresa Forrester,6382750723,SmartSpace Properties,3,B846
+A847,Alejandro Manuel,6382750724,Horizon Realty Group,6,B847
+A848,John Pace,6382750725,BlueStone Estates,3,B848
+A849,Robin Hottel,6382750726,Landmark Realty,6,B849
+A850,Russell Rivers,6382750727,CityScape Properties,4,B850
+A851,Karen Price,6382750728,Prime Realty,3,B851
+A852,Darlene Outman,6382750729,Elite Property Solutions,5,B852
+A853,Valerie Keller,6382750730,Urban Nest Realty,3,B853
+A854,James Calhoun,6382750731,Dream Homes Agency,4,B854
+A855,John Jeffers,6382750732,Golden Key Realty,6,B855
+A856,Marcus Simon,6382750733,SmartSpace Properties,5,B856
+A857,Tim Henry,6382750734,Horizon Realty Group,6,B857
+A858,Susie Thrill,6382750735,BlueStone Estates,5,B858
+A859,Jesse Walker,6382750736,Landmark Realty,4,B859
+A860,Emma Bell,6382750737,CityScape Properties,6,B860
+A861,Michael Wager,6382750738,Prime Realty,5,B861
+A862,Gabriel Robyn,6382750739,Elite Property Solutions,4,B862
+A863,Randy Sea,6382750740,Urban Nest Realty,6,B863
+A864,James Jones,6382750741,Dream Homes Agency,5,B864
+A865,Mia Obleton,6382750742,Golden Key Realty,4,B865
+A866,Olga Richardson,6382750743,SmartSpace Properties,5,B866
+A867,Wyatt Gonzalez,6382750744,Horizon Realty Group,3,B867
+A868,Barbara Pineda,6382750745,BlueStone Estates,3,B868
+A869,Norman Clark,6382750746,Landmark Realty,6,B869
+A870,Theodore Garland,6382750747,CityScape Properties,3,B870
+A871,Michiko Ochs,6382750748,Prime Realty,5,B871
+A872,David Hess,6382750749,Elite Property Solutions,6,B872
+A873,Edward Smith,6382750750,Urban Nest Realty,6,B873
+A874,Gloria Curley,6382750751,Dream Homes Agency,4,B874
+A875,Jack Haile,6382750752,Golden Key Realty,5,B875
+A876,Edda Montoya,6382750753,SmartSpace Properties,6,B876
+A877,Bobbie Cornett,6382750754,Horizon Realty Group,6,B877
+A878,Kathleen Skaggs,6382750755,BlueStone Estates,6,B878
+A879,Keith Vass,6382750756,Landmark Realty,5,B879
+A880,Frank Ostrowski,6382750757,CityScape Properties,3,B880
+A881,Patricia Upchurch,6382750758,Prime Realty,5,B881
+A882,Patricia Reed,6382750759,Elite Property Solutions,4,B882
+A883,Alden Lane,6382750760,Urban Nest Realty,6,B883
+A884,Marvin Benson,6382750761,Dream Homes Agency,6,B884
+A885,Kim Keh,6382750762,Golden Key Realty,4,B885
+A886,Carlos Charles,6382750763,SmartSpace Properties,5,B886
+A887,Karen Johnson,6382750764,Horizon Realty Group,3,B887
+A888,Velma Schmal,6382750765,BlueStone Estates,4,B888
+A889,Devin Gault,6382750766,Landmark Realty,6,B889
+A890,Susan White,6382750767,CityScape Properties,5,B890
+A891,Charles Cleghorn,6382750768,Prime Realty,4,B891
+A892,James Frederick,6382750769,Elite Property Solutions,3,B892
+A893,Shannon Maddox,6382750770,Urban Nest Realty,3,B893
+A894,Lisa Gilbert,6382750771,Dream Homes Agency,5,B894
+A895,Lisa Herrin,6382750772,Golden Key Realty,6,B895
+A896,Kris Segrest,6382750773,SmartSpace Properties,6,B896
+A897,Mary Watson,6382750774,Horizon Realty Group,4,B897
+A898,Diane Hernandez,6382750775,BlueStone Estates,3,B898
+A899,Kaci Parham,6382750776,Landmark Realty,5,B899
+A900,Christopher George,6382750777,CityScape Properties,6,B900
+A901,Lillian Norris,6382750778,Prime Realty,4,B901
+A902,Betty Sierra,6382750779,Elite Property Solutions,4,B902
+A903,Carmen Mcguire,6382750780,Urban Nest Realty,5,B903
+A904,Samuel Harris,6382750781,Dream Homes Agency,3,B904
+A905,Shirley Carpenter,6382750782,Golden Key Realty,3,B905
+A906,Joan Nale,6382750783,SmartSpace Properties,5,B906
+A907,Dianne Whitfield,6382750784,Horizon Realty Group,6,B907
+A908,Doris Abel,6382750785,BlueStone Estates,5,B908
+A909,Russell Caballero,6382750786,Landmark Realty,5,B909
+A910,Crystal Otis,6382750787,CityScape Properties,5,B910
+A911,Marion Strong,6382750788,Prime Realty,4,B911
+A912,Martha Parnell,6382750789,Elite Property Solutions,5,B912
+A913,Janet Ramos,6382750790,Urban Nest Realty,5,B913
+A914,Gerald Balado,6382750791,Dream Homes Agency,4,B914
+A915,Jennifer Marro,6382750792,Golden Key Realty,3,B915
+A916,Tamela Galyen,6382750793,SmartSpace Properties,3,B916
+A917,Richard Mcconnell,6382750794,Horizon Realty Group,3,B917
+A918,Jo Malloy,6382750795,BlueStone Estates,3,B918
+A919,Jose Martin,6382750796,Landmark Realty,6,B919
+A920,Emily Sietsma,6382750797,CityScape Properties,3,B920
+A921,Ruth Busby,6382750798,Prime Realty,4,B921
+A922,Teresa Turner,6382750799,Elite Property Solutions,4,B922
+A923,Charles Cutright,6382750800,Urban Nest Realty,6,B923
+A924,Eva Dean,6382750801,Dream Homes Agency,3,B924
+A925,Robert Lozano,6382750802,Golden Key Realty,3,B925
+A926,Dolores Mohead,6382750803,SmartSpace Properties,4,B926
+A927,Kathleen George,6382750804,Horizon Realty Group,6,B927
+A928,Rosemary Barger,6382750805,BlueStone Estates,3,B928
+A929,Jannie Davis,6382750806,Landmark Realty,6,B929
+A930,Gary Uhrig,6382750807,CityScape Properties,5,B930
+A931,Samuel Hacker,6382750808,Prime Realty,5,B931
+A932,Alissa Norton,6382750809,Elite Property Solutions,6,B932
+A933,Duane Hunt,6382750810,Urban Nest Realty,5,B933
+A934,Rubie Fritts,6382750811,Dream Homes Agency,4,B934
+A935,Leo Shaw,6382750812,Golden Key Realty,3,B935
+A936,James Medved,6382750813,SmartSpace Properties,4,B936
+A937,Frank Ma,6382750814,Horizon Realty Group,5,B937
+A938,Elizabeth Johson,6382750815,BlueStone Estates,4,B938
+A939,Perry Marquez,6382750816,Landmark Realty,5,B939
+A940,Jose Apel,6382750817,CityScape Properties,4,B940
+A941,Kenny Ortiz,6382750818,Prime Realty,6,B941
+A942,Andrew Morris,6382750819,Elite Property Solutions,4,B942
+A943,Susan Lovelady,6382750820,Urban Nest Realty,4,B943
+A944,Frank Viola,6382750821,Dream Homes Agency,4,B944
+A945,Janet Devine,6382750822,Golden Key Realty,3,B945
+A946,Stacey Brawer,6382750823,SmartSpace Properties,4,B946
+A947,Stacy Boyd,6382750824,Horizon Realty Group,4,B947
+A948,Helen Duane,6382750825,BlueStone Estates,6,B948
+A949,John Rich,6382750826,Landmark Realty,6,B949
+A950,Millicent Mossman,6382750827,CityScape Properties,3,B950
+A951,Doris Vigil,6382750828,Prime Realty,3,B951
+A952,Alline Anderson,6382750829,Elite Property Solutions,3,B952
+A953,Heather Payne,6382750830,Urban Nest Realty,5,B953
+A954,Doris Hiemstra,6382750831,Dream Homes Agency,4,B954
+A955,Gregory Turner,6382750832,Golden Key Realty,6,B955
+A956,Rachelle Alexander,6382750833,SmartSpace Properties,6,B956
+A957,Virginia Frank,6382750834,Horizon Realty Group,5,B957
+A958,Daniel Watts,6382750835,BlueStone Estates,6,B958
+A959,Robert Cope,6382750836,Landmark Realty,6,B959
+A960,James Baker,6382750837,CityScape Properties,5,B960
+A961,Todd Coleman,6382750838,Prime Realty,6,B961
+A962,Carl Johnson,6382750839,Elite Property Solutions,4,B962
+A963,Linda Morris,6382750840,Urban Nest Realty,4,B963
+A964,Larry Ingram,6382750841,Dream Homes Agency,4,B964
+A965,Kristine Hunter,6382750842,Golden Key Realty,6,B965
+A966,David Bussell,6382750843,SmartSpace Properties,6,B966
+A967,Brandon Coaxum,6382750844,Horizon Realty Group,4,B967
+A968,Helen Denson,6382750845,BlueStone Estates,3,B968
+A969,Betty Hutchings,6382750846,Landmark Realty,5,B969
+A970,William Mccray,6382750847,CityScape Properties,3,B970
+A971,Cheryl Schultz,6382750848,Prime Realty,5,B971
+A972,Robert Gamba,6382750849,Elite Property Solutions,3,B972
+A973,Morris Wood,6382750850,Urban Nest Realty,4,B973
+A974,Mark Blake,6382750851,Dream Homes Agency,3,B974
+A975,William Kimbrough,6382750852,Golden Key Realty,6,B975
+A976,Lucius Vasser,6382750853,SmartSpace Properties,5,B976
+A977,Shawnee Johnston,6382750854,Horizon Realty Group,4,B977
+A978,Jeffery Fujii,6382750855,BlueStone Estates,3,B978
+A979,Joan Williams,6382750856,Landmark Realty,6,B979
+A980,Melinda Dickey,6382750857,CityScape Properties,3,B980
+A981,Gene Angulo,6382750858,Prime Realty,5,B981
+A982,Eileen Norton,6382750859,Elite Property Solutions,4,B982
+A983,Craig Smith,6382750860,Urban Nest Realty,5,B983
+A984,Kami Jackson,6382750861,Dream Homes Agency,5,B984
+A985,Jesse Massengale,6382750862,Golden Key Realty,3,B985
+A986,Susan Plemons,6382750863,SmartSpace Properties,3,B986
+A987,Richard Roark,6382750864,Horizon Realty Group,4,B987
+A988,Michael Hardy,6382750865,BlueStone Estates,3,B988
+A989,James Carter,6382750866,Landmark Realty,4,B989
+A990,Amanda Pierce,6382750867,CityScape Properties,5,B990
+A991,James Miller,6382750868,Prime Realty,4,B991
+A992,Evelyn Cooley,6382750869,Elite Property Solutions,3,B992
+A993,Latonya Perritt,6382750870,Urban Nest Realty,4,B993
+A994,Rikki Jackson,6382750871,Dream Homes Agency,3,B994
+A995,Michael Mccray,6382750872,Golden Key Realty,5,B995
+A996,Elton Trudeau,6382750873,SmartSpace Properties,5,B996
+A997,Andrew West,6382750874,Horizon Realty Group,5,B997
+A998,Kim Fierro,6382750875,BlueStone Estates,6,B998
+A999,Charles Milne,6382750876,Landmark Realty,3,B999
+A1000,Sharon Hendrix,6382750877,CityScape Properties,3,B1000
+A1001,Philip Hart,6382750878,Prime Realty,5,B1001
+A1002,Mildred Rainwater,6382750879,Elite Property Solutions,3,B1002
+A1003,Kenneth Mitchell,6382750880,Urban Nest Realty,3,B1003
+A1004,Clyde Griffith,6382750881,Dream Homes Agency,3,B1004
+A1005,Kenneth Killion,6382750882,Golden Key Realty,4,B1005
+A1006,Burton Evans,6382750883,SmartSpace Properties,4,B1006
+A1007,Stanley Hinson,6382750884,Horizon Realty Group,6,B1007
+A1008,Thomas Nebergall,6382750885,BlueStone Estates,4,B1008
+A1009,Robert Velasquez,6382750886,Landmark Realty,5,B1009
+A1010,Alice Olague,6382750887,CityScape Properties,6,B1010
+A1011,Marla Ogami,6382750888,Prime Realty,4,B1011
+A1012,Kari Payton,6382750889,Elite Property Solutions,5,B1012
+A1013,Jack Cason,6382750890,Urban Nest Realty,3,B1013
+A1014,Linda Carter,6382750891,Dream Homes Agency,5,B1014
+A1015,Theron Coffman,6382750892,Golden Key Realty,4,B1015
+A1016,Gerald Honokaupu,6382750893,SmartSpace Properties,4,B1016
+A1017,Eric Zucker,6382750894,Horizon Realty Group,3,B1017
+A1018,Helen Carver,6382750895,BlueStone Estates,3,B1018
+A1019,Andrea Congress,6382750896,Landmark Realty,3,B1019
+A1020,Frederick Asuncion,6382750897,CityScape Properties,5,B1020
+A1021,Linda Weingard,6382750898,Prime Realty,3,B1021
+A1022,Diane Berry,6382750899,Elite Property Solutions,5,B1022
+A1023,Christi Clements,6382750900,Urban Nest Realty,5,B1023
+A1024,Gloria Beck,6382750901,Dream Homes Agency,5,B1024
+A1025,Willie Hannah,6382750902,Golden Key Realty,3,B1025
+A1026,Lloyd Ryan,6382750903,SmartSpace Properties,6,B1026
+A1027,Jeremy Rocque,6382750904,Horizon Realty Group,4,B1027
+A1028,Donald Stephens,6382750905,BlueStone Estates,4,B1028
+A1029,Justine Yanchik,6382750906,Landmark Realty,6,B1029
+A1030,Marlene Miah,6382750907,CityScape Properties,4,B1030
+A1031,Tiffany Peak,6382750908,Prime Realty,3,B1031
+A1032,Barbara Banks,6382750909,Elite Property Solutions,5,B1032
+A1033,Joseph Amato,6382750910,Urban Nest Realty,5,B1033
+A1034,Mirella Thornburg,6382750911,Dream Homes Agency,6,B1034
+A1035,Dwight Lanzilotta,6382750912,Golden Key Realty,5,B1035
+A1036,Bobbie Henrick,6382750913,SmartSpace Properties,4,B1036
+A1037,Kimberly Galindo,6382750914,Horizon Realty Group,5,B1037
+A1038,Patricia Johnson,6382750915,BlueStone Estates,5,B1038
+A1039,Kristen Blocker,6382750916,Landmark Realty,5,B1039
+A1040,Arlene Gannon,6382750917,CityScape Properties,6,B1040
+A1041,Dennis Craig,6382750918,Prime Realty,4,B1041
+A1042,Bessie Chavez,6382750919,Elite Property Solutions,4,B1042
+A1043,Tom Cade,6382750920,Urban Nest Realty,6,B1043
+A1044,Justin Rios,6382750921,Dream Homes Agency,6,B1044
+A1045,Daniel Martin,6382750922,Golden Key Realty,3,B1045
+A1046,Justin Harper,6382750923,SmartSpace Properties,6,B1046
+A1047,Eric Washington,6382750924,Horizon Realty Group,5,B1047
+A1048,Timothy Haaby,6382750925,BlueStone Estates,6,B1048
+A1049,Ethel Breland,6382750926,Landmark Realty,6,B1049
+A1050,Sandra Sullivan,6382750927,CityScape Properties,5,B1050
+A1051,Cory Boes,6382750928,Prime Realty,4,B1051
+A1052,Russell Thomas,6382750929,Elite Property Solutions,4,B1052
+A1053,Ana Blanton,6382750930,Urban Nest Realty,3,B1053
+A1054,James Rhew,6382750931,Dream Homes Agency,4,B1054
+A1055,Barbara Priolean,6382750932,Golden Key Realty,6,B1055
+A1056,Earl Murphy,6382750933,SmartSpace Properties,6,B1056
+A1057,Helen Jones,6382750934,Horizon Realty Group,5,B1057
+A1058,Mary Gardner,6382750935,BlueStone Estates,6,B1058
+A1059,Georgianna Bard,6382750936,Landmark Realty,6,B1059
+A1060,Mark Kelly,6382750937,CityScape Properties,3,B1060
+A1061,James Lee,6382750938,Prime Realty,3,B1061
+A1062,Randolph Mckay,6382750939,Elite Property Solutions,6,B1062
+A1063,William Estrada,6382750940,Urban Nest Realty,5,B1063
+A1064,Jolene Hillman,6382750941,Dream Homes Agency,4,B1064
+A1065,Antonio Miller,6382750942,Golden Key Realty,5,B1065
+A1066,Heather Brown,6382750943,SmartSpace Properties,5,B1066
+A1067,Herbert Bearden,6382750944,Horizon Realty Group,5,B1067
+A1068,Erik Kimbler,6382750945,BlueStone Estates,6,B1068
+A1069,Wayne Crosley,6382750946,Landmark Realty,5,B1069
+A1070,Linda Schiffman,6382750947,CityScape Properties,6,B1070
+A1071,Henry Rothstein,6382750948,Prime Realty,4,B1071
+A1072,Kathy Rodriquez,6382750949,Elite Property Solutions,3,B1072
+A1073,Edwina Bannister,6382750950,Urban Nest Realty,6,B1073
+A1074,Richard Martino,6382750951,Dream Homes Agency,5,B1074
+A1075,Eric Poindexter,6382750952,Golden Key Realty,5,B1075
+A1076,Gretchen Benson,6382750953,SmartSpace Properties,3,B1076
+A1077,Louis Watson,6382750954,Horizon Realty Group,4,B1077
+A1078,Jodie Hamrick,6382750955,BlueStone Estates,3,B1078
+A1079,Rick Justice,6382750956,Landmark Realty,4,B1079
+A1080,Betty Savory,6382750957,CityScape Properties,4,B1080
+A1081,Piper Mallat,6382750958,Prime Realty,3,B1081
+A1082,Christopher Carpentier,6382750959,Elite Property Solutions,5,B1082
+A1083,Christopher Cobian,6382750960,Urban Nest Realty,6,B1083
+A1084,Alex Corral,6382750961,Dream Homes Agency,3,B1084
+A1085,Bertha Ice,6382750962,Golden Key Realty,3,B1085
+A1086,Theodore Erickson,6382750963,SmartSpace Properties,3,B1086
+A1087,Pedro Ferguson,6382750964,Horizon Realty Group,5,B1087
+A1088,Marian Gregory,6382750965,BlueStone Estates,3,B1088
+A1089,Marjorie Curran,6382750966,Landmark Realty,5,B1089
+A1090,Henry Richards,6382750967,CityScape Properties,4,B1090
+A1091,Paula Koger,6382750968,Prime Realty,6,B1091
+A1092,Floyd Maloney,6382750969,Elite Property Solutions,5,B1092
+A1093,Jorge Hill,6382750970,Urban Nest Realty,5,B1093
+A1094,Margaret Marble,6382750971,Dream Homes Agency,6,B1094
+A1095,Joanne Bisonette,6382750972,Golden Key Realty,5,B1095
+A1096,Ingrid Watkins,6382750973,SmartSpace Properties,3,B1096
+A1097,Tyler Mortenson,6382750974,Horizon Realty Group,6,B1097
+A1098,Cynthia Guest,6382750975,BlueStone Estates,5,B1098
+A1099,Lawrence Sanders,6382750976,Landmark Realty,4,B1099
+A1100,Julie Ortiz,6382750977,CityScape Properties,3,B1100
+A1101,Teresa Maiden,6382750978,Prime Realty,4,B1101
+A1102,Lois Delao,6382750979,Elite Property Solutions,3,B1102
+A1103,Vern Moss,6382750980,Urban Nest Realty,6,B1103
+A1104,June Doctor,6382750981,Dream Homes Agency,6,B1104
+A1105,Sharon Flood,6382750982,Golden Key Realty,3,B1105
+A1106,Reta Erlebach,6382750983,SmartSpace Properties,5,B1106
+A1107,William Engle,6382750984,Horizon Realty Group,5,B1107
+A1108,Latarsha Dean,6382750985,BlueStone Estates,3,B1108
+A1109,Oscar Fowler,6382750986,Landmark Realty,5,B1109
+A1110,Wilfred Henderson,6382750987,CityScape Properties,6,B1110
+A1111,Gordon Weintraub,6382750988,Prime Realty,4,B1111
+A1112,Evelyn Albrecht,6382750989,Elite Property Solutions,5,B1112
+A1113,Ariel Beringer,6382750990,Urban Nest Realty,6,B1113
+A1114,Addie Baez,6382750991,Dream Homes Agency,6,B1114
+A1115,Frederick Levenstein,6382750992,Golden Key Realty,4,B1115
+A1116,Walter Flint,6382750993,SmartSpace Properties,3,B1116
+A1117,Saundra Doyle,6382750994,Horizon Realty Group,4,B1117
+A1118,Taylor Thomas,6382750995,BlueStone Estates,4,B1118
+A1119,Humberto Welch,6382750996,Landmark Realty,4,B1119
+A1120,Gerald Griffin,6382750997,CityScape Properties,4,B1120
+A1121,Nancy Yates,6382750998,Prime Realty,4,B1121
+A1122,Robert Cummings,6382750999,Elite Property Solutions,6,B1122
+A1123,Brian Haller,6382751000,Urban Nest Realty,4,B1123
+A1124,Mona Montano,6382751001,Dream Homes Agency,4,B1124
+A1125,Jeffery Bradford,6382751002,Golden Key Realty,5,B1125
+A1126,Christopher Ford,6382751003,SmartSpace Properties,3,B1126
+A1127,Angela Walton,6382751004,Horizon Realty Group,5,B1127
+A1128,Leroy Cummins,6382751005,BlueStone Estates,4,B1128
+A1129,William Putnam,6382751006,Landmark Realty,3,B1129
+A1130,Edgar Oley,6382751007,CityScape Properties,3,B1130
+A1131,Ben Dewitt,6382751008,Prime Realty,4,B1131
+A1132,Laverne Folwell,6382751009,Elite Property Solutions,5,B1132
+A1133,Kim Gainer,6382751010,Urban Nest Realty,3,B1133
+A1134,Jeff Cooper,6382751011,Dream Homes Agency,6,B1134
+A1135,Sadie Greenhoward,6382751012,Golden Key Realty,6,B1135
+A1136,Timothy Le,6382751013,SmartSpace Properties,6,B1136
+A1137,Elizabeth Marrin,6382751014,Horizon Realty Group,4,B1137
+A1138,Stephen Valerio,6382751015,BlueStone Estates,5,B1138
+A1139,Addie Kraus,6382751016,Landmark Realty,4,B1139
+A1140,Eleanor Hight,6382751017,CityScape Properties,4,B1140
+A1141,Miguel Rocha,6382751018,Prime Realty,3,B1141
+A1142,Fern Patel,6382751019,Elite Property Solutions,5,B1142
+A1143,Kenneth Philbrick,6382751020,Urban Nest Realty,5,B1143
+A1144,Courtney Muller,6382751021,Dream Homes Agency,5,B1144
+A1145,Robert Smith,6382751022,Golden Key Realty,5,B1145
+A1146,Daniel Orms,6382751023,SmartSpace Properties,3,B1146
+A1147,Agnes Newman,6382751024,Horizon Realty Group,5,B1147
+A1148,Steven Gonzales,6382751025,BlueStone Estates,3,B1148
+A1149,Mark Jacobs,6382751026,Landmark Realty,6,B1149
+A1150,Kenneth Dexter,6382751027,CityScape Properties,5,B1150
+A1151,Sally Moody,6382751028,Prime Realty,5,B1151
+A1152,Joshua Karnes,6382751029,Elite Property Solutions,3,B1152
+A1153,Mildred Brill,6382751030,Urban Nest Realty,6,B1153
+A1154,Lorena Rhoads,6382751031,Dream Homes Agency,6,B1154
+A1155,Adam Hirst,6382751032,Golden Key Realty,3,B1155
+A1156,Ashley Kendrick,6382751033,SmartSpace Properties,6,B1156
+A1157,Hubert Niswander,6382751034,Horizon Realty Group,3,B1157
+A1158,Gale Caraballo,6382751035,BlueStone Estates,5,B1158
+A1159,Cindy Garman,6382751036,Landmark Realty,5,B1159
+A1160,Mary Fortune,6382751037,CityScape Properties,5,B1160
+A1161,Mamie Turner,6382751038,Prime Realty,6,B1161
+A1162,Tabatha Ebling,6382751039,Elite Property Solutions,3,B1162
+A1163,Mark Vandenbosch,6382751040,Urban Nest Realty,4,B1163
+A1164,Rachel Green,6382751041,Dream Homes Agency,6,B1164
+A1165,Virginia Cloer,6382751042,Golden Key Realty,5,B1165
+A1166,Andrew Levins,6382751043,SmartSpace Properties,6,B1166
+A1167,Erica Wynn,6382751044,Horizon Realty Group,3,B1167
+A1168,Laura Fullerton,6382751045,BlueStone Estates,5,B1168
+A1169,Clara Bishop,6382751046,Landmark Realty,6,B1169
+A1170,Jason Evans,6382751047,CityScape Properties,6,B1170
+A1171,Robert Terkelsen,6382751048,Prime Realty,6,B1171
+A1172,James Taylor,6382751049,Elite Property Solutions,4,B1172
+A1173,Elizabeth Beach,6382751050,Urban Nest Realty,6,B1173
+A1174,Barbara Bell,6382751051,Dream Homes Agency,6,B1174
+A1175,Esmeralda Chavez,6382751052,Golden Key Realty,4,B1175
+A1176,Anthony Robinson,6382751053,SmartSpace Properties,4,B1176
+A1177,Juliana Mcginnis,6382751054,Horizon Realty Group,4,B1177
+A1178,William Little,6382751055,BlueStone Estates,6,B1178
+A1179,Robert Wilson,6382751056,Landmark Realty,5,B1179
+A1180,Dennis Evans,6382751057,CityScape Properties,5,B1180
+A1181,Harry Hernandez,6382751058,Prime Realty,3,B1181
+A1182,Luciano Kenoyer,6382751059,Elite Property Solutions,5,B1182
+A1183,James Webb,6382751060,Urban Nest Realty,4,B1183
+A1184,Desiree Watkins,6382751061,Dream Homes Agency,6,B1184
+A1185,Gary Marshall,6382751062,Golden Key Realty,5,B1185
+A1186,Gregory Williams,6382751063,SmartSpace Properties,4,B1186
+A1187,Jeremiah Olds,6382751064,Horizon Realty Group,5,B1187
+A1188,Robin Godfrey,6382751065,BlueStone Estates,3,B1188
+A1189,Alan Smith,6382751066,Landmark Realty,4,B1189
+A1190,Terri Radford,6382751067,CityScape Properties,5,B1190
+A1191,Lisa Ingle,6382751068,Prime Realty,4,B1191
+A1192,Brian Gonzales,6382751069,Elite Property Solutions,5,B1192
+A1193,Lynn Longsdorf,6382751070,Urban Nest Realty,6,B1193
+A1194,Ross Rigsby,6382751071,Dream Homes Agency,3,B1194
+A1195,Jonathan Richardson,6382751072,Golden Key Realty,4,B1195
+A1196,Debbie Nery,6382751073,SmartSpace Properties,3,B1196
+A1197,Jason Chaney,6382751074,Horizon Realty Group,3,B1197
+A1198,Paul Weiler,6382751075,BlueStone Estates,4,B1198
+A1199,Becky Vasquez,6382751076,Landmark Realty,6,B1199
+A1200,Fred Vanhoose,6382751077,CityScape Properties,4,B1200
+A1201,Robert Parsons,6382751078,Prime Realty,6,B1201
+A1202,Willie King,6382751079,Elite Property Solutions,6,B1202
+A1203,Ann Knisley,6382751080,Urban Nest Realty,4,B1203
+A1204,Charles Martinez,6382751081,Dream Homes Agency,6,B1204
+A1205,Donald Flores,6382751082,Golden Key Realty,3,B1205
+A1206,Mark Rinks,6382751083,SmartSpace Properties,4,B1206
+A1207,Flora Seymour,6382751084,Horizon Realty Group,3,B1207
+A1208,Joe Delarosa,6382751085,BlueStone Estates,5,B1208
+A1209,Taylor Shiels,6382751086,Landmark Realty,4,B1209
+A1210,Betty Webster,6382751087,CityScape Properties,4,B1210
+A1211,Billy Hollis,6382751088,Prime Realty,5,B1211
+A1212,Billy Tripp,6382751089,Elite Property Solutions,6,B1212
+A1213,Maximo Walker,6382751090,Urban Nest Realty,6,B1213
+A1214,Shannon Duque,6382751091,Dream Homes Agency,3,B1214
+A1215,Josefina Ewing,6382751092,Golden Key Realty,4,B1215
+A1216,Diego Davis,6382751093,SmartSpace Properties,5,B1216
+A1217,Autumn Welsh,6382751094,Horizon Realty Group,4,B1217
+A1218,John Mccormick,6382751095,BlueStone Estates,4,B1218
+A1219,Aline French,6382751096,Landmark Realty,5,B1219
+A1220,Jennifer Weiner,6382751097,CityScape Properties,3,B1220
+A1221,Reginald Jones,6382751098,Prime Realty,3,B1221
+A1222,Pearly Wiseman,6382751099,Elite Property Solutions,6,B1222
+A1223,Donnie Rome,6382751100,Urban Nest Realty,4,B1223
+A1224,Floyd Molina,6382751101,Dream Homes Agency,3,B1224
+A1225,Nichole Martin,6382751102,Golden Key Realty,3,B1225
+A1226,Robert Falcon,6382751103,SmartSpace Properties,4,B1226
+A1227,Lila Miner,6382751104,Horizon Realty Group,3,B1227
+A1228,Nicole Hattaway,6382751105,BlueStone Estates,3,B1228
+A1229,Robert Nykiel,6382751106,Landmark Realty,6,B1229
+A1230,Myra Rose,6382751107,CityScape Properties,4,B1230
+A1231,Carolyn Zeinert,6382751108,Prime Realty,5,B1231
+A1232,Casey Szeto,6382751109,Elite Property Solutions,5,B1232
+A1233,Robert Vanegas,6382751110,Urban Nest Realty,3,B1233
+A1234,Michael Harbaugh,6382751111,Dream Homes Agency,5,B1234
+A1235,Carmen Reeve,6382751112,Golden Key Realty,6,B1235
+A1236,Janet Hanson,6382751113,SmartSpace Properties,4,B1236
+A1237,Richard Samuel,6382751114,Horizon Realty Group,4,B1237
+A1238,Robert Kline,6382751115,BlueStone Estates,4,B1238
+A1239,Roy Little,6382751116,Landmark Realty,5,B1239
+A1240,Nathaniel Stephens,6382751117,CityScape Properties,4,B1240
+A1241,Edna Hanson,6382751118,Prime Realty,3,B1241
+A1242,Mary Sandoval,6382751119,Elite Property Solutions,3,B1242
+A1243,Jonathan Caneva,6382751120,Urban Nest Realty,3,B1243
+A1244,Christina Biles,6382751121,Dream Homes Agency,6,B1244
+A1245,William Lagnese,6382751122,Golden Key Realty,4,B1245
+A1246,Donald Hiller,6382751123,SmartSpace Properties,4,B1246
+A1247,Edward Morris,6382751124,Horizon Realty Group,4,B1247
+A1248,Vera Vargas,6382751125,BlueStone Estates,5,B1248
+A1249,Ryan Sarris,6382751126,Landmark Realty,5,B1249
+A1250,Dorothy Fuoco,6382751127,CityScape Properties,4,B1250
+A1251,Luther Taylor,6382751128,Prime Realty,4,B1251
+A1252,Ana Wilder,6382751129,Elite Property Solutions,6,B1252
+A1253,Ellen Bass,6382751130,Urban Nest Realty,3,B1253
+A1254,John Wright,6382751131,Dream Homes Agency,6,B1254
+A1255,Wanda Cox,6382751132,Golden Key Realty,3,B1255
+A1256,Jody Hinkle,6382751133,SmartSpace Properties,5,B1256
+A1257,Monica Allen,6382751134,Horizon Realty Group,6,B1257
+A1258,Christina Roman,6382751135,BlueStone Estates,5,B1258
+A1259,Lauretta Burke,6382751136,Landmark Realty,6,B1259
+A1260,Sandra Phelps,6382751137,CityScape Properties,5,B1260
+A1261,Maryjane Garza,6382751138,Prime Realty,5,B1261
+A1262,Daniel Young,6382751139,Elite Property Solutions,6,B1262
+A1263,Diane Harris,6382751140,Urban Nest Realty,6,B1263
+A1264,Joseph Drane,6382751141,Dream Homes Agency,4,B1264
+A1265,James Speer,6382751142,Golden Key Realty,4,B1265
+A1266,Walter Williams,6382751143,SmartSpace Properties,4,B1266
+A1267,Robert Duncan,6382751144,Horizon Realty Group,4,B1267
+A1268,Vera Vandiver,6382751145,BlueStone Estates,6,B1268
+A1269,Rachael Taylor,6382751146,Landmark Realty,3,B1269
+A1270,Jose Sinclair,6382751147,CityScape Properties,4,B1270
+A1271,Phyllis Kissell,6382751148,Prime Realty,6,B1271
+A1272,Kim Griffin,6382751149,Elite Property Solutions,4,B1272
+A1273,Fabiola Duncan,6382751150,Urban Nest Realty,5,B1273
+A1274,Danny Kuhn,6382751151,Dream Homes Agency,4,B1274
+A1275,Frank Gonzalez,6382751152,Golden Key Realty,5,B1275
+A1276,Jimmy Hill,6382751153,SmartSpace Properties,4,B1276
+A1277,Roy Bray,6382751154,Horizon Realty Group,5,B1277
+A1278,Vicki Mcgee,6382751155,BlueStone Estates,6,B1278
+A1279,Brian Scott,6382751156,Landmark Realty,5,B1279
+A1280,Andrea Willis,6382751157,CityScape Properties,5,B1280
+A1281,Bobbie Cruz,6382751158,Prime Realty,6,B1281
+A1282,Mary Little,6382751159,Elite Property Solutions,3,B1282
+A1283,Edward Carns,6382751160,Urban Nest Realty,4,B1283
+A1284,Fernanda Huff,6382751161,Dream Homes Agency,5,B1284
+A1285,Catherine Mcdonald,6382751162,Golden Key Realty,3,B1285
+A1286,Janet Patterson,6382751163,SmartSpace Properties,6,B1286
+A1287,Debbie Baker,6382751164,Horizon Realty Group,6,B1287
+A1288,Amy Franks,6382751165,BlueStone Estates,5,B1288
+A1289,Lindsey Mckinley,6382751166,Landmark Realty,4,B1289
+A1290,Debra Mullins,6382751167,CityScape Properties,3,B1290
+A1291,Harold Sampson,6382751168,Prime Realty,6,B1291
+A1292,Carolina Hughes,6382751169,Elite Property Solutions,5,B1292
+A1293,Carolyn Matson,6382751170,Urban Nest Realty,5,B1293
+A1294,Jeri Farr,6382751171,Dream Homes Agency,5,B1294
+A1295,Ronnie Adams,6382751172,Golden Key Realty,6,B1295
+A1296,Brooke Helms,6382751173,SmartSpace Properties,5,B1296
+A1297,Oscar Posey,6382751174,Horizon Realty Group,4,B1297
+A1298,Adele Fields,6382751175,BlueStone Estates,5,B1298
+A1299,Eric Mays,6382751176,Landmark Realty,6,B1299
+A1300,Richard Harris,6382751177,CityScape Properties,4,B1300
+A1301,Norma Reyna,6382751178,Prime Realty,6,B1301
+A1302,Betty Stine,6382751179,Elite Property Solutions,4,B1302
+A1303,Jerry Guajardo,6382751180,Urban Nest Realty,6,B1303
+A1304,Debra Hayzlett,6382751181,Dream Homes Agency,3,B1304
+A1305,Michael Arnold,6382751182,Golden Key Realty,3,B1305
+A1306,Mike Guttmann,6382751183,SmartSpace Properties,3,B1306
+A1307,Jay Rodriguez,6382751184,Horizon Realty Group,4,B1307
+A1308,Cynthia Emerson,6382751185,BlueStone Estates,5,B1308
+A1309,Rodney Sorenson,6382751186,Landmark Realty,6,B1309
+A1310,Janice Blaize,6382751187,CityScape Properties,6,B1310
+A1311,Gerald Gilfillan,6382751188,Prime Realty,5,B1311
+A1312,Mary Nolin,6382751189,Elite Property Solutions,3,B1312
+A1313,Ava Nice,6382751190,Urban Nest Realty,6,B1313
+A1314,Katrice Fenn,6382751191,Dream Homes Agency,5,B1314
+A1315,George Covington,6382751192,Golden Key Realty,5,B1315
+A1316,William White,6382751193,SmartSpace Properties,5,B1316
+A1317,Justin Hanisch,6382751194,Horizon Realty Group,6,B1317
+A1318,Frank Foust,6382751195,BlueStone Estates,3,B1318
+A1319,Brian Sedrakyan,6382751196,Landmark Realty,5,B1319
+A1320,Robert Lee,6382751197,CityScape Properties,4,B1320
+A1321,Mary Bailey,6382751198,Prime Realty,6,B1321
+A1322,Catherine Lindner,6382751199,Elite Property Solutions,5,B1322
+A1323,Stephanie Marshall,6382751200,Urban Nest Realty,5,B1323
+A1324,Jennifer Adair,6382751201,Dream Homes Agency,4,B1324
+A1325,Debra Cotto,6382751202,Golden Key Realty,4,B1325
+A1326,Jason Moore,6382751203,SmartSpace Properties,5,B1326
+A1327,Scott Vanmeter,6382751204,Horizon Realty Group,4,B1327
+A1328,Andrew Chicas,6382751205,BlueStone Estates,3,B1328
+A1329,David Jenkins,6382751206,Landmark Realty,5,B1329
+A1330,Willie Langevin,6382751207,CityScape Properties,4,B1330
+A1331,Kenneth Yocom,6382751208,Prime Realty,5,B1331
+A1332,Craig Mercer,6382751209,Elite Property Solutions,6,B1332
+A1333,Cheryl Bullock,6382751210,Urban Nest Realty,3,B1333
+A1334,Robin Lee,6382751211,Dream Homes Agency,6,B1334
+A1335,Jennifer Archer,6382751212,Golden Key Realty,5,B1335
+A1336,Laura Burgess,6382751213,SmartSpace Properties,6,B1336
+A1337,Robert Pool,6382751214,Horizon Realty Group,3,B1337
+A1338,Tami Stafford,6382751215,BlueStone Estates,4,B1338
+A1339,Martha Thomas,6382751216,Landmark Realty,6,B1339
+A1340,Andrew Soares,6382751217,CityScape Properties,4,B1340
+A1341,Lawrence Cohrs,6382751218,Prime Realty,6,B1341
+A1342,Suzie Yerkes,6382751219,Elite Property Solutions,3,B1342
+A1343,Emilio Tomasini,6382751220,Urban Nest Realty,4,B1343
+A1344,Betty Netterville,6382751221,Dream Homes Agency,4,B1344
+A1345,Jennifer Powell,6382751222,Golden Key Realty,6,B1345
+A1346,Tia Richardson,6382751223,SmartSpace Properties,3,B1346
+A1347,Norman Armbruster,6382751224,Horizon Realty Group,3,B1347
+A1348,Ola Brei,6382751225,BlueStone Estates,3,B1348
+A1349,Vernon Elem,6382751226,Landmark Realty,5,B1349
+A1350,Michael Downey,6382751227,CityScape Properties,5,B1350
+A1351,Derrick Gunn,6382751228,Prime Realty,6,B1351
+A1352,Robert Teasley,6382751229,Elite Property Solutions,6,B1352
+A1353,Bryan Banks,6382751230,Urban Nest Realty,5,B1353
+A1354,William Kiani,6382751231,Dream Homes Agency,6,B1354
+A1355,Richard Varel,6382751232,Golden Key Realty,4,B1355
+A1356,Mary Feth,6382751233,SmartSpace Properties,5,B1356
+A1357,Beverly Laureano,6382751234,Horizon Realty Group,3,B1357
+A1358,Juan Dennison,6382751235,BlueStone Estates,5,B1358
+A1359,Robin Lim,6382751236,Landmark Realty,4,B1359
+A1360,Judy Ponce,6382751237,CityScape Properties,3,B1360
+A1361,Jessica Gaines,6382751238,Prime Realty,5,B1361
+A1362,Frances Thayer,6382751239,Elite Property Solutions,3,B1362
+A1363,Raymond Zhong,6382751240,Urban Nest Realty,4,B1363
+A1364,Billy Belizaire,6382751241,Dream Homes Agency,6,B1364
+A1365,Shawna Pointer,6382751242,Golden Key Realty,6,B1365
+A1366,Trisha Lorentz,6382751243,SmartSpace Properties,6,B1366
+A1367,Annie Combs,6382751244,Horizon Realty Group,6,B1367
+A1368,Ruth Couch,6382751245,BlueStone Estates,6,B1368
+A1369,Fred Conlin,6382751246,Landmark Realty,3,B1369
+A1370,Dwayne Shrader,6382751247,CityScape Properties,6,B1370
+A1371,Mark Bergeson,6382751248,Prime Realty,5,B1371
+A1372,Libby Mccarthy,6382751249,Elite Property Solutions,3,B1372
+A1373,Norma Durham,6382751250,Urban Nest Realty,4,B1373
+A1374,Andre Dawson,6382751251,Dream Homes Agency,4,B1374
+A1375,Valerie Whitson,6382751252,Golden Key Realty,3,B1375
+A1376,Andrea Webb,6382751253,SmartSpace Properties,5,B1376
+A1377,Dan Ryans,6382751254,Horizon Realty Group,5,B1377
+A1378,Deborah Wilcher,6382751255,BlueStone Estates,3,B1378
+A1379,Laura Gillard,6382751256,Landmark Realty,3,B1379
+A1380,Larry Lawson,6382751257,CityScape Properties,3,B1380
+A1381,Doris Miller,6382751258,Prime Realty,6,B1381
+A1382,Alexander Helzer,6382751259,Elite Property Solutions,5,B1382
+A1383,Angelica Brown,6382751260,Urban Nest Realty,6,B1383
+A1384,Ricky White,6382751261,Dream Homes Agency,5,B1384
+A1385,Erin Herzog,6382751262,Golden Key Realty,4,B1385
+A1386,Lillian Phillips,6382751263,SmartSpace Properties,4,B1386
+A1387,Clinton Avendano,6382751264,Horizon Realty Group,3,B1387
+A1388,Kimberly Price,6382751265,BlueStone Estates,6,B1388
+A1389,James Hall,6382751266,Landmark Realty,6,B1389
+A1390,Bernice Goodemote,6382751267,CityScape Properties,5,B1390
+A1391,Cynthia Anderson,6382751268,Prime Realty,3,B1391
+A1392,Rick Jones,6382751269,Elite Property Solutions,6,B1392
+A1393,Kathy Brownfield,6382751270,Urban Nest Realty,3,B1393
+A1394,Sylvia Roy,6382751271,Dream Homes Agency,5,B1394
+A1395,Michael Anglea,6382751272,Golden Key Realty,4,B1395
+A1396,Lillie Mertz,6382751273,SmartSpace Properties,3,B1396
+A1397,Eric Lopez,6382751274,Horizon Realty Group,5,B1397
+A1398,Glenna Fields,6382751275,BlueStone Estates,5,B1398
+A1399,Ramon Iuliucci,6382751276,Landmark Realty,4,B1399
+A1400,Curtis Flanagan,6382751277,CityScape Properties,4,B1400
+A1401,Teresa Mann,6382751278,Prime Realty,5,B1401
+A1402,Herbert Harling,6382751279,Elite Property Solutions,4,B1402
+A1403,John Belcher,6382751280,Urban Nest Realty,5,B1403
+A1404,Juanita Skaggs,6382751281,Dream Homes Agency,4,B1404
+A1405,Carolyn Meadows,6382751282,Golden Key Realty,4,B1405
+A1406,Donald Heyde,6382751283,SmartSpace Properties,5,B1406
+A1407,Marvin Willis,6382751284,Horizon Realty Group,5,B1407
+A1408,Christopher Dixon,6382751285,BlueStone Estates,4,B1408
+A1409,Audra Lambert,6382751286,Landmark Realty,4,B1409
+A1410,Sandra Vichidvongsa,6382751287,CityScape Properties,6,B1410
+A1411,Donna Sanchez,6382751288,Prime Realty,6,B1411
+A1412,Barbara Woolfolk,6382751289,Elite Property Solutions,5,B1412
+A1413,Sandra Stevens,6382751290,Urban Nest Realty,5,B1413
+A1414,Dale Crocker,6382751291,Dream Homes Agency,4,B1414
+A1415,Donald Smythe,6382751292,Golden Key Realty,5,B1415
+A1416,Andrew Adler,6382751293,SmartSpace Properties,6,B1416
+A1417,Charles Montalvo,6382751294,Horizon Realty Group,5,B1417
+A1418,Rodney Ahuna,6382751295,BlueStone Estates,5,B1418
+A1419,Joseph Clay,6382751296,Landmark Realty,6,B1419
+A1420,Hellen Katechis,6382751297,CityScape Properties,4,B1420
+A1421,Tamara Do,6382751298,Prime Realty,6,B1421
+A1422,Arnold Delong,6382751299,Elite Property Solutions,5,B1422
+A1423,Delores Kilgore,6382751300,Urban Nest Realty,4,B1423
+A1424,John Pisano,6382751301,Dream Homes Agency,4,B1424
+A1425,Stephanie Dray,6382751302,Golden Key Realty,5,B1425
+A1426,Gary Sparks,6382751303,SmartSpace Properties,5,B1426
+A1427,Wayne Jones,6382751304,Horizon Realty Group,6,B1427
+A1428,Jason Obryon,6382751305,BlueStone Estates,3,B1428
+A1429,Danny Duncan,6382751306,Landmark Realty,3,B1429
+A1430,Susan Perez,6382751307,CityScape Properties,5,B1430
+A1431,Mary Williams,6382751308,Prime Realty,5,B1431
+A1432,Lawanda Anker,6382751309,Elite Property Solutions,4,B1432
+A1433,Fred Mccarthy,6382751310,Urban Nest Realty,6,B1433
+A1434,Mildred Sova,6382751311,Dream Homes Agency,5,B1434
+A1435,Pamela Diamantopoulo,6382751312,Golden Key Realty,5,B1435
+A1436,Darryl Hudson,6382751313,SmartSpace Properties,4,B1436
+A1437,William Posey,6382751314,Horizon Realty Group,4,B1437
+A1438,Marilyn Franco,6382751315,BlueStone Estates,4,B1438
+A1439,Kenneth Wyland,6382751316,Landmark Realty,3,B1439
+A1440,Derrick Lusk,6382751317,CityScape Properties,3,B1440
+A1441,Katy Owen,6382751318,Prime Realty,5,B1441
+A1442,Thelma Gehrke,6382751319,Elite Property Solutions,3,B1442
+A1443,Sherryl Pontiff,6382751320,Urban Nest Realty,6,B1443
+A1444,Debra Re,6382751321,Dream Homes Agency,5,B1444
+A1445,Joseph Gonzales,6382751322,Golden Key Realty,3,B1445
+A1446,Willie Sholders,6382751323,SmartSpace Properties,3,B1446
+A1447,Charles Angotti,6382751324,Horizon Realty Group,3,B1447
+A1448,Amber Lorino,6382751325,BlueStone Estates,6,B1448
+A1449,Steven Dart,6382751326,Landmark Realty,5,B1449
+A1450,Donald White,6382751327,CityScape Properties,5,B1450
+A1451,Juanita Manning,6382751328,Prime Realty,4,B1451
+A1452,Denise Standish,6382751329,Elite Property Solutions,4,B1452
+A1453,Donna Goble,6382751330,Urban Nest Realty,4,B1453
+A1454,John Cleveland,6382751331,Dream Homes Agency,3,B1454
+A1455,Michael Briggs,6382751332,Golden Key Realty,5,B1455
+A1456,Michael Keller,6382751333,SmartSpace Properties,4,B1456
+A1457,Roy Walker,6382751334,Horizon Realty Group,5,B1457
+A1458,Dorothy Garrett,6382751335,BlueStone Estates,3,B1458
+A1459,Amy Johnson,6382751336,Landmark Realty,5,B1459
+A1460,Timothy Williams,6382751337,CityScape Properties,4,B1460
+A1461,Wesley Vida,6382751338,Prime Realty,6,B1461
+A1462,Frank Harris,6382751339,Elite Property Solutions,6,B1462
+A1463,Mary Schlagel,6382751340,Urban Nest Realty,5,B1463
+A1464,Inez Guerra,6382751341,Dream Homes Agency,3,B1464
+A1465,Irene Barnes,6382751342,Golden Key Realty,6,B1465
+A1466,April Kuntz,6382751343,SmartSpace Properties,5,B1466
+A1467,Denise Baker,6382751344,Horizon Realty Group,3,B1467
+A1468,Ruby Baker,6382751345,BlueStone Estates,5,B1468
+A1469,Jennifer Lugo,6382751346,Landmark Realty,6,B1469
+A1470,Paul Barnett,6382751347,CityScape Properties,4,B1470
+A1471,Jerry Williams,6382751348,Prime Realty,5,B1471
+A1472,Brian Morris,6382751349,Elite Property Solutions,5,B1472
+A1473,Anne Biller,6382751350,Urban Nest Realty,5,B1473
+A1474,Amanda Moore,6382751351,Dream Homes Agency,6,B1474
+A1475,Gabriel Jones,6382751352,Golden Key Realty,5,B1475
+A1476,Jane Trout,6382751353,SmartSpace Properties,3,B1476
+A1477,Bernice Hitzeman,6382751354,Horizon Realty Group,5,B1477
+A1478,Bette Schaper,6382751355,BlueStone Estates,5,B1478
+A1479,Kevin Welch,6382751356,Landmark Realty,4,B1479
+A1480,Hayden Rodriguez,6382751357,CityScape Properties,6,B1480
+A1481,Linda Jones,6382751358,Prime Realty,4,B1481
+A1482,Caroline Stromberg,6382751359,Elite Property Solutions,5,B1482
+A1483,Estela Cherry,6382751360,Urban Nest Realty,6,B1483
+A1484,Edith Alvarado,6382751361,Dream Homes Agency,6,B1484
+A1485,Arthur Auclair,6382751362,Golden Key Realty,5,B1485
+A1486,Mark Battiste,6382751363,SmartSpace Properties,5,B1486
+A1487,David Hogg,6382751364,Horizon Realty Group,5,B1487
+A1488,Jane Brooks,6382751365,BlueStone Estates,6,B1488
+A1489,Rhonda Graf,6382751366,Landmark Realty,3,B1489
+A1490,Matthew Hansen,6382751367,CityScape Properties,5,B1490
+A1491,James Hoppe,6382751368,Prime Realty,6,B1491
+A1492,Jennifer Bryan,6382751369,Elite Property Solutions,5,B1492
+A1493,Brenda Hodges,6382751370,Urban Nest Realty,4,B1493
+A1494,Christine Mannings,6382751371,Dream Homes Agency,5,B1494
+A1495,Ronald Lechler,6382751372,Golden Key Realty,3,B1495
+A1496,James Batista,6382751373,SmartSpace Properties,3,B1496
+A1497,Lazaro Evans,6382751374,Horizon Realty Group,5,B1497
+A1498,Robert Carrasco,6382751375,BlueStone Estates,4,B1498
+A1499,Robert Dubinsky,6382751376,Landmark Realty,3,B1499
+A1500,Vernon Gross,6382751377,CityScape Properties,6,B1500
+A1501,Mary Davis,6382751378,Prime Realty,4,B1501
+A1502,Donna Matlock,6382751379,Elite Property Solutions,4,B1502
+A1503,Stuart Machado,6382751380,Urban Nest Realty,4,B1503
+A1504,Luke Walker,6382751381,Dream Homes Agency,6,B1504
+A1505,Ralph Sause,6382751382,Golden Key Realty,5,B1505
+A1506,Gene Johnson,6382751383,SmartSpace Properties,6,B1506
+A1507,Donna Ricks,6382751384,Horizon Realty Group,3,B1507
+A1508,Catherine Maltie,6382751385,BlueStone Estates,6,B1508
+A1509,Alan Mcqueen,6382751386,Landmark Realty,6,B1509
+A1510,Frances Parker,6382751387,CityScape Properties,5,B1510
+A1511,Johnathan Cresswell,6382751388,Prime Realty,4,B1511
+A1512,Maynard Church,6382751389,Elite Property Solutions,4,B1512
+A1513,James Hudgins,6382751390,Urban Nest Realty,5,B1513
+A1514,Latoria Eggers,6382751391,Dream Homes Agency,3,B1514
+A1515,Danny Wilkinson,6382751392,Golden Key Realty,6,B1515
+A1516,John Wills,6382751393,SmartSpace Properties,6,B1516
+A1517,Madeline Hudson,6382751394,Horizon Realty Group,3,B1517
+A1518,Jesse Urey,6382751395,BlueStone Estates,6,B1518
+A1519,James Perkins,6382751396,Landmark Realty,6,B1519
+A1520,Jerome Radtke,6382751397,CityScape Properties,4,B1520
+A1521,Theresa Campbell,6382751398,Prime Realty,3,B1521
+A1522,Billy Ross,6382751399,Elite Property Solutions,3,B1522
+A1523,Christopher Rowell,6382751400,Urban Nest Realty,5,B1523
+A1524,Troy Sims,6382751401,Dream Homes Agency,4,B1524
+A1525,Alexander Turner,6382751402,Golden Key Realty,4,B1525
+A1526,Rhoda Lowe,6382751403,SmartSpace Properties,6,B1526
+A1527,Leroy Summerfield,6382751404,Horizon Realty Group,4,B1527
+A1528,Daniel Laureano,6382751405,BlueStone Estates,3,B1528
+A1529,Amy Brown,6382751406,Landmark Realty,3,B1529
+A1530,Kelvin Gross,6382751407,CityScape Properties,5,B1530
+A1531,Agustina Mojica,6382751408,Prime Realty,5,B1531
+A1532,David Peterson,6382751409,Elite Property Solutions,5,B1532
+A1533,Cecelia Phelan,6382751410,Urban Nest Realty,3,B1533
+A1534,Marilyn Hines,6382751411,Dream Homes Agency,5,B1534
+A1535,Raul Gillaspie,6382751412,Golden Key Realty,4,B1535
+A1536,David Oneil,6382751413,SmartSpace Properties,6,B1536
+A1537,Douglas Deluca,6382751414,Horizon Realty Group,5,B1537
+A1538,Terry Streeter,6382751415,BlueStone Estates,3,B1538
+A1539,Tracy Rodriguez,6382751416,Landmark Realty,6,B1539
+A1540,George Wilcutt,6382751417,CityScape Properties,3,B1540
+A1541,April Kron,6382751418,Prime Realty,5,B1541
+A1542,Marguerite Krause,6382751419,Elite Property Solutions,3,B1542
+A1543,Edwin Anderson,6382751420,Urban Nest Realty,3,B1543
+A1544,Daniel Park,6382751421,Dream Homes Agency,6,B1544
+A1545,David Tran,6382751422,Golden Key Realty,3,B1545
+A1546,Sharon Ransom,6382751423,SmartSpace Properties,3,B1546
+A1547,Julio Jenkins,6382751424,Horizon Realty Group,4,B1547
+A1548,Betty Kelley,6382751425,BlueStone Estates,3,B1548
+A1549,Jayne Wignall,6382751426,Landmark Realty,4,B1549
+A1550,Della Harris,6382751427,CityScape Properties,3,B1550
+A1551,Thomas Marek,6382751428,Prime Realty,6,B1551
+A1552,Anna Peters,6382751429,Elite Property Solutions,5,B1552
+A1553,Brian Jordon,6382751430,Urban Nest Realty,6,B1553
+A1554,Peter Villegas,6382751431,Dream Homes Agency,5,B1554
+A1555,John Neff,6382751432,Golden Key Realty,4,B1555
+A1556,Richard Foster,6382751433,SmartSpace Properties,4,B1556
+A1557,Joseph Ward,6382751434,Horizon Realty Group,4,B1557
+A1558,Mark Dick,6382751435,BlueStone Estates,4,B1558
+A1559,Jeremy Solian,6382751436,Landmark Realty,6,B1559
+A1560,Roy Johnson,6382751437,CityScape Properties,6,B1560
+A1561,Michael Carpenter,6382751438,Prime Realty,4,B1561
+A1562,Sergio Liu,6382751439,Elite Property Solutions,4,B1562
+A1563,Cecil Anderson,6382751440,Urban Nest Realty,5,B1563
+A1564,Pamela Weiner,6382751441,Dream Homes Agency,5,B1564
+A1565,Benny Bailey,6382751442,Golden Key Realty,4,B1565
+A1566,Rosie White,6382751443,SmartSpace Properties,4,B1566
+A1567,Dora Lainhart,6382751444,Horizon Realty Group,3,B1567
+A1568,Mary Sharpe,6382751445,BlueStone Estates,4,B1568
+A1569,Doug Peters,6382751446,Landmark Realty,3,B1569
+A1570,Janet Nickerson,6382751447,CityScape Properties,3,B1570
+A1571,Mary Tingle,6382751448,Prime Realty,4,B1571
+A1572,Phyllis Taylor,6382751449,Elite Property Solutions,3,B1572
+A1573,Graciela Mcgill,6382751450,Urban Nest Realty,4,B1573
+A1574,Robert Christy,6382751451,Dream Homes Agency,6,B1574
+A1575,Bettye Mckinney,6382751452,Golden Key Realty,6,B1575
+A1576,Floyd Lawson,6382751453,SmartSpace Properties,3,B1576
+A1577,Doris Peters,6382751454,Horizon Realty Group,4,B1577
+A1578,James Hulse,6382751455,BlueStone Estates,6,B1578
+A1579,Jaime Purnell,6382751456,Landmark Realty,3,B1579
+A1580,Margaret Mitchell,6382751457,CityScape Properties,5,B1580
+A1581,Susan Zhang,6382751458,Prime Realty,3,B1581
+A1582,Marguerite Nesbit,6382751459,Elite Property Solutions,4,B1582
+A1583,Danielle Smith,6382751460,Urban Nest Realty,3,B1583
+A1584,George Mclaughlin,6382751461,Dream Homes Agency,6,B1584
+A1585,Karen Mason,6382751462,Golden Key Realty,3,B1585
+A1586,Earl Rosas,6382751463,SmartSpace Properties,4,B1586
+A1587,Verla Sherrell,6382751464,Horizon Realty Group,5,B1587
+A1588,Stephen Richardson,6382751465,BlueStone Estates,3,B1588
+A1589,Judith Charles,6382751466,Landmark Realty,5,B1589
+A1590,Ruth Schwenke,6382751467,CityScape Properties,4,B1590
+A1591,Fannie Dore,6382751468,Prime Realty,6,B1591
+A1592,Anthony Chesser,6382751469,Elite Property Solutions,6,B1592
+A1593,Enda Stephens,6382751470,Urban Nest Realty,5,B1593
+A1594,Jennifer Wertheim,6382751471,Dream Homes Agency,3,B1594
+A1595,Jacqueline Ford,6382751472,Golden Key Realty,5,B1595
+A1596,Willie Hinshaw,6382751473,SmartSpace Properties,4,B1596
+A1597,Lucy Sweatt,6382751474,Horizon Realty Group,3,B1597
+A1598,Jamie Manley,6382751475,BlueStone Estates,3,B1598
+A1599,Robert Dahlberg,6382751476,Landmark Realty,5,B1599
+A1600,Ricky Smith,6382751477,CityScape Properties,4,B1600
+A1601,Michael Green,6382751478,Prime Realty,3,B1601
+A1602,Vivian Nelson,6382751479,Elite Property Solutions,3,B1602
+A1603,Walter Weaver,6382751480,Urban Nest Realty,6,B1603
+A1604,Robert Detwiler,6382751481,Dream Homes Agency,6,B1604
+A1605,Brian Adu,6382751482,Golden Key Realty,5,B1605
+A1606,Aretha Westphal,6382751483,SmartSpace Properties,5,B1606
+A1607,Barbara Bowman,6382751484,Horizon Realty Group,5,B1607
+A1608,Barbara Soto,6382751485,BlueStone Estates,6,B1608
+A1609,Ramon Rooney,6382751486,Landmark Realty,5,B1609
+A1610,Mary Beeler,6382751487,CityScape Properties,6,B1610
+A1611,Donald Lingberg,6382751488,Prime Realty,4,B1611
+A1612,Tina Anderson,6382751489,Elite Property Solutions,4,B1612
+A1613,Jose Harris,6382751490,Urban Nest Realty,3,B1613
+A1614,Julia Smith,6382751491,Dream Homes Agency,6,B1614
+A1615,Rex Johnson,6382751492,Golden Key Realty,3,B1615
+A1616,Ernest Olsen,6382751493,SmartSpace Properties,5,B1616
+A1617,Larry Archibald,6382751494,Horizon Realty Group,3,B1617
+A1618,Patty Maynes,6382751495,BlueStone Estates,3,B1618
+A1619,Christina Butts,6382751496,Landmark Realty,6,B1619
+A1620,Charlie Harrison,6382751497,CityScape Properties,6,B1620
+A1621,Marcus Kennedy,6382751498,Prime Realty,6,B1621
+A1622,Barbara Golden,6382751499,Elite Property Solutions,5,B1622
+A1623,Christina Brown,6382751500,Urban Nest Realty,4,B1623
+A1624,Dennis Reed,6382751501,Dream Homes Agency,5,B1624
+A1625,Jesse Flamand,6382751502,Golden Key Realty,3,B1625
+A1626,Quincy Purvis,6382751503,SmartSpace Properties,3,B1626
+A1627,Jeffrey Burns,6382751504,Horizon Realty Group,4,B1627
+A1628,Gary Tice,6382751505,BlueStone Estates,5,B1628
+A1629,Norman Robinson,6382751506,Landmark Realty,3,B1629
+A1630,Michael Famulare,6382751507,CityScape Properties,3,B1630
+A1631,Kimberly Lee,6382751508,Prime Realty,5,B1631
+A1632,Gloria Milton,6382751509,Elite Property Solutions,4,B1632
+A1633,Mary Isaacson,6382751510,Urban Nest Realty,5,B1633
+A1634,Herbert Bathe,6382751511,Dream Homes Agency,4,B1634
+A1635,Lucretia Warner,6382751512,Golden Key Realty,5,B1635
+A1636,Frances Okie,6382751513,SmartSpace Properties,4,B1636
+A1637,David Braun,6382751514,Horizon Realty Group,4,B1637
+A1638,Richard Frost,6382751515,BlueStone Estates,4,B1638
+A1639,Gwen Shorter,6382751516,Landmark Realty,6,B1639
+A1640,Louis Graham,6382751517,CityScape Properties,4,B1640
+A1641,Ronald Sherwin,6382751518,Prime Realty,5,B1641
+A1642,William Zadow,6382751519,Elite Property Solutions,4,B1642
+A1643,David Lacey,6382751520,Urban Nest Realty,4,B1643
+A1644,David Esposito,6382751521,Dream Homes Agency,5,B1644
+A1645,David Uren,6382751522,Golden Key Realty,3,B1645
+A1646,Alfred Kindle,6382751523,SmartSpace Properties,6,B1646
+A1647,Margarita Walker,6382751524,Horizon Realty Group,4,B1647
+A1648,Gregory Ojeda,6382751525,BlueStone Estates,3,B1648
+A1649,John Meyers,6382751526,Landmark Realty,6,B1649
+A1650,Betty Steele,6382751527,CityScape Properties,5,B1650
+A1651,Elizabeth Smart,6382751528,Prime Realty,5,B1651
+A1652,Russell Simmons,6382751529,Elite Property Solutions,6,B1652
+A1653,Doris Preciado,6382751530,Urban Nest Realty,4,B1653
+A1654,Gene Jordan,6382751531,Dream Homes Agency,4,B1654
+A1655,Ollie Danger,6382751532,Golden Key Realty,6,B1655
+A1656,Anthony Brooks,6382751533,SmartSpace Properties,3,B1656
+A1657,James Hernandez,6382751534,Horizon Realty Group,5,B1657
+A1658,Shelley Grimes,6382751535,BlueStone Estates,3,B1658
+A1659,Howard Watson,6382751536,Landmark Realty,4,B1659
+A1660,Eleanor Benitez,6382751537,CityScape Properties,6,B1660
+A1661,Jeffrey Abreu,6382751538,Prime Realty,3,B1661
+A1662,David Mejia,6382751539,Elite Property Solutions,6,B1662
+A1663,Brad Garcia,6382751540,Urban Nest Realty,5,B1663
+A1664,Craig Hanko,6382751541,Dream Homes Agency,3,B1664
+A1665,Robert Butcher,6382751542,Golden Key Realty,3,B1665
+A1666,Stanley Coleman,6382751543,SmartSpace Properties,5,B1666
+A1667,John Villegas,6382751544,Horizon Realty Group,5,B1667
+A1668,Debra Locks,6382751545,BlueStone Estates,3,B1668
+A1669,Jason Koehler,6382751546,Landmark Realty,5,B1669
+A1670,Nicole Grandberry,6382751547,CityScape Properties,5,B1670
+A1671,Robert Eaton,6382751548,Prime Realty,4,B1671
+A1672,William Lee,6382751549,Elite Property Solutions,4,B1672
+A1673,David Xavier,6382751550,Urban Nest Realty,3,B1673
+A1674,Frances Mcenany,6382751551,Dream Homes Agency,5,B1674
+A1675,Linda Riles,6382751552,Golden Key Realty,5,B1675
+A1676,Darius Bolebruch,6382751553,SmartSpace Properties,3,B1676
+A1677,Gerald Campbell,6382751554,Horizon Realty Group,3,B1677
+A1678,Roy Kradel,6382751555,BlueStone Estates,6,B1678
+A1679,Earl Thomas,6382751556,Landmark Realty,6,B1679
+A1680,Teresa England,6382751557,CityScape Properties,5,B1680
+A1681,Armand Stewart,6382751558,Prime Realty,4,B1681
+A1682,Jody Kilroy,6382751559,Elite Property Solutions,6,B1682
+A1683,Victor Mohamed,6382751560,Urban Nest Realty,4,B1683
+A1684,Wilbert Wahba,6382751561,Dream Homes Agency,5,B1684
+A1685,Valerie Morris,6382751562,Golden Key Realty,5,B1685
+A1686,Joyce Mendoza,6382751563,SmartSpace Properties,3,B1686
+A1687,Alfred Kirn,6382751564,Horizon Realty Group,3,B1687
+A1688,Barbara Brasure,6382751565,BlueStone Estates,3,B1688
+A1689,Barbara Lee,6382751566,Landmark Realty,6,B1689
+A1690,Joel Wright,6382751567,CityScape Properties,3,B1690
+A1691,Lauren Corrigan,6382751568,Prime Realty,4,B1691
+A1692,Beverly Jones,6382751569,Elite Property Solutions,6,B1692
+A1693,Angela Bennett,6382751570,Urban Nest Realty,4,B1693
+A1694,Kevin Vargas,6382751571,Dream Homes Agency,4,B1694
+A1695,Louise Roach,6382751572,Golden Key Realty,4,B1695
+A1696,Erica Carpenter,6382751573,SmartSpace Properties,3,B1696
+A1697,Shane Deer,6382751574,Horizon Realty Group,3,B1697
+A1698,Nicole Robinson,6382751575,BlueStone Estates,3,B1698
+A1699,Nancy Charles,6382751576,Landmark Realty,3,B1699
+A1700,Patricia Sculley,6382751577,CityScape Properties,6,B1700
+A1701,Natasha Reeb,6382751578,Prime Realty,4,B1701
+A1702,James Qualls,6382751579,Elite Property Solutions,5,B1702
+A1703,Ronald Baker,6382751580,Urban Nest Realty,4,B1703
+A1704,Jason Jackson,6382751581,Dream Homes Agency,3,B1704
+A1705,Aaron Rainey,6382751582,Golden Key Realty,5,B1705
+A1706,Brandon Mason,6382751583,SmartSpace Properties,6,B1706
+A1707,Eddie Hamill,6382751584,Horizon Realty Group,6,B1707
+A1708,Richard Smith,6382751585,BlueStone Estates,6,B1708
+A1709,Shauna Grant,6382751586,Landmark Realty,5,B1709
+A1710,Brenda Sumner,6382751587,CityScape Properties,5,B1710
+A1711,Olga Veilleux,6382751588,Prime Realty,3,B1711
+A1712,Phyllis Zamora,6382751589,Elite Property Solutions,3,B1712
+A1713,Donna Casey,6382751590,Urban Nest Realty,3,B1713
+A1714,Mary Orr,6382751591,Dream Homes Agency,3,B1714
+A1715,Christopher Newman,6382751592,Golden Key Realty,4,B1715
+A1716,Mary Moss,6382751593,SmartSpace Properties,6,B1716
+A1717,Cynthia Lopez,6382751594,Horizon Realty Group,3,B1717
+A1718,Donnie Neer,6382751595,BlueStone Estates,6,B1718
+A1719,David Aldrich,6382751596,Landmark Realty,6,B1719
+A1720,David Breece,6382751597,CityScape Properties,3,B1720
+A1721,Willie Bruce,6382751598,Prime Realty,6,B1721
+A1722,Shaun Youngblood,6382751599,Elite Property Solutions,3,B1722
+A1723,William Dickerson,6382751600,Urban Nest Realty,6,B1723
+A1724,Gerald Bagley,6382751601,Dream Homes Agency,3,B1724
+A1725,Robert Clark,6382751602,Golden Key Realty,5,B1725
+A1726,Albert Hunter,6382751603,SmartSpace Properties,5,B1726
+A1727,Leah Sherman,6382751604,Horizon Realty Group,5,B1727
+A1728,William Lovely,6382751605,BlueStone Estates,3,B1728
+A1729,Jon Pfahler,6382751606,Landmark Realty,6,B1729
+A1730,Alberta Gomes,6382751607,CityScape Properties,5,B1730
+A1731,John Hoage,6382751608,Prime Realty,6,B1731
+A1732,Larry Menzies,6382751609,Elite Property Solutions,6,B1732
+A1733,Ted Bowen,6382751610,Urban Nest Realty,5,B1733
+A1734,Peter Liggins,6382751611,Dream Homes Agency,6,B1734
+A1735,Gary Williams,6382751612,Golden Key Realty,6,B1735
+A1736,Amy Newman,6382751613,SmartSpace Properties,5,B1736
+A1737,Thomas Palmer,6382751614,Horizon Realty Group,4,B1737
+A1738,Bill Mills,6382751615,BlueStone Estates,4,B1738
+A1739,Lanette Freeman,6382751616,Landmark Realty,4,B1739
+A1740,John Mccoy,6382751617,CityScape Properties,5,B1740
+A1741,Gemma Mcdonald,6382751618,Prime Realty,6,B1741
+A1742,Willie Lu,6382751619,Elite Property Solutions,6,B1742
+A1743,Eduardo Mondragon,6382751620,Urban Nest Realty,3,B1743
+A1744,Hector Davis,6382751621,Dream Homes Agency,4,B1744
+A1745,Thomas Parker,6382751622,Golden Key Realty,5,B1745
+A1746,Stephanie Siebert,6382751623,SmartSpace Properties,3,B1746
+A1747,Amelia Figueras,6382751624,Horizon Realty Group,6,B1747
+A1748,Rena Ford,6382751625,BlueStone Estates,6,B1748
+A1749,Charleen Garcia,6382751626,Landmark Realty,6,B1749
+A1750,Marguerite Garfinkle,6382751627,CityScape Properties,3,B1750
+A1751,Eula Supernaw,6382751628,Prime Realty,3,B1751
+A1752,Annalisa Lybarger,6382751629,Elite Property Solutions,4,B1752
+A1753,Audra Madeiros,6382751630,Urban Nest Realty,3,B1753
+A1754,Kyle Lussier,6382751631,Dream Homes Agency,6,B1754
+A1755,Kristin Hughes,6382751632,Golden Key Realty,5,B1755
+A1756,Gonzalo Rosser,6382751633,SmartSpace Properties,4,B1756
+A1757,Hazel Doe,6382751634,Horizon Realty Group,4,B1757
+A1758,Brian Stanley,6382751635,BlueStone Estates,5,B1758
+A1759,David Wood,6382751636,Landmark Realty,4,B1759
+A1760,John Epstein,6382751637,CityScape Properties,3,B1760
+A1761,Christopher Mcghee,6382751638,Prime Realty,4,B1761
+A1762,Joyce Duckett,6382751639,Elite Property Solutions,5,B1762
+A1763,John Webre,6382751640,Urban Nest Realty,3,B1763
+A1764,Tabitha Russell,6382751641,Dream Homes Agency,6,B1764
+A1765,Judith Little,6382751642,Golden Key Realty,4,B1765
+A1766,Eva Beasley,6382751643,SmartSpace Properties,3,B1766
+A1767,Loren Thomas,6382751644,Horizon Realty Group,6,B1767
+A1768,Mary Koester,6382751645,BlueStone Estates,3,B1768
+A1769,Stephen Allen,6382751646,Landmark Realty,5,B1769
+A1770,Cecile Smudrick,6382751647,CityScape Properties,6,B1770
+A1771,Jason Warren,6382751648,Prime Realty,5,B1771
+A1772,Annie Henshaw,6382751649,Elite Property Solutions,5,B1772
+A1773,Kevin Best,6382751650,Urban Nest Realty,5,B1773
+A1774,Albert Gonzales,6382751651,Dream Homes Agency,5,B1774
+A1775,Scott Rao,6382751652,Golden Key Realty,6,B1775
+A1776,Margaret Adams,6382751653,SmartSpace Properties,6,B1776
+A1777,Bertha Williams,6382751654,Horizon Realty Group,5,B1777
+A1778,Eddie Smith,6382751655,BlueStone Estates,5,B1778
+A1779,Susan Fletcher,6382751656,Landmark Realty,4,B1779
+A1780,Edith Christian,6382751657,CityScape Properties,3,B1780
+A1781,Mathew Gonzalez,6382751658,Prime Realty,6,B1781
+A1782,Janis Bourque,6382751659,Elite Property Solutions,4,B1782
+A1783,Michelle Neri,6382751660,Urban Nest Realty,6,B1783
+A1784,Heather Himes,6382751661,Dream Homes Agency,3,B1784
+A1785,Carmela Alvarado,6382751662,Golden Key Realty,3,B1785
+A1786,Jenifer Taylor,6382751663,SmartSpace Properties,5,B1786
+A1787,Kimberly Pawlak,6382751664,Horizon Realty Group,4,B1787
+A1788,Walter Rouse,6382751665,BlueStone Estates,5,B1788
+A1789,Faith Johnson,6382751666,Landmark Realty,3,B1789
+A1790,Franklin Perez,6382751667,CityScape Properties,4,B1790
+A1791,Richard Maes,6382751668,Prime Realty,5,B1791
+A1792,Wilfredo Crosson,6382751669,Elite Property Solutions,5,B1792
+A1793,Freddie Buran,6382751670,Urban Nest Realty,3,B1793
+A1794,Joseph Wolf,6382751671,Dream Homes Agency,3,B1794
+A1795,Alyssa Torres,6382751672,Golden Key Realty,6,B1795
+A1796,Eric Semple,6382751673,SmartSpace Properties,5,B1796
+A1797,Charles Heacock,6382751674,Horizon Realty Group,5,B1797
+A1798,Jack Reynolds,6382751675,BlueStone Estates,5,B1798
+A1799,Florence Ruppe,6382751676,Landmark Realty,4,B1799
+A1800,Fred Jones,6382751677,CityScape Properties,4,B1800
+A1801,Clifford Oneil,6382751678,Prime Realty,3,B1801
+A1802,Lila Pruitt,6382751679,Elite Property Solutions,6,B1802
+A1803,Chris Polan,6382751680,Urban Nest Realty,3,B1803
+A1804,John Osterhoudt,6382751681,Dream Homes Agency,6,B1804
+A1805,Jose Mccraw,6382751682,Golden Key Realty,4,B1805
+A1806,Jerry Davis,6382751683,SmartSpace Properties,4,B1806
+A1807,Edith Mobley,6382751684,Horizon Realty Group,3,B1807
+A1808,Carrie Arriaga,6382751685,BlueStone Estates,4,B1808
+A1809,Addie Parks,6382751686,Landmark Realty,3,B1809
+A1810,Estrella Looney,6382751687,CityScape Properties,4,B1810
+A1811,Beverly Simens,6382751688,Prime Realty,5,B1811
+A1812,Catherine Page,6382751689,Elite Property Solutions,4,B1812
+A1813,Melissa Pacheco,6382751690,Urban Nest Realty,5,B1813
+A1814,Richard Mount,6382751691,Dream Homes Agency,6,B1814
+A1815,Melvin Sanford,6382751692,Golden Key Realty,3,B1815
+A1816,Christian Boudreaux,6382751693,SmartSpace Properties,3,B1816
+A1817,Frederick Bilodeau,6382751694,Horizon Realty Group,6,B1817
+A1818,Sierra Perez,6382751695,BlueStone Estates,4,B1818
+A1819,Jack Wilson,6382751696,Landmark Realty,4,B1819
+A1820,Jack Miller,6382751697,CityScape Properties,4,B1820
+A1821,Thomas Bennett,6382751698,Prime Realty,4,B1821
+A1822,Carol Golightly,6382751699,Elite Property Solutions,4,B1822
+A1823,Molly Jones,6382751700,Urban Nest Realty,3,B1823
+A1824,Jessica Barkley,6382751701,Dream Homes Agency,6,B1824
+A1825,Manuel Robin,6382751702,Golden Key Realty,4,B1825
+A1826,Jimmy Krebs,6382751703,SmartSpace Properties,3,B1826
+A1827,Mary Nielson,6382751704,Horizon Realty Group,3,B1827
+A1828,Krystal Bak,6382751705,BlueStone Estates,4,B1828
+A1829,Harry Quinton,6382751706,Landmark Realty,6,B1829
+A1830,Dorothy Alcantara,6382751707,CityScape Properties,3,B1830
+A1831,Travis Diaz,6382751708,Prime Realty,3,B1831
+A1832,Erik Brown,6382751709,Elite Property Solutions,5,B1832
+A1833,Shirley Koch,6382751710,Urban Nest Realty,6,B1833
+A1834,Ashley Morin,6382751711,Dream Homes Agency,3,B1834
+A1835,Frederick Ball,6382751712,Golden Key Realty,4,B1835
+A1836,Kelvin Morris,6382751713,SmartSpace Properties,5,B1836
+A1837,Joshua Lee,6382751714,Horizon Realty Group,6,B1837
+A1838,Opal Pruiett,6382751715,BlueStone Estates,4,B1838
+A1839,Derrick Harris,6382751716,Landmark Realty,6,B1839
+A1840,Patrick Urbina,6382751717,CityScape Properties,4,B1840
+A1841,Dorothy Kramer,6382751718,Prime Realty,6,B1841
+A1842,Julie Edwards,6382751719,Elite Property Solutions,3,B1842
+A1843,Mike Mcglothlin,6382751720,Urban Nest Realty,5,B1843
+A1844,Susan Greene,6382751721,Dream Homes Agency,3,B1844
+A1845,Moses Barker,6382751722,Golden Key Realty,5,B1845
+A1846,Brenda Trotman,6382751723,SmartSpace Properties,6,B1846
+A1847,Joshua Thornton,6382751724,Horizon Realty Group,6,B1847
+A1848,Marcus Smith,6382751725,BlueStone Estates,3,B1848
+A1849,Michael Schlager,6382751726,Landmark Realty,6,B1849
+A1850,Jennifer Unger,6382751727,CityScape Properties,6,B1850
+A1851,Elizabeth Robinson,6382751728,Prime Realty,6,B1851
+A1852,Lisa Hamilton,6382751729,Elite Property Solutions,6,B1852
+A1853,Stephen Flowers,6382751730,Urban Nest Realty,6,B1853
+A1854,Melissa Bouska,6382751731,Dream Homes Agency,6,B1854
+A1855,Belia Parker,6382751732,Golden Key Realty,3,B1855
+A1856,Mary Harp,6382751733,SmartSpace Properties,3,B1856
+A1857,Teresa Mireles,6382751734,Horizon Realty Group,5,B1857
+A1858,Maya Redman,6382751735,BlueStone Estates,5,B1858
+A1859,Terrilyn Arcizo,6382751736,Landmark Realty,6,B1859
+A1860,Oren Griffitts,6382751737,CityScape Properties,5,B1860
+A1861,Allen Huntington,6382751738,Prime Realty,6,B1861
+A1862,Carolyn Voss,6382751739,Elite Property Solutions,5,B1862
+A1863,Roberto King,6382751740,Urban Nest Realty,3,B1863
+A1864,Nancy Dixon,6382751741,Dream Homes Agency,4,B1864
+A1865,Robert Shannon,6382751742,Golden Key Realty,5,B1865
+A1866,Kevin Shafer,6382751743,SmartSpace Properties,4,B1866
+A1867,Linda Crawford,6382751744,Horizon Realty Group,3,B1867
+A1868,Grace Hannah,6382751745,BlueStone Estates,4,B1868
+A1869,Amanda Anderson,6382751746,Landmark Realty,6,B1869
+A1870,Alma Nolan,6382751747,CityScape Properties,6,B1870
+A1871,Toni Martinez,6382751748,Prime Realty,6,B1871
+A1872,Janet Stringer,6382751749,Elite Property Solutions,6,B1872
+A1873,Daniel Hernandez,6382751750,Urban Nest Realty,6,B1873
+A1874,Craig Caruthers,6382751751,Dream Homes Agency,4,B1874
+A1875,Thelma Wiltse,6382751752,Golden Key Realty,4,B1875
+A1876,Jacqueline Hubbard,6382751753,SmartSpace Properties,4,B1876
+A1877,Cindy Pena,6382751754,Horizon Realty Group,3,B1877
+A1878,Tara Bailey,6382751755,BlueStone Estates,6,B1878
+A1879,Ashley Aste,6382751756,Landmark Realty,6,B1879
+A1880,Christina Mckee,6382751757,CityScape Properties,4,B1880
+A1881,Bobby Ostrander,6382751758,Prime Realty,5,B1881
+A1882,William Weitzel,6382751759,Elite Property Solutions,5,B1882
+A1883,Wendy Behrens,6382751760,Urban Nest Realty,5,B1883
+A1884,Jesse Peters,6382751761,Dream Homes Agency,5,B1884
+A1885,Teresa Bullins,6382751762,Golden Key Realty,6,B1885
+A1886,Amie Mccray,6382751763,SmartSpace Properties,4,B1886
+A1887,Felicita Dewolf,6382751764,Horizon Realty Group,4,B1887
+A1888,Patricia Johnson,6382751765,BlueStone Estates,5,B1888
+A1889,Peter Viola,6382751766,Landmark Realty,6,B1889
+A1890,Robert Wheeler,6382751767,CityScape Properties,5,B1890
+A1891,Richard Snell,6382751768,Prime Realty,4,B1891
+A1892,Lou Redhead,6382751769,Elite Property Solutions,4,B1892
+A1893,Jana Bell,6382751770,Urban Nest Realty,6,B1893
+A1894,Linda Lloyd,6382751771,Dream Homes Agency,5,B1894
+A1895,Latonya Dean,6382751772,Golden Key Realty,4,B1895
+A1896,Lyle Williams,6382751773,SmartSpace Properties,3,B1896
+A1897,Earl Montano,6382751774,Horizon Realty Group,6,B1897
+A1898,Peter Glenn,6382751775,BlueStone Estates,5,B1898
+A1899,Veronica Myers,6382751776,Landmark Realty,4,B1899
+A1900,Elton Scamehorn,6382751777,CityScape Properties,4,B1900
+A1901,John Ramsey,6382751778,Prime Realty,4,B1901
+A1902,Billy Christo,6382751779,Elite Property Solutions,6,B1902
+A1903,Bob Madden,6382751780,Urban Nest Realty,5,B1903
+A1904,James Evans,6382751781,Dream Homes Agency,5,B1904
+A1905,Howard Hornlein,6382751782,Golden Key Realty,3,B1905
+A1906,Tammy Sinclair,6382751783,SmartSpace Properties,4,B1906
+A1907,Arlene Chalifour,6382751784,Horizon Realty Group,5,B1907
+A1908,Jaqueline Wellman,6382751785,BlueStone Estates,3,B1908
+A1909,Jacklyn Robertson,6382751786,Landmark Realty,6,B1909
+A1910,Timothy Robeson,6382751787,CityScape Properties,5,B1910
+A1911,Douglas Smith,6382751788,Prime Realty,3,B1911
+A1912,Carol Sumner,6382751789,Elite Property Solutions,4,B1912
+A1913,Christy Banister,6382751790,Urban Nest Realty,6,B1913
+A1914,Kenny Reynolds,6382751791,Dream Homes Agency,5,B1914
+A1915,Sylvia Waddell,6382751792,Golden Key Realty,6,B1915
+A1916,Timothy Hayden,6382751793,SmartSpace Properties,3,B1916
+A1917,Lila West,6382751794,Horizon Realty Group,4,B1917
+A1918,Robert Shepherd,6382751795,BlueStone Estates,4,B1918
+A1919,Sergio Anderson,6382751796,Landmark Realty,4,B1919
+A1920,Sandra Mcallister,6382751797,CityScape Properties,4,B1920
+A1921,Leon Kaelker,6382751798,Prime Realty,4,B1921
+A1922,Charles White,6382751799,Elite Property Solutions,6,B1922
+A1923,Richard Fisher,6382751800,Urban Nest Realty,4,B1923
+A1924,Jimmie Dimmick,6382751801,Dream Homes Agency,6,B1924
+A1925,Cleo Coffin,6382751802,Golden Key Realty,6,B1925
+A1926,Lynne Matthews,6382751803,SmartSpace Properties,3,B1926
+A1927,Crystal Alt,6382751804,Horizon Realty Group,3,B1927
+A1928,Bobby Wynn,6382751805,BlueStone Estates,4,B1928
+A1929,Tonia Clark,6382751806,Landmark Realty,4,B1929
+A1930,Rocio Hartt,6382751807,CityScape Properties,3,B1930
+A1931,Micheal Fernandez,6382751808,Prime Realty,4,B1931
+A1932,James Brace,6382751809,Elite Property Solutions,5,B1932
+A1933,John Hixon,6382751810,Urban Nest Realty,5,B1933
+A1934,Henry Hawks,6382751811,Dream Homes Agency,5,B1934
+A1935,Carlos Christman,6382751812,Golden Key Realty,5,B1935
+A1936,Mary Glass,6382751813,SmartSpace Properties,6,B1936
+A1937,Gregory Hull,6382751814,Horizon Realty Group,5,B1937
+A1938,Harry Rozmus,6382751815,BlueStone Estates,5,B1938
+A1939,James Love,6382751816,Landmark Realty,6,B1939
+A1940,Jimmy Kettl,6382751817,CityScape Properties,4,B1940
+A1941,Angela Rodriguez,6382751818,Prime Realty,6,B1941
+A1942,William Broussard,6382751819,Elite Property Solutions,5,B1942
+A1943,Daisy Morgan,6382751820,Urban Nest Realty,5,B1943
+A1944,Ernest Lovett,6382751821,Dream Homes Agency,6,B1944
+A1945,Edna Duffy,6382751822,Golden Key Realty,5,B1945
+A1946,Mary Hoffman,6382751823,SmartSpace Properties,3,B1946
+A1947,Mary Silk,6382751824,Horizon Realty Group,5,B1947
+A1948,James Day,6382751825,BlueStone Estates,6,B1948
+A1949,Keila Jordan,6382751826,Landmark Realty,6,B1949
+A1950,Byron Kunz,6382751827,CityScape Properties,6,B1950
+A1951,Mary Jordan,6382751828,Prime Realty,3,B1951
+A1952,Melissa Carney,6382751829,Elite Property Solutions,4,B1952
+A1953,Marvin Xaimoungkhoun,6382751830,Urban Nest Realty,4,B1953
+A1954,Thomas James,6382751831,Dream Homes Agency,6,B1954
+A1955,Michelle Bommarito,6382751832,Golden Key Realty,5,B1955
+A1956,Alice Schulz,6382751833,SmartSpace Properties,6,B1956
+A1957,Jennifer Korfhage,6382751834,Horizon Realty Group,4,B1957
+A1958,Joseph Bergman,6382751835,BlueStone Estates,5,B1958
+A1959,Steven Johnson,6382751836,Landmark Realty,3,B1959
+A1960,Carmen Casillas,6382751837,CityScape Properties,5,B1960
+A1961,Vera Terry,6382751838,Prime Realty,3,B1961
+A1962,Betsy Sadler,6382751839,Elite Property Solutions,4,B1962
+A1963,Amelia Rodriguez,6382751840,Urban Nest Realty,4,B1963
+A1964,Guillermo Streeter,6382751841,Dream Homes Agency,5,B1964
+A1965,Russell Joseph,6382751842,Golden Key Realty,6,B1965
+A1966,Dwayne Traino,6382751843,SmartSpace Properties,6,B1966
+A1967,Mario Schmidt,6382751844,Horizon Realty Group,4,B1967
+A1968,Daniel Powell,6382751845,BlueStone Estates,6,B1968
+A1969,Jeanne Harden,6382751846,Landmark Realty,5,B1969
+A1970,Wilford Thomas,6382751847,CityScape Properties,3,B1970
+A1971,Peter Shockley,6382751848,Prime Realty,4,B1971
+A1972,Leigh Breisch,6382751849,Elite Property Solutions,6,B1972
+A1973,John Rayburn,6382751850,Urban Nest Realty,4,B1973
+A1974,Cody Hazzard,6382751851,Dream Homes Agency,4,B1974
+A1975,Eugene Richards,6382751852,Golden Key Realty,4,B1975
+A1976,Glenn Gonzalez,6382751853,SmartSpace Properties,6,B1976
+A1977,Jose Waldman,6382751854,Horizon Realty Group,5,B1977
+A1978,Jonathan Danner,6382751855,BlueStone Estates,6,B1978
+A1979,Gerald Bayer,6382751856,Landmark Realty,4,B1979
+A1980,Jay Veil,6382751857,CityScape Properties,3,B1980
+A1981,Brandon Falls,6382751858,Prime Realty,5,B1981
+A1982,James Loveman,6382751859,Elite Property Solutions,5,B1982
+A1983,Lorraine Bolinger,6382751860,Urban Nest Realty,6,B1983
+A1984,Daniel Blakeman,6382751861,Dream Homes Agency,3,B1984
+A1985,Fern Williams,6382751862,Golden Key Realty,3,B1985
+A1986,Shaun Novak,6382751863,SmartSpace Properties,6,B1986
+A1987,Robert Thurman,6382751864,Horizon Realty Group,3,B1987
+A1988,Richard Allen,6382751865,BlueStone Estates,3,B1988
+A1989,Miguel Moreno,6382751866,Landmark Realty,5,B1989
+A1990,James Brownlee,6382751867,CityScape Properties,5,B1990
+A1991,Hector Parks,6382751868,Prime Realty,6,B1991
+A1992,Melissa Ogilvie,6382751869,Elite Property Solutions,6,B1992
+A1993,Jeff Cerrone,6382751870,Urban Nest Realty,6,B1993
+A1994,Christina Campbell,6382751871,Dream Homes Agency,4,B1994
+A1995,Wayne Estep,6382751872,Golden Key Realty,6,B1995
+A1996,Joseph Reyes,6382751873,SmartSpace Properties,4,B1996
+A1997,Wanda Jacobs,6382751874,Horizon Realty Group,5,B1997
+A1998,Debra Troublefield,6382751875,BlueStone Estates,6,B1998
+A1999,Mandy Roundtree,6382751876,Landmark Realty,6,B1999
+A2000,Teresa Mccarron,6382751877,CityScape Properties,5,B2000
+A2001,Desiree Loudy,6382751878,Prime Realty,6,B2001
+A2002,John Brown,6382751879,Elite Property Solutions,6,B2002
+A2003,Carlos Chappell,6382751880,Urban Nest Realty,3,B2003
+A2004,George Epperson,6382751881,Dream Homes Agency,4,B2004
+A2005,Jeffery Blount,6382751882,Golden Key Realty,5,B2005
+A2006,David Rautenberg,6382751883,SmartSpace Properties,4,B2006
+A2007,Andrew Williams,6382751884,Horizon Realty Group,4,B2007
+A2008,Alicia Clem,6382751885,BlueStone Estates,4,B2008
+A2009,Edward Davidson,6382751886,Landmark Realty,5,B2009
+A2010,Alejandra Craig,6382751887,CityScape Properties,3,B2010
+A2011,Chase Hinzman,6382751888,Prime Realty,5,B2011
+A2012,Brigitte Bobbitt,6382751889,Elite Property Solutions,3,B2012
+A2013,Richard Post,6382751890,Urban Nest Realty,6,B2013
+A2014,Kevin Puente,6382751891,Dream Homes Agency,6,B2014
+A2015,Michael Lopez,6382751892,Golden Key Realty,4,B2015
+A2016,Patrica Guyton,6382751893,SmartSpace Properties,6,B2016
+A2017,Michael Perry,6382751894,Horizon Realty Group,3,B2017
+A2018,Sierra Kirkland,6382751895,BlueStone Estates,4,B2018
+A2019,Suzanne Patterson,6382751896,Landmark Realty,5,B2019
+A2020,Roger Curran,6382751897,CityScape Properties,3,B2020
+A2021,Kevin Schuetze,6382751898,Prime Realty,5,B2021
+A2022,Cecile Spinks,6382751899,Elite Property Solutions,3,B2022
+A2023,Wilbur Dejesus,6382751900,Urban Nest Realty,5,B2023
+A2024,Jeannie Heineman,6382751901,Dream Homes Agency,6,B2024
+A2025,John Russell,6382751902,Golden Key Realty,6,B2025
+A2026,Enrique Kesselman,6382751903,SmartSpace Properties,6,B2026
+A2027,Casey Courser,6382751904,Horizon Realty Group,6,B2027
+A2028,Delora Stark,6382751905,BlueStone Estates,3,B2028
+A2029,Veronica Grennan,6382751906,Landmark Realty,6,B2029
+A2030,Linda Oliphant,6382751907,CityScape Properties,5,B2030
+A2031,Sue Edge,6382751908,Prime Realty,5,B2031
+A2032,David Butler,6382751909,Elite Property Solutions,6,B2032
+A2033,Peggy Lallo,6382751910,Urban Nest Realty,6,B2033
+A2034,Dick Carrell,6382751911,Dream Homes Agency,5,B2034
+A2035,Felix Banks,6382751912,Golden Key Realty,4,B2035
+A2036,Amelia Haynes,6382751913,SmartSpace Properties,4,B2036
+A2037,Kristin Barnes,6382751914,Horizon Realty Group,6,B2037
+A2038,Leo Keepers,6382751915,BlueStone Estates,5,B2038
+A2039,Nicholas Zumwalt,6382751916,Landmark Realty,5,B2039
+A2040,Kenneth Harvey,6382751917,CityScape Properties,4,B2040
+A2041,Gary Duncan,6382751918,Prime Realty,5,B2041
+A2042,Timothy Bunker,6382751919,Elite Property Solutions,4,B2042
+A2043,Susan Smith,6382751920,Urban Nest Realty,3,B2043
+A2044,Frank Harris,6382751921,Dream Homes Agency,5,B2044
+A2045,Richard Lee,6382751922,Golden Key Realty,5,B2045
+A2046,Sharon Husbands,6382751923,SmartSpace Properties,6,B2046
+A2047,Silvia Craig,6382751924,Horizon Realty Group,5,B2047
+A2048,John Nelson,6382751925,BlueStone Estates,4,B2048
+A2049,Eva Richardson,6382751926,Landmark Realty,6,B2049
+A2050,Richard Hammond,6382751927,CityScape Properties,6,B2050
+A2051,Tyrone Speziale,6382751928,Prime Realty,4,B2051
+A2052,Anne Smith,6382751929,Elite Property Solutions,3,B2052
+A2053,Laurie Rowell,6382751930,Urban Nest Realty,4,B2053
+A2054,Jackie Lints,6382751931,Dream Homes Agency,6,B2054
+A2055,Rolf Feldman,6382751932,Golden Key Realty,4,B2055
+A2056,Jason Fields,6382751933,SmartSpace Properties,5,B2056
+A2057,William Newbold,6382751934,Horizon Realty Group,3,B2057
+A2058,Jesse Taylor,6382751935,BlueStone Estates,5,B2058
+A2059,Timothy Wozniak,6382751936,Landmark Realty,4,B2059
+A2060,Jeremiah Vasquez,6382751937,CityScape Properties,4,B2060
+A2061,Carla Hunt,6382751938,Prime Realty,6,B2061
+A2062,Beverly Torres,6382751939,Elite Property Solutions,3,B2062
+A2063,Terrell Westlie,6382751940,Urban Nest Realty,6,B2063
+A2064,Luciano Vasquez,6382751941,Dream Homes Agency,4,B2064
+A2065,Levi Braswell,6382751942,Golden Key Realty,4,B2065
+A2066,Robin Cherubino,6382751943,SmartSpace Properties,5,B2066
+A2067,Catherine Delisa,6382751944,Horizon Realty Group,4,B2067
+A2068,Joseph Swenson,6382751945,BlueStone Estates,6,B2068
+A2069,Rosemary Dawes,6382751946,Landmark Realty,3,B2069
+A2070,Jason Limmel,6382751947,CityScape Properties,5,B2070
+A2071,Jessie Maldonado,6382751948,Prime Realty,6,B2071
+A2072,Kate Ware,6382751949,Elite Property Solutions,6,B2072
+A2073,Robert Franklin,6382751950,Urban Nest Realty,4,B2073
+A2074,Derek Leak,6382751951,Dream Homes Agency,5,B2074
+A2075,Catherine Smiley,6382751952,Golden Key Realty,6,B2075
+A2076,Arlene Beck,6382751953,SmartSpace Properties,4,B2076
+A2077,Tammy Owens,6382751954,Horizon Realty Group,3,B2077
+A2078,Mathilde Martino,6382751955,BlueStone Estates,5,B2078
+A2079,Keith Strickland,6382751956,Landmark Realty,5,B2079
+A2080,Shirley Crockette,6382751957,CityScape Properties,4,B2080
+A2081,Ora Tefft,6382751958,Prime Realty,6,B2081
+A2082,Alice Rhodes,6382751959,Elite Property Solutions,5,B2082
+A2083,Steven Wood,6382751960,Urban Nest Realty,4,B2083
+A2084,James Wilson,6382751961,Dream Homes Agency,6,B2084
+A2085,Daniel Calahan,6382751962,Golden Key Realty,6,B2085
+A2086,Ada Thompson,6382751963,SmartSpace Properties,3,B2086
+A2087,Hillary Rivera,6382751964,Horizon Realty Group,5,B2087
+A2088,Terri Ulatowski,6382751965,BlueStone Estates,5,B2088
+A2089,Lisa Ellenberger,6382751966,Landmark Realty,3,B2089
+A2090,Seema Madden,6382751967,CityScape Properties,5,B2090
+A2091,Joshua Hendricks,6382751968,Prime Realty,3,B2091
+A2092,Mallory Oglesbee,6382751969,Elite Property Solutions,6,B2092
+A2093,Carlos Timothy,6382751970,Urban Nest Realty,4,B2093
+A2094,Harriet Harvey,6382751971,Dream Homes Agency,6,B2094
+A2095,Roma Baum,6382751972,Golden Key Realty,6,B2095
+A2096,Barbara Snethen,6382751973,SmartSpace Properties,4,B2096
+A2097,Kathryn Medlar,6382751974,Horizon Realty Group,6,B2097
+A2098,Santiago Jackson,6382751975,BlueStone Estates,6,B2098
+A2099,Kevin Weeks,6382751976,Landmark Realty,3,B2099
+A2100,James Reynolds,6382751977,CityScape Properties,4,B2100
+A2101,Anita Stein,6382751978,Prime Realty,4,B2101
+A2102,Elva Muir,6382751979,Elite Property Solutions,4,B2102
+A2103,Chung Ferris,6382751980,Urban Nest Realty,3,B2103
+A2104,Leon Watkins,6382751981,Dream Homes Agency,5,B2104
+A2105,Erin Johnston,6382751982,Golden Key Realty,4,B2105
+A2106,Maria Ransom,6382751983,SmartSpace Properties,4,B2106
+A2107,Ida Schiefelbein,6382751984,Horizon Realty Group,3,B2107
+A2108,Jon Czech,6382751985,BlueStone Estates,6,B2108
+A2109,Denise Pickett,6382751986,Landmark Realty,5,B2109
+A2110,John Dunleavy,6382751987,CityScape Properties,6,B2110
+A2111,David Preston,6382751988,Prime Realty,4,B2111
+A2112,Dennis English,6382751989,Elite Property Solutions,4,B2112
+A2113,Rosy Parker,6382751990,Urban Nest Realty,3,B2113
+A2114,Daniel Wainscott,6382751991,Dream Homes Agency,3,B2114
+A2115,John Watkins,6382751992,Golden Key Realty,4,B2115
+A2116,Felecia Wallace,6382751993,SmartSpace Properties,6,B2116
+A2117,Rita Feurtado,6382751994,Horizon Realty Group,5,B2117
+A2118,Jeffrey Harrison,6382751995,BlueStone Estates,6,B2118
+A2119,Sherry Pace,6382751996,Landmark Realty,5,B2119
+A2120,Henry Walker,6382751997,CityScape Properties,5,B2120
+A2121,Lewis Haven,6382751998,Prime Realty,3,B2121
+A2122,Scott Williams,6382751999,Elite Property Solutions,4,B2122
+A2123,Kathy Amador,6382752000,Urban Nest Realty,5,B2123
+A2124,Clyde Shank,6382752001,Dream Homes Agency,5,B2124
+A2125,Barbara Husseini,6382752002,Golden Key Realty,6,B2125
+A2126,Percy Valone,6382752003,SmartSpace Properties,5,B2126
+A2127,Nathan Agro,6382752004,Horizon Realty Group,6,B2127
+A2128,Mary Lewis,6382752005,BlueStone Estates,4,B2128
+A2129,Jerry Stein,6382752006,Landmark Realty,6,B2129
+A2130,Brenda Kalama,6382752007,CityScape Properties,3,B2130
+A2131,Ashton Hermans,6382752008,Prime Realty,4,B2131
+A2132,Henry Ramos,6382752009,Elite Property Solutions,3,B2132
+A2133,Mark Newman,6382752010,Urban Nest Realty,6,B2133
+A2134,Aaron Tunnell,6382752011,Dream Homes Agency,6,B2134
+A2135,Elenor Betzer,6382752012,Golden Key Realty,5,B2135
+A2136,Gary Valladares,6382752013,SmartSpace Properties,5,B2136
+A2137,Michael Brimmage,6382752014,Horizon Realty Group,4,B2137
+A2138,Bertha Steib,6382752015,BlueStone Estates,6,B2138
+A2139,Maria Perez,6382752016,Landmark Realty,3,B2139
+A2140,Dawn Alzate,6382752017,CityScape Properties,4,B2140
+A2141,Tonia Bunting,6382752018,Prime Realty,3,B2141
+A2142,Eddie White,6382752019,Elite Property Solutions,3,B2142
+A2143,Paula Booth,6382752020,Urban Nest Realty,6,B2143
+A2144,Earnestine Ratcliff,6382752021,Dream Homes Agency,5,B2144
+A2145,Richard Rabinowitz,6382752022,Golden Key Realty,5,B2145
+A2146,Jeff Vanzandt,6382752023,SmartSpace Properties,6,B2146
+A2147,Frieda North,6382752024,Horizon Realty Group,3,B2147
+A2148,Sherrie Marguez,6382752025,BlueStone Estates,3,B2148
+A2149,Dorothy Schaal,6382752026,Landmark Realty,5,B2149
+A2150,Lois Brown,6382752027,CityScape Properties,4,B2150
+A2151,Kathy Ardon,6382752028,Prime Realty,4,B2151
+A2152,Shawn Murphy,6382752029,Elite Property Solutions,6,B2152
+A2153,Agnes Dickerman,6382752030,Urban Nest Realty,5,B2153
+A2154,Ralph Bryant,6382752031,Dream Homes Agency,5,B2154
+A2155,Carl Garza,6382752032,Golden Key Realty,6,B2155
+A2156,Richard Harrison,6382752033,SmartSpace Properties,3,B2156
+A2157,Dennis Quinton,6382752034,Horizon Realty Group,5,B2157
+A2158,Kenneth Allison,6382752035,BlueStone Estates,4,B2158
+A2159,Elizabeth Reyes,6382752036,Landmark Realty,5,B2159
+A2160,Robert Oliver,6382752037,CityScape Properties,4,B2160
+A2161,John Brown,6382752038,Prime Realty,6,B2161
+A2162,Emma East,6382752039,Elite Property Solutions,5,B2162
+A2163,Charles Anderson,6382752040,Urban Nest Realty,3,B2163
+A2164,Marisol Morgan,6382752041,Dream Homes Agency,5,B2164
+A2165,Mary Monteleone,6382752042,Golden Key Realty,6,B2165
+A2166,Megan Luster,6382752043,SmartSpace Properties,6,B2166
+A2167,Raymond Beaty,6382752044,Horizon Realty Group,5,B2167
+A2168,Roderick Sudbeck,6382752045,BlueStone Estates,4,B2168
+A2169,Dolores Aquino,6382752046,Landmark Realty,3,B2169
+A2170,Patricia Mcrae,6382752047,Prime Realty,4,B2170
+A2171,Anne Fly,6382752048,Prime Realty,4,B2171
+A2172,Mozell Huard,6382752049,Prime Realty,5,B2172
+A2173,Julie Brothers,6382752050,Prime Realty,6,B2173
+A2174,Danielle Patterson,6382752051,Prime Realty,3,B2174
+A2175,Cynthia Henry,6382752052,Prime Realty,3,B2175
+A2176,Leslie Haas,6382752053,Prime Realty,3,B2176
+A2177,Melody Schrom,6382752054,Prime Realty,4,B2177
+A2178,Lloyd Profit,6382752055,Prime Realty,5,B2178
+A2179,Dennis Combs,6382752056,Prime Realty,6,B2179
+A2180,Frank Smith,6382752057,Prime Realty,4,B2180
+A2181,Richard Clifton,6382752058,Prime Realty,4,B2181
+A2182,Walter Mccune,6382752059,Prime Realty,3,B2182
+A2183,Gary Gordon,6382752060,Prime Realty,3,B2183
+A2184,Lance Chaves,6382752061,Prime Realty,6,B2184
+A2185,Lamar Sherlock,6382752062,Prime Realty,5,B2185
+A2186,Will Figaro,6382752063,Prime Realty,6,B2186
+A2187,Teresita Baker,6382752064,Prime Realty,6,B2187
+A2188,Howard Koch,6382752065,Prime Realty,6,B2188
+A2189,James Page,6382752066,Prime Realty,3,B2189
+A2190,Muriel Rivas,6382752067,Prime Realty,5,B2190
+A2191,David Minors,6382752068,Prime Realty,5,B2191
+A2192,Sung Sullivan,6382752069,Prime Realty,4,B2192
+A2193,Kathy Goodson,6382752070,Prime Realty,3,B2193
+A2194,Leonard Michael,6382752071,Prime Realty,3,B2194
+A2195,Kathleen Heras,6382752072,Prime Realty,4,B2195
+A2196,Brian Macdonald,6382752073,Prime Realty,4,B2196
+A2197,Anna Jennings,6382752074,Prime Realty,5,B2197
+A2198,Dwight Faulkner,6382752075,Prime Realty,4,B2198
+A2199,Juan Chaplin,6382752076,Prime Realty,5,B2199
+A2200,David Sanford,6382752077,Prime Realty,5,B2200
+A2201,Carmen Stinchcomb,6382752078,Prime Realty,4,B2201
+A2202,Joshua Big,6382752079,Prime Realty,4,B2202
+A2203,Joseph Oswalt,6382752080,Prime Realty,6,B2203
+A2204,Julietta Smock,6382752081,Prime Realty,4,B2204
+A2205,Edward Day,6382752082,Prime Realty,3,B2205
+A2206,Amy Presley,6382752083,Prime Realty,5,B2206
+A2207,James Wright,6382752084,Prime Realty,5,B2207
+A2208,Patrick Lawrence,6382752085,Prime Realty,3,B2208
+A2209,Richard Midgette,6382752086,Prime Realty,4,B2209
+A2210,Alton Collins,6382752087,Prime Realty,4,B2210
+A2211,Joann Clemments,6382752088,Prime Realty,5,B2211
+A2212,George Bird,6382752089,Prime Realty,4,B2212
+A2213,Frankie Walston,6382752090,Prime Realty,3,B2213
+A2214,Blanca Ozzella,6382752091,Prime Realty,4,B2214
+A2215,Eleanor Rodrequez,6382752092,Prime Realty,6,B2215
+A2216,William Gibson,6382752093,Prime Realty,3,B2216
+A2217,Charles Scott,6382752094,Prime Realty,6,B2217
+A2218,Mark Dickerman,6382752095,Prime Realty,6,B2218
+A2219,Roni Leggette,6382752096,Prime Realty,3,B2219
+A2220,Alice Brown,6382752097,Prime Realty,5,B2220
+A2221,Tuyet Roiger,6382752098,Prime Realty,5,B2221
+A2222,Deborah White,6382752099,Prime Realty,6,B2222
+A2223,Luis Donaldson,6382752100,Prime Realty,6,B2223
+A2224,Heather Gleeson,6382752101,Prime Realty,3,B2224
+A2225,Ernestine Allen,6382752102,Prime Realty,3,B2225
+A2226,Michael Pritchard,6382752103,Prime Realty,3,B2226
+A2227,Anthony Picklesimer,6382752104,Prime Realty,4,B2227
+A2228,Judy Crandell,6382752105,Prime Realty,5,B2228
+A2229,Derek Schultz,6382752106,Prime Realty,6,B2229
+A2230,Eddie Elgin,6382752107,Prime Realty,3,B2230
+A2231,Patricia Cahal,6382752108,Prime Realty,4,B2231
+A2232,Annie Carpenter,6382752109,Prime Realty,5,B2232
+A2233,Johnathan Lorenzo,6382752110,Prime Realty,6,B2233
+A2234,Holly Malick,6382752111,Prime Realty,6,B2234
+A2235,Steven Mata,6382752112,Prime Realty,3,B2235
+A2236,Mark Rudy,6382752113,Prime Realty,5,B2236
+A2237,Marilyn Combest,6382752114,Prime Realty,6,B2237
+A2238,Ruth Gershon,6382752115,Prime Realty,5,B2238
+A2239,Marion Sanchez,6382752116,Prime Realty,3,B2239
+A2240,Anna Persing,6382752117,Prime Realty,6,B2240
+A2241,Jennifer Jackson,6382752118,Prime Realty,6,B2241
+A2242,Al Jones,6382752119,Prime Realty,5,B2242
+A2243,James Johnson,6382752120,Prime Realty,6,B2243
+A2244,Jack Latimer,6382752121,Prime Realty,5,B2244
+A2245,Jonathan Isham,6382752122,Prime Realty,6,B2245
+A2246,Margaret Gess,6382752123,Prime Realty,5,B2246
+A2247,Samantha Harris,6382752124,Prime Realty,5,B2247
+A2248,Patricia Lee,6382752125,Prime Realty,6,B2248
+A2249,Daryl Daly,6382752126,Prime Realty,5,B2249
+A2250,Mary Williams,6382752127,Prime Realty,4,B2250
+A2251,Dennis Kent,6382752128,Prime Realty,6,B2251
+A2252,Tony Saumier,6382752129,Prime Realty,4,B2252
+A2253,Emily Cohen,6382752130,Prime Realty,4,B2253
+A2254,Sarah Braatz,6382752131,Prime Realty,4,B2254
+A2255,John Hudgins,6382752132,Prime Realty,3,B2255
+A2256,Robin Rossi,6382752133,Prime Realty,5,B2256
+A2257,David Mohler,6382752134,Prime Realty,5,B2257
+A2258,James Stevens,6382752135,Prime Realty,6,B2258
+A2259,James Lynch,6382752136,Prime Realty,6,B2259
+A2260,Christopher Snyder,6382752137,Prime Realty,6,B2260
+A2261,Carol Bertran,6382752138,Prime Realty,5,B2261
+A2262,Mark Fields,6382752139,Prime Realty,6,B2262
+A2263,Justin Collins,6382752140,Prime Realty,6,B2263
+A2264,David Killer,6382752141,Prime Realty,3,B2264
+A2265,William Hammock,6382752142,Prime Realty,5,B2265
+A2266,Gary Hollinger,6382752143,Prime Realty,5,B2266
+A2267,Dolores Riley,6382752144,Prime Realty,4,B2267
+A2268,Dennis Frantz,6382752145,Prime Realty,3,B2268
+A2269,Carla Knotts,6382752146,Prime Realty,3,B2269
+A2270,Walter Lowe,6382752147,Prime Realty,4,B2270
+A2271,Mary Bank,6382752148,Prime Realty,5,B2271
+A2272,Richard Kim,6382752149,Prime Realty,3,B2272
+A2273,Henry Denning,6382752150,Prime Realty,4,B2273
+A2274,Norman Larose,6382752151,Prime Realty,6,B2274
+A2275,Mary Singh,6382752152,Prime Realty,4,B2275
+A2276,Judi Weber,6382752153,Prime Realty,3,B2276
+A2277,Jasmin Dillon,6382752154,Prime Realty,5,B2277
+A2278,Scott Cagle,6382752155,Prime Realty,5,B2278
+A2279,Eric Miser,6382752156,Prime Realty,4,B2279
+A2280,John Reynolds,6382752157,Prime Realty,3,B2280
+A2281,Maria Adams,6382752158,Prime Realty,5,B2281
+A2282,Sharon Swan,6382752159,Prime Realty,3,B2282
+A2283,Gloria Ford,6382752160,Prime Realty,5,B2283
+A2284,Jacob Coffman,6382752161,Prime Realty,4,B2284
+A2285,Jeffery Rotella,6382752162,Prime Realty,6,B2285
+A2286,Lottie Barrett,6382752163,Prime Realty,5,B2286
+A2287,Patricia Moody,6382752164,Prime Realty,6,B2287
+A2288,Keith Bateman,6382752165,Prime Realty,3,B2288
+A2289,Lillie Rogers,6382752166,Prime Realty,4,B2289
+A2290,Henry Pein,6382752167,Prime Realty,4,B2290
+A2291,Robert Hatmaker,6382752168,Prime Realty,5,B2291
+A2292,Laura Sevilla,6382752169,Prime Realty,6,B2292
+A2293,Mary Harris,6382752170,Prime Realty,4,B2293
+A2294,Lakeisha Behr,6382752171,Prime Realty,6,B2294
+A2295,Barbara Noble,6382752172,Prime Realty,4,B2295
+A2296,Samuel Westphal,6382752173,Prime Realty,6,B2296
+A2297,Charles Griffin,6382752174,Prime Realty,3,B2297
+A2298,Kristina Murphy,6382752175,Prime Realty,6,B2298
+A2299,Dianne Dunlop,6382752176,Prime Realty,6,B2299
+A2300,Dodie Taylor,6382752177,Prime Realty,5,B2300
+A2301,James Harris,6382752178,Prime Realty,4,B2301
+A2302,Joshua Mcdonald,6382752179,Prime Realty,3,B2302
+A2303,Paris Gregg,6382752180,Prime Realty,4,B2303
+A2304,Corey Rubin,6382752181,Prime Realty,3,B2304
+A2305,Junita Rahn,6382752182,Prime Realty,4,B2305
+A2306,Christine Mathis,6382752183,Prime Realty,4,B2306
+A2307,Ernie Brawley,6382752184,Prime Realty,5,B2307
+A2308,Billy Garcia,6382752185,Prime Realty,5,B2308
+A2309,Mattie Barrett,6382752186,Prime Realty,3,B2309
+A2310,Guadalupe Shepherd,6382752187,Prime Realty,6,B2310
+A2311,Travis Flores,6382752188,Prime Realty,5,B2311
+A2312,Eric Hesson,6382752189,Prime Realty,3,B2312
+A2313,Esmeralda Ross,6382752190,Prime Realty,5,B2313
+A2314,Melissa Creed,6382752191,Prime Realty,3,B2314
+A2315,Richard Kratky,6382752192,Prime Realty,3,B2315
+A2316,William Greene,6382752193,Prime Realty,4,B2316
+A2317,Robert Wright,6382752194,Prime Realty,6,B2317
+A2318,John Pitcock,6382752195,Prime Realty,3,B2318
+A2319,Keneth Hull,6382752196,Prime Realty,4,B2319
+A2320,Bradley Anderson,6382752197,Prime Realty,6,B2320
+A2321,Rolando Westbrook,6382752198,Prime Realty,5,B2321
+A2322,Enrique Love,6382752199,Prime Realty,5,B2322
+A2323,Kathleen Aguirre,6382752200,Prime Realty,5,B2323
+A2324,Allen Beck,6382752201,Prime Realty,6,B2324
+A2325,Joseph Cole,6382752202,Prime Realty,6,B2325
+A2326,James Black,6382752203,Prime Realty,5,B2326
+A2327,Pauline Friesner,6382752204,Prime Realty,4,B2327
+A2328,Christopher Whiteis,6382752205,Prime Realty,3,B2328
+A2329,Leonard Duncan,6382752206,Prime Realty,3,B2329
+A2330,Bessie Drozd,6382752207,Prime Realty,4,B2330
+A2331,Kenneth Mendoza,6382752208,Prime Realty,5,B2331
+A2332,Clifford Steil,6382752209,Prime Realty,3,B2332
+A2333,Margaret Holland,6382752210,Prime Realty,3,B2333
+A2334,Henry Labree,6382752211,Prime Realty,5,B2334
+A2335,Jaclyn Chamberlain,6382752212,Prime Realty,5,B2335
+A2336,Clark Rawe,6382752213,Prime Realty,5,B2336
+A2337,Josefina Jondle,6382752214,Prime Realty,4,B2337
+A2338,Eleanor Wheeler,6382752215,Prime Realty,4,B2338
+A2339,Alma Black,6382752216,Prime Realty,4,B2339
+A2340,Lucille Wilde,6382752217,Prime Realty,5,B2340
+A2341,Lidia Bruce,6382752218,Prime Realty,3,B2341
+A2342,Robert King,6382752219,Prime Realty,6,B2342
+A2343,Thomas Lanoue,6382752220,Prime Realty,5,B2343
+A2344,Ethel Jacobson,6382752221,Prime Realty,6,B2344
+A2345,Theron Currie,6382752222,Prime Realty,4,B2345
+A2346,Enoch Barron,6382752223,Prime Realty,4,B2346
+A2347,Deborah Johnson,6382752224,Prime Realty,4,B2347
+A2348,Antoinette Tennon,6382752225,Prime Realty,6,B2348
+A2349,Herbert Thomas,6382752226,Prime Realty,3,B2349
+A2350,John Hines,6382752227,Prime Realty,5,B2350
+A2351,Dawn Martin,6382752228,Prime Realty,5,B2351
+A2352,Ronald Culpepper,6382752229,Prime Realty,5,B2352
+A2353,Eric Busch,6382752230,Prime Realty,6,B2353
+A2354,Carol Rice,6382752231,Prime Realty,5,B2354
+A2355,Jeffrey Meyer,6382752232,Prime Realty,6,B2355
+A2356,Charles Dibble,6382752233,Prime Realty,4,B2356
+A2357,Michael Farmer,6382752234,Prime Realty,4,B2357
+A2358,Nancy Ellis,6382752235,Prime Realty,3,B2358
+A2359,Linda Lewis,6382752236,Prime Realty,4,B2359
+A2360,Jonathan Kohan,6382752237,Prime Realty,5,B2360
+A2361,Frank Arnold,6382752238,Prime Realty,5,B2361
+A2362,James Robles,6382752239,Prime Realty,3,B2362
+A2363,Leah Childs,6382752240,Prime Realty,6,B2363
+A2364,Denise Taylor,6382752241,Prime Realty,6,B2364
+A2365,Gilbert Moore,6382752242,Prime Realty,5,B2365
+A2366,Melissa Smith,6382752243,Prime Realty,3,B2366
+A2367,Deborah Durrance,6382752244,Prime Realty,6,B2367
+A2368,Marylin Wallace,6382752245,Prime Realty,3,B2368
+A2369,John Hayes,6382752246,Prime Realty,6,B2369
+A2370,Alice Cleavenger,6382752247,Prime Realty,6,B2370
+A2371,Larry Pribbenow,6382752248,Prime Realty,6,B2371
+A2372,Betty Griggs,6382752249,Prime Realty,6,B2372
+A2373,Nicole Brooks,6382752250,Prime Realty,6,B2373
+A2374,Allison Crabtree,6382752251,Prime Realty,4,B2374
+A2375,Joanne Peterson,6382752252,Prime Realty,4,B2375
+A2376,Alan Burkhalter,6382752253,Prime Realty,6,B2376
+A2377,Silvia Gibson,6382752254,Prime Realty,3,B2377
+A2378,Fred Rowland,6382752255,Prime Realty,6,B2378
+A2379,Sandi Hampton,6382752256,Prime Realty,6,B2379
+A2380,Kathleen Houston,6382752257,Prime Realty,5,B2380
+A2381,Jama Pollard,6382752258,Prime Realty,3,B2381
+A2382,Anna Wehrley,6382752259,Prime Realty,6,B2382
+A2383,Nickole Harris,6382752260,Prime Realty,4,B2383
+A2384,Wayne Zeigler,6382752261,Prime Realty,5,B2384
+A2385,James Williamston,6382752262,Prime Realty,4,B2385
+A2386,Norma Gutierrez,6382752263,Prime Realty,3,B2386
+A2387,Antonio Saltsman,6382752264,Prime Realty,4,B2387
+A2388,Jimmie Reynolds,6382752265,Prime Realty,5,B2388
+A2389,Nellie Rademacher,6382752266,Prime Realty,4,B2389
+A2390,Anne Reitan,6382752267,Prime Realty,6,B2390
+A2391,Michael Beede,6382752268,Prime Realty,4,B2391
+A2392,James Tate,6382752269,Prime Realty,6,B2392
+A2393,Jody Blalock,6382752270,Prime Realty,4,B2393
+A2394,Belinda Deubler,6382752271,Prime Realty,5,B2394
+A2395,Robert Crouch,6382752272,Prime Realty,5,B2395
+A2396,Thad Carroll,6382752273,Prime Realty,6,B2396
+A2397,Rodger Harris,6382752274,Prime Realty,6,B2397
+A2398,Lorraine Rice,6382752275,Prime Realty,6,B2398
+A2399,David Baudino,6382752276,Prime Realty,6,B2399
+A2400,Linda Keller,6382752277,Prime Realty,4,B2400
+A2401,John Worton,6382752278,Prime Realty,4,B2401
+A2402,Harold Mulchrone,6382752279,Prime Realty,5,B2402
+A2403,Robert Bell,6382752280,Prime Realty,6,B2403
+A2404,Onie Cave,6382752281,Prime Realty,4,B2404
+A2405,Jaime Breeding,6382752282,Prime Realty,3,B2405
+A2406,Jose Rines,6382752283,Prime Realty,5,B2406
+A2407,Tyler Ingram,6382752284,Prime Realty,6,B2407
+A2408,Noah Goyne,6382752285,Prime Realty,3,B2408
+A2409,Rosa Lobendahn,6382752286,Prime Realty,5,B2409
+A2410,John William,6382752287,Prime Realty,3,B2410
+A2411,Ida Osborne,6382752288,Prime Realty,6,B2411
+A2412,Jerry Heming,6382752289,Prime Realty,4,B2412
+A2413,Lon Williams,6382752290,Prime Realty,5,B2413
+A2414,Kathryn Tong,6382752291,Prime Realty,5,B2414
+A2415,Maria Thomas,6382752292,Prime Realty,3,B2415
+A2416,Jim Beers,6382752293,Prime Realty,4,B2416
+A2417,Stewart Mackenzie,6382752294,Prime Realty,6,B2417
+A2418,Carleen Urbina,6382752295,Prime Realty,4,B2418
+A2419,James Williams,6382752296,Prime Realty,5,B2419
+A2420,Myrtle Mccall,6382752297,Prime Realty,3,B2420
+A2421,Melvin Destina,6382752298,Prime Realty,3,B2421
+A2422,Roger Newland,6382752299,Prime Realty,6,B2422
+A2423,George Tomes,6382752300,Prime Realty,5,B2423
+A2424,Eric Palczynski,6382752301,Prime Realty,4,B2424
+A2425,David Krause,6382752302,Prime Realty,4,B2425
+A2426,John Inman,6382752303,Prime Realty,5,B2426
+A2427,Kyle Larson,6382752304,Prime Realty,6,B2427
+A2428,Moses Carl,6382752305,Prime Realty,6,B2428
+A2429,Ethel Johnson,6382752306,Prime Realty,3,B2429
+A2430,Casey Eaton,6382752307,Prime Realty,5,B2430
+A2431,Lee Williams,6382752308,Prime Realty,6,B2431
+A2432,Bobby Chee,6382752309,Prime Realty,5,B2432
+A2433,Dorothy Coy,6382752310,Prime Realty,5,B2433
+A2434,Jim Poe,6382752311,Prime Realty,6,B2434
+A2435,Laurie Skinner,6382752312,Prime Realty,5,B2435
+A2436,Carl Mcnair,6382752313,Prime Realty,5,B2436
+A2437,Sol Jarvis,6382752314,Prime Realty,4,B2437
+A2438,Carla Mccroskey,6382752315,Prime Realty,3,B2438
+A2439,Ramon Burrage,6382752316,Prime Realty,4,B2439
+A2440,Leslie Schardein,6382752317,Prime Realty,5,B2440
+A2441,Nancy Vandenbosch,6382752318,Prime Realty,4,B2441
+A2442,Karen Starling,6382752319,Prime Realty,4,B2442
+A2443,Francisco Hedrick,6382752320,Prime Realty,3,B2443
+A2444,Joyce Blythe,6382752321,Prime Realty,6,B2444
+A2445,Rich Rosemond,6382752322,Prime Realty,4,B2445
+A2446,Christina Chambers,6382752323,Prime Realty,5,B2446
+A2447,April King,6382752324,Prime Realty,5,B2447
+A2448,James Larsen,6382752325,Prime Realty,3,B2448
+A2449,Billy Warren,6382752326,Prime Realty,3,B2449
+A2450,Frances Crone,6382752327,Prime Realty,3,B2450
+A2451,Mildred German,6382752328,Prime Realty,3,B2451
+A2452,Marylee Stringer,6382752329,Prime Realty,5,B2452
+A2453,Timothy Gallegos,6382752330,Prime Realty,3,B2453
+A2454,Rebecca Cotton,6382752331,Prime Realty,6,B2454
+A2455,Helen Witherspoon,6382752332,Prime Realty,6,B2455
+A2456,Warren Gatton,6382752333,Prime Realty,6,B2456
+A2457,Terry Wooton,6382752334,Prime Realty,4,B2457
+A2458,Jose Lackey,6382752335,Prime Realty,4,B2458
+A2459,Thomas Giron,6382752336,Prime Realty,4,B2459
+A2460,Ivan Mccabe,6382752337,Prime Realty,3,B2460
+A2461,Edwin Avant,6382752338,Prime Realty,5,B2461
+A2462,Judith Vasquez,6382752339,Prime Realty,4,B2462
+A2463,Linwood Stoneburner,6382752340,Prime Realty,4,B2463
+A2464,Jacob King,6382752341,Prime Realty,6,B2464
+A2465,Velma Payne,6382752342,Prime Realty,5,B2465
+A2466,James Clark,6382752343,Prime Realty,6,B2466
+A2467,Marion Spencer,6382752344,Prime Realty,6,B2467
+A2468,Kristin Blevins,6382752345,Prime Realty,4,B2468
+A2469,Joseph Rountree,6382752346,Prime Realty,3,B2469
+A2470,Maria Brown,6382752347,Prime Realty,5,B2470
+A2471,Chelsea Shaffer,6382752348,Prime Realty,3,B2471
+A2472,Malinda Felan,6382752349,Prime Realty,6,B2472
+A2473,Carrie Moses,6382752350,Prime Realty,4,B2473
+A2474,Edward Williams,6382752351,Prime Realty,5,B2474
+A2475,Elda Santiago,6382752352,Prime Realty,5,B2475
+A2476,Jackie Romo,6382752353,Prime Realty,5,B2476
+A2477,Natasha Butler,6382752354,Prime Realty,5,B2477
+A2478,Lloyd Martinez,6382752355,Prime Realty,5,B2478
+A2479,Mary Baer,6382752356,Prime Realty,3,B2479
+A2480,Edward Lowe,6382752357,Prime Realty,5,B2480
+A2481,Helen Urias,6382752358,Prime Realty,4,B2481
+A2482,Nancy Gratton,6382752359,Prime Realty,3,B2482
+A2483,Lindy Mcgahan,6382752360,Prime Realty,4,B2483
+A2484,Scott Ferretti,6382752361,Prime Realty,6,B2484
+A2485,Angie Heinzen,6382752362,Prime Realty,5,B2485
+A2486,Jennifer Drown,6382752363,Prime Realty,3,B2486
+A2487,Jane Smith,6382752364,Prime Realty,4,B2487
+A2488,Shandra Hernandez,6382752365,Prime Realty,4,B2488
+A2489,Linda Macdowell,6382752366,Prime Realty,5,B2489
+A2490,Patrick Kazin,6382752367,Prime Realty,4,B2490
+A2491,John Mitchell,6382752368,Prime Realty,5,B2491
+A2492,Gary Brewington,6382752369,Prime Realty,4,B2492
+A2493,Marcia Wadsworth,6382752370,Prime Realty,3,B2493
+A2494,Monica Johnson,6382752371,Prime Realty,6,B2494
+A2495,Angel Kidd,6382752372,Prime Realty,6,B2495
+A2496,Viola Bond,6382752373,Prime Realty,5,B2496
+A2497,Susan Barkett,6382752374,Prime Realty,6,B2497
+A2498,Jason Wedgewood,6382752375,Prime Realty,4,B2498
+A2499,Cari Girouard,6382752376,Prime Realty,5,B2499
+A2500,Joyce Bradley,6382752377,Prime Realty,5,B2500
+A2501,John Lustig,6382752378,Prime Realty,3,B2501
+A2502,Joe Patterson,6382752379,Prime Realty,6,B2502
+A2503,George Taylor,6382752380,Prime Realty,5,B2503
+A2504,Kevin Wilkerson,6382752381,Prime Realty,3,B2504
+A2505,James Cummins,6382752382,Prime Realty,3,B2505
+A2506,Mary Villa,6382752383,Prime Realty,6,B2506
+A2507,Gina Kelly,6382752384,Prime Realty,6,B2507
+A2508,Curtis Henry,6382752385,Prime Realty,4,B2508
+A2509,Sara Ivey,6382752386,Prime Realty,4,B2509
+A2510,Bobby Boothe,6382752387,Prime Realty,4,B2510
+A2511,Betty Botti,6382752388,Prime Realty,4,B2511
+A2512,Brian Young,6382752389,Prime Realty,3,B2512
+A2513,John Turk,6382752390,Prime Realty,5,B2513
+A2514,Shannon Canty,6382752391,Prime Realty,6,B2514
+A2515,Loretta Gallagher,6382752392,Prime Realty,3,B2515
+A2516,Randy Davis,6382752393,Prime Realty,3,B2516
+A2517,Matthew Espinoza,6382752394,Prime Realty,3,B2517
+A2518,John Rodriquez,6382752395,Prime Realty,6,B2518
+A2519,Daniel Royal,6382752396,Prime Realty,4,B2519
+A2520,Judy Chiarelli,6382752397,Prime Realty,5,B2520
+A2521,Carmen Gallagher,6382752398,Prime Realty,5,B2521
+A2522,Freda Morris,6382752399,Prime Realty,3,B2522
+A2523,Rita Avilla,6382752400,Prime Realty,5,B2523
+A2524,Annmarie Samayoa,6382752401,Prime Realty,3,B2524
+A2525,Laura Clingan,6382752402,Prime Realty,5,B2525
+A2526,Nathan Howard,6382752403,Prime Realty,3,B2526
+A2527,Russell Norton,6382752404,Prime Realty,6,B2527
+A2528,Frieda Levels,6382752405,Prime Realty,6,B2528
+A2529,John Evans,6382752406,Prime Realty,4,B2529
+A2530,Noel Smith,6382752407,Prime Realty,3,B2530
+A2531,Christena Whitson,6382752408,Prime Realty,6,B2531
+A2532,Robert Higgs,6382752409,Prime Realty,3,B2532
+A2533,Chester Guerra,6382752410,Prime Realty,4,B2533
+A2534,Jason Campbell,6382752411,Prime Realty,4,B2534
+A2535,Ted Kirby,6382752412,Prime Realty,4,B2535
+A2536,Carlos Smith,6382752413,Prime Realty,5,B2536
+A2537,Nicholas Briseno,6382752414,Prime Realty,4,B2537
+A2538,Richard Pawlicki,6382752415,Prime Realty,5,B2538
+A2539,Norma Cabrera,6382752416,Prime Realty,4,B2539
+A2540,Ethan Felipe,6382752417,Prime Realty,3,B2540
+A2541,John Dowling,6382752418,Prime Realty,4,B2541
+A2542,June Hart,6382752419,Prime Realty,4,B2542
+A2543,Robert Vreeland,6382752420,Prime Realty,3,B2543
+A2544,Barbara Wylie,6382752421,Prime Realty,4,B2544
+A2545,James Mowatt,6382752422,Prime Realty,3,B2545
+A2546,Eric Daniels,6382752423,Prime Realty,5,B2546
+A2547,Lisa Acevedo,6382752424,Prime Realty,3,B2547
+A2548,Angela Edington,6382752425,Prime Realty,5,B2548
+A2549,Mark Anderson,6382752426,Prime Realty,3,B2549
+A2550,Eleanor Childers,6382752427,Prime Realty,4,B2550
+A2551,Jason Norris,6382752428,Prime Realty,6,B2551
+A2552,Kelvin Beyers,6382752429,Prime Realty,3,B2552
+A2553,Kathy Johnson,6382752430,Prime Realty,3,B2553
+A2554,Laura Hein,6382752431,Prime Realty,4,B2554
+A2555,Nancy Peters,6382752432,Prime Realty,3,B2555
+A2556,Michelle Sanchez,6382752433,Prime Realty,5,B2556
+A2557,John Glassman,6382752434,Prime Realty,3,B2557
+A2558,Michelle Sanges,6382752435,Prime Realty,4,B2558
+A2559,Randy Mckay,6382752436,Prime Realty,3,B2559
+A2560,Clinton Obrien,6382752437,Prime Realty,4,B2560
+A2561,Yolanda Randolph,6382752438,Prime Realty,4,B2561
+A2562,Cassandra Robinson,6382752439,Prime Realty,3,B2562
+A2563,Kenneth Cocks,6382752440,Prime Realty,3,B2563
+A2564,John Halligan,6382752441,Prime Realty,5,B2564
+A2565,Gladys Neri,6382752442,Prime Realty,5,B2565
+A2566,Grace Cross,6382752443,Prime Realty,6,B2566
+A2567,Rosa Morrison,6382752444,Prime Realty,4,B2567
+A2568,Steven Turner,6382752445,Prime Realty,5,B2568
+A2569,John Thornberry,6382752446,Prime Realty,6,B2569
+A2570,Timothy Smith,6382752447,Prime Realty,4,B2570
+A2571,Betty Clarke,6382752448,Prime Realty,6,B2571
+A2572,Valarie Rich,6382752449,Prime Realty,3,B2572
+A2573,Charles Margolis,6382752450,Prime Realty,6,B2573
+A2574,Wendy Welch,6382752451,Prime Realty,3,B2574
+A2575,Cruz Nave,6382752452,Prime Realty,3,B2575
+A2576,Janet Favero,6382752453,Prime Realty,3,B2576
+A2577,Robert Gray,6382752454,Prime Realty,6,B2577
+A2578,Michele Johnson,6382752455,Prime Realty,5,B2578
+A2579,James Fox,6382752456,Prime Realty,5,B2579
+A2580,Lawrence Vellekamp,6382752457,Prime Realty,3,B2580
+A2581,Samuel Mabe,6382752458,Prime Realty,5,B2581
+A2582,Francisco Mcloughlin,6382752459,Prime Realty,5,B2582
+A2583,Cynthia Abramowitz,6382752460,Prime Realty,3,B2583
+A2584,Steven Koontz,6382752461,Prime Realty,5,B2584
+A2585,Earline Nagase,6382752462,Prime Realty,6,B2585
+A2586,Allison Lachance,6382752463,Prime Realty,3,B2586
+A2587,Jessica Wright,6382752464,Prime Realty,3,B2587
+A2588,David Mendoza,6382752465,Prime Realty,4,B2588
+A2589,Vicente Walker,6382752466,Prime Realty,5,B2589
+A2590,Kathy Ward,6382752467,Prime Realty,4,B2590
+A2591,Gary Hund,6382752468,Prime Realty,4,B2591
+A2592,Jack Akers,6382752469,Prime Realty,6,B2592
+A2593,Sharon Rayford,6382752470,Prime Realty,4,B2593
+A2594,Larry Pugh,6382752471,Prime Realty,6,B2594
+A2595,Herman Hill,6382752472,Prime Realty,4,B2595
+A2596,Deborah Smith,6382752473,Prime Realty,4,B2596
+A2597,Jean Huff,6382752474,Prime Realty,6,B2597
+A2598,Jay Dewolf,6382752475,Prime Realty,6,B2598
+A2599,Arthur Johnson,6382752476,Prime Realty,4,B2599
+A2600,Douglas White,6382752477,Prime Realty,4,B2600
+A2601,Joe Welch,6382752478,Prime Realty,4,B2601
+A2602,Thomas Conrad,6382752479,Prime Realty,5,B2602
+A2603,Yvette Callender,6382752480,Prime Realty,3,B2603
+A2604,John Davidson,6382752481,Prime Realty,5,B2604
+A2605,Kenneth Henderson,6382752482,Prime Realty,3,B2605
+A2606,Virginia Jacquemin,6382752483,Prime Realty,3,B2606
+A2607,Sheila White,6382752484,Prime Realty,6,B2607
+A2608,Jeffrey Stanley,6382752485,Prime Realty,5,B2608
+A2609,Moises Hachting,6382752486,Prime Realty,3,B2609
+A2610,Terry Klein,6382752487,Prime Realty,5,B2610
+A2611,Edna Oconnell,6382752488,Prime Realty,5,B2611
+A2612,Beverly Crumley,6382752489,Prime Realty,3,B2612
+A2613,Caitlin Henson,6382752490,Prime Realty,5,B2613
+A2614,Wendy Vasquez,6382752491,Prime Realty,3,B2614
+A2615,Randy Schafer,6382752492,Prime Realty,3,B2615
+A2616,Leighann Kinney,6382752493,Prime Realty,5,B2616
+A2617,Beverly Walk,6382752494,Prime Realty,5,B2617
+A2618,Peggy Lowery,6382752495,Prime Realty,4,B2618
+A2619,Nancy Wallace,6382752496,Prime Realty,4,B2619
+A2620,Gertrude Brennan,6382752497,Prime Realty,5,B2620
+A2621,Kevin Russo,6382752498,Prime Realty,4,B2621
+A2622,Jennifer Stpeter,6382752499,Prime Realty,6,B2622
+A2623,Danielle Skerrett,6382752500,Prime Realty,3,B2623
+A2624,Shane Richie,6382752501,Prime Realty,5,B2624
+A2625,Patricia Figgins,6382752502,Prime Realty,3,B2625
+A2626,Jeffrey Oquendo,6382752503,Prime Realty,4,B2626
+A2627,Devon Mathis,6382752504,Prime Realty,3,B2627
+A2628,Edythe Zweier,6382752505,Prime Realty,3,B2628
+A2629,Lawrence Daffin,6382752506,Prime Realty,4,B2629
+A2630,Dorothy Risley,6382752507,Prime Realty,3,B2630
+A2631,Nicole Lambert,6382752508,Prime Realty,5,B2631
+A2632,Joe Guy,6382752509,Prime Realty,5,B2632
+A2633,Michael Robinson,6382752510,Prime Realty,4,B2633
+A2634,Deborah Rowe,6382752511,Prime Realty,6,B2634
+A2635,Ruth Smith,6382752512,Prime Realty,3,B2635
+A2636,Michael Turner,6382752513,Prime Realty,5,B2636
+A2637,Beth Harris,6382752514,Prime Realty,6,B2637
+A2638,Gerald Gray,6382752515,Prime Realty,6,B2638
+A2639,Claudia Phebus,6382752516,Prime Realty,6,B2639
+A2640,Cynthia Crews,6382752517,Prime Realty,4,B2640
+A2641,Michelle Baker,6382752518,Prime Realty,4,B2641
+A2642,Mary Davis,6382752519,Prime Realty,3,B2642
+A2643,David Lay,6382752520,Prime Realty,3,B2643
+A2644,Steven Thompson,6382752521,Prime Realty,4,B2644
+A2645,Rachel Kosky,6382752522,Prime Realty,5,B2645
+A2646,Amy Riggs,6382752523,Prime Realty,4,B2646
+A2647,Curtis Peer,6382752524,Prime Realty,5,B2647
+A2648,Johnny Turner,6382752525,Prime Realty,5,B2648
+A2649,Kim Haynes,6382752526,Prime Realty,6,B2649
+A2650,Margaret Ballinger,6382752527,Prime Realty,6,B2650
+A2651,Lilly Berends,6382752528,Prime Realty,5,B2651
+A2652,Stephanie Ellis,6382752529,Prime Realty,5,B2652
+A2653,Marion Waguespack,6382752530,Prime Realty,6,B2653
+A2654,Lucinda Ellison,6382752531,Prime Realty,6,B2654
+A2655,Tammy Pinnock,6382752532,Prime Realty,6,B2655
+A2656,Terry Ruiz,6382752533,Prime Realty,6,B2656
+A2657,Mary Jennings,6382752534,Prime Realty,5,B2657
+A2658,Billy Bay,6382752535,Prime Realty,4,B2658
+A2659,Karen Ludkowski,6382752536,Prime Realty,3,B2659
+A2660,Ramona Murdock,6382752537,Prime Realty,6,B2660
+A2661,Rose Searing,6382752538,Prime Realty,5,B2661
+A2662,Leonard Ochoa,6382752539,Prime Realty,6,B2662
+A2663,Dorothy Runion,6382752540,Prime Realty,3,B2663
+A2664,Tom Green,6382752541,Prime Realty,6,B2664
+A2665,Deborah Wenstrom,6382752542,Prime Realty,3,B2665
+A2666,James Ward,6382752543,Prime Realty,6,B2666
+A2667,Johnson Belmonte,6382752544,Prime Realty,5,B2667
+A2668,Jeremiah Macchiaroli,6382752545,Prime Realty,5,B2668
+A2669,Michael Tuley,6382752546,Prime Realty,4,B2669
+A2670,Roseanne Monroe,6382752547,Prime Realty,4,B2670
+A2671,Emily Gilmore,6382752548,Prime Realty,3,B2671
+A2672,Mary Walker,6382752549,Prime Realty,5,B2672
+A2673,Tamara Roberts,6382752550,Prime Realty,5,B2673
+A2674,Harold Miles,6382752551,Prime Realty,4,B2674
+A2675,Richard Lafave,6382752552,Prime Realty,6,B2675
+A2676,Jeffrey Curren,6382752553,Prime Realty,5,B2676
+A2677,Elaine Thruman,6382752554,Prime Realty,3,B2677
+A2678,Aimee Przedwiecki,6382752555,Prime Realty,5,B2678
+A2679,George Martinez,6382752556,Prime Realty,6,B2679
+A2680,Sanford Choi,6382752557,Prime Realty,5,B2680
+A2681,Pauline Brownell,6382752558,Prime Realty,6,B2681
+A2682,Brian Robinson,6382752559,Prime Realty,3,B2682
+A2683,Lucille Wood,6382752560,Prime Realty,3,B2683
+A2684,Bruce Maloney,6382752561,Prime Realty,3,B2684
+A2685,David Sternberg,6382752562,Prime Realty,6,B2685
+A2686,Thomas Mckennon,6382752563,Prime Realty,4,B2686
+A2687,Grace Hill,6382752564,Prime Realty,4,B2687
+A2688,Howard Kucera,6382752565,Prime Realty,5,B2688
+A2689,Melba Ward,6382752566,Prime Realty,4,B2689
+A2690,Antonio Hughes,6382752567,Prime Realty,5,B2690
+A2691,Barbara West,6382752568,Prime Realty,4,B2691
+A2692,Tonya Dunn,6382752569,Prime Realty,3,B2692
+A2693,Lawrence Caldwell,6382752570,Prime Realty,5,B2693
+A2694,Felecia Buban,6382752571,Prime Realty,4,B2694
+A2695,Sarah Sims,6382752572,Prime Realty,4,B2695
+A2696,Lance Gray,6382752573,Prime Realty,4,B2696
+A2697,Alberta Dowker,6382752574,Prime Realty,6,B2697
+A2698,Bernice Navarro,6382752575,Prime Realty,5,B2698
+A2699,Robert Tufts,6382752576,Prime Realty,4,B2699
+A2700,Carmen Bussen,6382752577,Prime Realty,4,B2700
+A2701,Mildred Jenkins,6382752578,Prime Realty,4,B2701
+A2702,Joseph Hersey,6382752579,Prime Realty,6,B2702
+A2703,Brian Pacini,6382752580,Prime Realty,6,B2703
+A2704,Matthew Queen,6382752581,Prime Realty,3,B2704
+A2705,Yvonne Gilbreath,6382752582,Prime Realty,4,B2705
+A2706,Henry Thompson,6382752583,Prime Realty,5,B2706
+A2707,Adam Jimenez,6382752584,Prime Realty,4,B2707
+A2708,Ruth Hanley,6382752585,Prime Realty,6,B2708
+A2709,Sandra Dewitt,6382752586,Prime Realty,6,B2709
+A2710,Anthony Delrosario,6382752587,Prime Realty,6,B2710
+A2711,Dennis Kost,6382752588,Prime Realty,3,B2711
+A2712,Henry Spencer,6382752589,Prime Realty,6,B2712
+A2713,Neil Burgess,6382752590,Prime Realty,5,B2713
+A2714,Anthony Vera,6382752591,Prime Realty,3,B2714
+A2715,Gabriel Hale,6382752592,Prime Realty,3,B2715
+A2716,Mark Eddy,6382752593,Prime Realty,4,B2716
+A2717,Lorraine Diamantopoulo,6382752594,Prime Realty,6,B2717
+A2718,Lawrence Sultan,6382752595,Prime Realty,5,B2718
+A2719,Debra Burns,6382752596,Prime Realty,3,B2719
+A2720,Jay Hurst,6382752597,Prime Realty,6,B2720
+A2721,Andres Johansen,6382752598,Prime Realty,6,B2721
+A2722,Ryan Hill,6382752599,Prime Realty,6,B2722
+A2723,Joseph Penix,6382752600,Prime Realty,6,B2723
+A2724,Ronald Toller,6382752601,Prime Realty,3,B2724
+A2725,Ray Baichan,6382752602,Prime Realty,5,B2725
+A2726,Clarence Berg,6382752603,Prime Realty,6,B2726
+A2727,Arthur Ostrye,6382752604,Prime Realty,3,B2727
+A2728,Robert Frazier,6382752605,Prime Realty,5,B2728
+A2729,Peggy Stevens,6382752606,Prime Realty,3,B2729
+A2730,Shannon Derrick,6382752607,Prime Realty,4,B2730
+A2731,Scott Karam,6382752608,Prime Realty,4,B2731
+A2732,Patricia Munyon,6382752609,Prime Realty,5,B2732
+A2733,Brian Arnold,6382752610,Prime Realty,6,B2733
+A2734,Christine Clark,6382752611,Prime Realty,5,B2734
+A2735,Cedric Fuller,6382752612,Prime Realty,3,B2735
+A2736,Richard Rodriguez,6382752613,Prime Realty,5,B2736
+A2737,Brian Lange,6382752614,Prime Realty,6,B2737
+A2738,Kenneth Shalash,6382752615,Prime Realty,6,B2738
+A2739,Tamara Davis,6382752616,Prime Realty,3,B2739
+A2740,Lisa Brown,6382752617,Prime Realty,5,B2740
+A2741,Joyce Goss,6382752618,Prime Realty,5,B2741
+A2742,Bruce Hancock,6382752619,Prime Realty,4,B2742
+A2743,Marie Williams,6382752620,Prime Realty,6,B2743
+A2744,Jessica Clure,6382752621,Prime Realty,6,B2744
+A2745,Michael Reed,6382752622,Prime Realty,3,B2745
+A2746,Brittany Taylor,6382752623,Prime Realty,6,B2746
+A2747,Hattie Ford,6382752624,Prime Realty,4,B2747
+A2748,Margarita Harris,6382752625,Prime Realty,3,B2748
+A2749,Victoria Dupes,6382752626,Prime Realty,4,B2749
+A2750,Rhonda Walden,6382752627,Prime Realty,3,B2750
+A2751,William Medved,6382752628,Prime Realty,4,B2751
+A2752,Louise Parrish,6382752629,Prime Realty,6,B2752
+A2753,Brian Latigo,6382752630,Prime Realty,6,B2753
+A2754,Rose Leon,6382752631,Prime Realty,3,B2754
+A2755,Veronica Green,6382752632,Prime Realty,3,B2755
+A2756,Lenore Farmer,6382752633,Prime Realty,3,B2756
+A2757,Nancy Carroll,6382752634,Prime Realty,5,B2757
+A2758,Vincent Macfarlane,6382752635,Prime Realty,5,B2758
+A2759,Missy Yarber,6382752636,Prime Realty,4,B2759
+A2760,Ryan Allen,6382752637,Prime Realty,6,B2760
+A2761,Herbert Johnston,6382752638,Prime Realty,6,B2761
+A2762,Dorothy Follett,6382752639,Prime Realty,5,B2762
+A2763,Sergio Watson,6382752640,Prime Realty,6,B2763
+A2764,Eileen Parrish,6382752641,Prime Realty,3,B2764
+A2765,Sharon Barks,6382752642,Prime Realty,6,B2765
+A2766,Germaine Sweeney,6382752643,Prime Realty,4,B2766
+A2767,Herbert Hockins,6382752644,Prime Realty,3,B2767
+A2768,Betty Hight,6382752645,Prime Realty,3,B2768
+A2769,Elizabeth Marr,6382752646,Prime Realty,5,B2769
+A2770,Kevin Laporta,6382752647,Prime Realty,3,B2770
+A2771,Daisy Hall,6382752648,Prime Realty,5,B2771
+A2772,David Gonzales,6382752649,Prime Realty,6,B2772
+A2773,Kelly Patterson,6382752650,Prime Realty,3,B2773
+A2774,Elizabeth Newsom,6382752651,Prime Realty,6,B2774
+A2775,Tina Love,6382752652,Prime Realty,6,B2775
+A2776,Garry Ruud,6382752653,Prime Realty,6,B2776
+A2777,Kurt Lewis,6382752654,Prime Realty,4,B2777
+A2778,Carol Flores,6382752655,Prime Realty,5,B2778
+A2779,John Moyer,6382752656,Prime Realty,4,B2779
+A2780,Vickie Mankowski,6382752657,Prime Realty,3,B2780
+A2781,James Scott,6382752658,Prime Realty,4,B2781
+A2782,William Jacks,6382752659,Prime Realty,4,B2782
+A2783,Paul Mattson,6382752660,Prime Realty,4,B2783
+A2784,Tyrone Green,6382752661,Prime Realty,3,B2784
+A2785,Kim Juelfs,6382752662,Prime Realty,6,B2785
+A2786,Layne White,6382752663,Prime Realty,5,B2786
+A2787,Linda Johnson,6382752664,Prime Realty,6,B2787
+A2788,Anthony Taylor,6382752665,Prime Realty,3,B2788
+A2789,George Singer,6382752666,Prime Realty,3,B2789
+A2790,Adam Uutela,6382752667,Prime Realty,5,B2790
+A2791,Anthony Desbiens,6382752668,Prime Realty,3,B2791
+A2792,Jonathan Hardin,6382752669,Prime Realty,3,B2792
+A2793,Allegra Barry,6382752670,Prime Realty,4,B2793
+A2794,Pedro Albers,6382752671,Prime Realty,6,B2794
+A2795,Mercedes Yazzie,6382752672,Prime Realty,4,B2795
+A2796,Bessie Winter,6382752673,Prime Realty,4,B2796
+A2797,Justin Gabe,6382752674,Prime Realty,4,B2797
+A2798,Victor Berger,6382752675,Prime Realty,6,B2798
+A2799,Judith Rogers,6382752676,Prime Realty,3,B2799
+A2800,Billy Seitz,6382752677,Prime Realty,4,B2800
+A2801,Betty Barker,6382752678,Prime Realty,6,B2801
+A2802,Michael Yamamoto,6382752679,Prime Realty,6,B2802
+A2803,Hoyt Feurtado,6382752680,Prime Realty,6,B2803
+A2804,Nedra Cannon,6382752681,Prime Realty,3,B2804
+A2805,Vivian Robinson,6382752682,Prime Realty,5,B2805
+A2806,Margie Adams,6382752683,Prime Realty,5,B2806
+A2807,Dorothy Owens,6382752684,Prime Realty,5,B2807
+A2808,Scott Deleon,6382752685,Prime Realty,6,B2808
+A2809,James Helmer,6382752686,Prime Realty,5,B2809
+A2810,Wyatt Langdon,6382752687,Prime Realty,3,B2810
+A2811,Wilburn Puleo,6382752688,Prime Realty,3,B2811
+A2812,Marlene Suarez,6382752689,Prime Realty,5,B2812
+A2813,Timothy Fournier,6382752690,Prime Realty,6,B2813
+A2814,Bennie Gross,6382752691,Prime Realty,3,B2814
+A2815,Kimberly Skorupa,6382752692,Prime Realty,6,B2815
+A2816,Patricia Mcgraw,6382752693,Prime Realty,4,B2816
+A2817,Jamie Blatt,6382752694,Prime Realty,5,B2817
+A2818,Ronnie Glennon,6382752695,Prime Realty,4,B2818
+A2819,Martha Winokur,6382752696,Prime Realty,5,B2819
+A2820,Stephanie Bell,6382752697,Prime Realty,6,B2820
+A2821,Steve Sturgis,6382752698,Prime Realty,4,B2821
+A2822,Cheryl Cope,6382752699,Prime Realty,6,B2822
+A2823,Patrick Balch,6382752700,Prime Realty,4,B2823
+A2824,Curtis Scholtens,6382752701,Prime Realty,3,B2824
+A2825,Tyler Johnson,6382752702,Prime Realty,3,B2825
+A2826,Martha White,6382752703,Prime Realty,6,B2826
+A2827,Daniel Genther,6382752704,Prime Realty,6,B2827
+A2828,Sara Campbell,6382752705,Prime Realty,3,B2828
+A2829,Patrick Baxter,6382752706,Prime Realty,3,B2829
+A2830,Ashley Zarrella,6382752707,Prime Realty,5,B2830
+A2831,Jose Sheets,6382752708,Prime Realty,3,B2831
+A2832,Mabel Gordon,6382752709,Prime Realty,4,B2832
+A2833,Deanna Martin,6382752710,Prime Realty,4,B2833
+A2834,Domenica Lopez,6382752711,Prime Realty,5,B2834
+A2835,Aaron Wagner,6382752712,Prime Realty,6,B2835
+A2836,Vernon Walker,6382752713,Prime Realty,6,B2836
+A2837,Randy Trapp,6382752714,Prime Realty,5,B2837
+A2838,Antoinette Menendez,6382752715,Prime Realty,3,B2838
+A2839,Rose Holmes,6382752716,Prime Realty,5,B2839
+A2840,Gregory Saldivar,6382752717,Prime Realty,5,B2840
+A2841,Eliseo Brown,6382752718,Prime Realty,4,B2841
+A2842,Michael Edwards,6382752719,Prime Realty,4,B2842
+A2843,John Marchan,6382752720,Prime Realty,5,B2843
+A2844,Arthur Wittke,6382752721,Prime Realty,6,B2844
+A2845,Reed Condra,6382752722,Prime Realty,3,B2845
+A2846,Emilia Wood,6382752723,Prime Realty,3,B2846
+A2847,Betty Theuret,6382752724,Prime Realty,6,B2847
+A2848,Trisha Chisler,6382752725,Prime Realty,5,B2848
+A2849,Lucien Tuck,6382752726,Prime Realty,4,B2849
+A2850,Harry Bryant,6382752727,Prime Realty,5,B2850
+A2851,Henrietta Beaver,6382752728,Prime Realty,5,B2851
+A2852,Robert Hagadone,6382752729,Prime Realty,4,B2852
+A2853,Robin Henderson,6382752730,Prime Realty,5,B2853
+A2854,Jason Lewis,6382752731,Prime Realty,3,B2854
+A2855,John Grandfield,6382752732,Prime Realty,5,B2855
+A2856,Frank Honse,6382752733,Prime Realty,6,B2856
+A2857,Jamie Brown,6382752734,Prime Realty,3,B2857
+A2858,Sandra Cavanaugh,6382752735,Prime Realty,5,B2858
+A2859,Joshua Keen,6382752736,Prime Realty,4,B2859
+A2860,Thomas Raney,6382752737,Prime Realty,3,B2860
+A2861,Ryan Lapp,6382752738,Prime Realty,3,B2861
+A2862,Peter Mandeville,6382752739,Prime Realty,3,B2862
+A2863,Janet Borkowski,6382752740,Prime Realty,3,B2863
+A2864,Brant Mcclendon,6382752741,Prime Realty,3,B2864
+A2865,Phillip Crowley,6382752742,Prime Realty,5,B2865
+A2866,Jamie Camacho,6382752743,Prime Realty,5,B2866
+A2867,Thomas Tuggle,6382752744,Prime Realty,5,B2867
+A2868,Thomas Martini,6382752745,Prime Realty,5,B2868
+A2869,Cletus Adams,6382752746,Prime Realty,3,B2869
+A2870,Allan Burkman,6382752747,Prime Realty,4,B2870
+A2871,Orville Hoover,6382752748,Prime Realty,5,B2871
+A2872,Melissa Jacobs,6382752749,Prime Realty,6,B2872
+A2873,Dora Leary,6382752750,Prime Realty,5,B2873
+A2874,James Levasseur,6382752751,Prime Realty,3,B2874
+A2875,Edward Piazza,6382752752,Prime Realty,3,B2875
+A2876,Marcus Gummer,6382752753,Prime Realty,6,B2876
+A2877,Lillian Hernandez,6382752754,Prime Realty,6,B2877
+A2878,Donna Bair,6382752755,Prime Realty,5,B2878
+A2879,Vernon Leri,6382752756,Prime Realty,3,B2879
+A2880,John Donahue,6382752757,Prime Realty,4,B2880
+A2881,Jessica Morris,6382752758,Prime Realty,4,B2881
+A2882,Larry Leanos,6382752759,Prime Realty,6,B2882
+A2883,Shirley Smith,6382752760,Prime Realty,3,B2883
+A2884,Mildred Akins,6382752761,Prime Realty,6,B2884
+A2885,Kevin Webb,6382752762,Prime Realty,5,B2885
+A2886,Joseph Bailey,6382752763,Prime Realty,6,B2886
+A2887,Abbie Swan,6382752764,Prime Realty,4,B2887
+A2888,Cristal Rodriguez,6382752765,Prime Realty,6,B2888
+A2889,Anthony Mallon,6382752766,Prime Realty,5,B2889
+A2890,Abigail Byers,6382752767,Prime Realty,6,B2890
+A2891,Wanda Culbreath,6382752768,Prime Realty,3,B2891
+A2892,Amy Budds,6382752769,Prime Realty,5,B2892
+A2893,Mary Tratar,6382752770,Prime Realty,4,B2893
+A2894,Margo Stark,6382752771,Prime Realty,4,B2894
+A2895,Allen Rose,6382752772,Prime Realty,3,B2895
+A2896,Rachel Atchison,6382752773,Prime Realty,3,B2896
+A2897,Vanessa Pierce,6382752774,Prime Realty,3,B2897
+A2898,James Marshall,6382752775,Prime Realty,4,B2898
+A2899,Richard Hills,6382752776,Prime Realty,3,B2899
+A2900,June Deshong,6382752777,Prime Realty,5,B2900
+A2901,Sean Everette,6382752778,Prime Realty,5,B2901
+A2902,Martha Johnson,6382752779,Prime Realty,6,B2902
+A2903,Richard Hammond,6382752780,Prime Realty,3,B2903
+A2904,Monica Guerrero,6382752781,Prime Realty,6,B2904
+A2905,Beulah Clover,6382752782,Prime Realty,6,B2905
+A2906,Richard Pinto,6382752783,Prime Realty,4,B2906
+A2907,Janet King,6382752784,Prime Realty,4,B2907
+A2908,Aleta Patino,6382752785,Prime Realty,3,B2908
+A2909,Larry Campbell,6382752786,Prime Realty,5,B2909
+A2910,Joan Restivo,6382752787,Prime Realty,5,B2910
+A2911,James Owens,6382752788,Prime Realty,6,B2911
+A2912,Eugene West,6382752789,Prime Realty,4,B2912
+A2913,Joel Gibbons,6382752790,Prime Realty,3,B2913
+A2914,Johnathan Dong,6382752791,Prime Realty,5,B2914
+A2915,John Mcdaniel,6382752792,Prime Realty,5,B2915
+A2916,Judy Mattox,6382752793,Prime Realty,4,B2916
+A2917,Peggy Scarborough,6382752794,Prime Realty,5,B2917
+A2918,Norma Stanfill,6382752795,Prime Realty,4,B2918
+A2919,Maria Alvares,6382752796,Prime Realty,5,B2919
+A2920,Wayne Harris,6382752797,Prime Realty,6,B2920
+A2921,Jeremy Adams,6382752798,Prime Realty,6,B2921
+A2922,Clara Smart,6382752799,Prime Realty,3,B2922
+A2923,Carl Belvin,6382752800,Prime Realty,6,B2923
+A2924,Sean Becker,6382752801,Prime Realty,6,B2924
+A2925,Gertrude May,6382752802,Prime Realty,3,B2925
+A2926,Edward Charles,6382752803,Prime Realty,6,B2926
+A2927,Samuel Chavez,6382752804,Prime Realty,6,B2927
+A2928,Robin Cooley,6382752805,Prime Realty,6,B2928
+A2929,Jacqueline Stifter,6382752806,Prime Realty,6,B2929
+A2930,Stacey Cannon,6382752807,Prime Realty,4,B2930
+A2931,Cheri Lanier,6382752808,Prime Realty,3,B2931
+A2932,Rebecca Longmore,6382752809,Prime Realty,6,B2932
+A2933,Nicole Mcgee,6382752810,Prime Realty,5,B2933
+A2934,Ramon Kim,6382752811,Prime Realty,6,B2934
+A2935,Edward Chambers,6382752812,Prime Realty,5,B2935
+A2936,Robert Lemm,6382752813,Prime Realty,6,B2936
+A2937,Jackie Sheets,6382752814,Prime Realty,4,B2937
+A2938,Salvador Bolden,6382752815,Prime Realty,4,B2938
+A2939,Pamela Nielsen,6382752816,Prime Realty,6,B2939
+A2940,Sandra Smith,6382752817,Prime Realty,5,B2940
+A2941,Alberta Lewis,6382752818,Prime Realty,4,B2941
+A2942,Curtis Ford,6382752819,Prime Realty,5,B2942
+A2943,Kevin Gold,6382752820,Prime Realty,3,B2943
+A2944,Kimberly Alberts,6382752821,Prime Realty,6,B2944
+A2945,Ralph Bostic,6382752822,Prime Realty,5,B2945
+A2946,Joseph Earnest,6382752823,Prime Realty,3,B2946
+A2947,Nathaniel Padilla,6382752824,Prime Realty,3,B2947
+A2948,Damon Crutcher,6382752825,Prime Realty,6,B2948
+A2949,Nicholas Smith,6382752826,Prime Realty,5,B2949
+A2950,Mary Johnson,6382752827,Prime Realty,3,B2950
+A2951,Patricia Steinberger,6382752828,Prime Realty,6,B2951
+A2952,Lauralee Sanchez,6382752829,Prime Realty,4,B2952
+A2953,Geoffrey Whatley,6382752830,Prime Realty,5,B2953
+A2954,Laura Darling,6382752831,Prime Realty,3,B2954
+A2955,Sandra Dean,6382752832,Prime Realty,3,B2955
+A2956,Katherine Lowe,6382752833,Prime Realty,3,B2956
+A2957,Frank Anderson,6382752834,Prime Realty,4,B2957
+A2958,Ray Giorgi,6382752835,Prime Realty,3,B2958
+A2959,Thomas Graham,6382752836,Prime Realty,6,B2959
+A2960,Charles Jones,6382752837,Prime Realty,3,B2960
+A2961,Walter Montgomery,6382752838,Prime Realty,4,B2961
+A2962,Robert Medrano,6382752839,Prime Realty,3,B2962
+A2963,Letty Cook,6382752840,Prime Realty,4,B2963
+A2964,Catherine Arvelo,6382752841,Prime Realty,6,B2964
+A2965,Alma Murphy,6382752842,Prime Realty,6,B2965
+A2966,Maria Sweezer,6382752843,Prime Realty,6,B2966
+A2967,Nicole Welch,6382752844,Prime Realty,5,B2967
+A2968,Sherry Ollendick,6382752845,Prime Realty,4,B2968
+A2969,Scott Randolph,6382752846,Prime Realty,6,B2969
+A2970,Arden Boyd,6382752847,Prime Realty,5,B2970
+A2971,Janice Glatt,6382752848,Prime Realty,5,B2971
+A2972,Rebecca Bay,6382752849,Prime Realty,3,B2972
+A2973,Ellis Redman,6382752850,Prime Realty,5,B2973
+A2974,Petrina Nugent,6382752851,Prime Realty,4,B2974
+A2975,Sam Mellerson,6382752852,Prime Realty,4,B2975
+A2976,Beatrice Campbell,6382752853,Prime Realty,3,B2976
+A2977,Jessica Thompson,6382752854,Prime Realty,4,B2977
+A2978,Louann Ramsey,6382752855,Prime Realty,5,B2978
+A2979,Angela Noble,6382752856,Prime Realty,5,B2979
+A2980,Betty English,6382752857,Prime Realty,5,B2980
+A2981,Crystal Song,6382752858,Prime Realty,5,B2981
+A2982,Yvonne Smith,6382752859,Prime Realty,6,B2982
+A2983,Rene Pershall,6382752860,Prime Realty,6,B2983
+A2984,Joshua Buffum,6382752861,Prime Realty,4,B2984
+A2985,Eric Fields,6382752862,Prime Realty,3,B2985
+A2986,Richard Colon,6382752863,Prime Realty,3,B2986
+A2987,Felton Hardy,6382752864,Prime Realty,3,B2987
+A2988,Benjamin Mitchell,6382752865,Prime Realty,3,B2988
+A2989,Rafael Martin,6382752866,Prime Realty,5,B2989
+A2990,Brett Ferrell,6382752867,Prime Realty,6,B2990
+A2991,Joseph Rathbone,6382752868,Prime Realty,3,B2991
+A2992,Louise Glassman,6382752869,Prime Realty,5,B2992
+A2993,Joshua Oshell,6382752870,Prime Realty,3,B2993
+A2994,James York,6382752871,Prime Realty,6,B2994
+A2995,Scott Jones,6382752872,Prime Realty,6,B2995
+A2996,Eric Roblez,6382752873,Prime Realty,6,B2996
+A2997,Janay Brown,6382752874,Prime Realty,5,B2997
+A2998,Valerie Gates,6382752875,Prime Realty,5,B2998
+A2999,Anthony Fraser,6382752876,Prime Realty,4,B2999
+A3000,Ronald Smith,6382752877,Prime Realty,3,B3000
